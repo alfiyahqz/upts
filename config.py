@@ -14,16 +14,16 @@ RESULTS_DIR.mkdir(exist_ok=True)
 # ==================== DATA PARAMETERS ====================
 # ⚠️ UPDATE THIS BASED ON YOUR ACTUAL CLASSES
 CLASS_MAPPING = {
-    'Adhd': 0,
-    'Anxiety': 1,
-    'Bipolar': 2,
-    'Depression': 3,
-    'Ptsd': 4,
-    'Asd': 5,
-    'Ocd': 6,
-    'Eating': 7,
-    'Control': 8,
-    'Schizophrenia': 9
+    'ADHD': 0,
+    'ANXIETY': 1,
+    'BIPOLAR': 2,
+    'DEPRESSION': 3,
+    'PTSD': 4,
+    'AUTISM': 5,
+    'OCD': 6,
+    'EATING DISORDER': 7,
+    'CONTROL': 8,
+    'SCHIZOPHRENIA': 9
 }
 
 # ⚠️ OR if your classes are lowercase:
