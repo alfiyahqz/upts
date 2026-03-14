@@ -1,0 +1,1103 @@
+class,tweet_id,day,time,tweet,tweet_favorite_count,tweet_retweet_count,tweet_source,user_id,user_followers_count,user_friends_count,user_listed_count,user_statuses_count
+CONTROL,1551389445835849731,2022-07-25,02:10:41,"""2 people followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1549936151800184834,2022-07-21,01:55:49,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1548425972872912897,2022-07-16,21:54:54,"""2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1546429597679587328,2022-07-11,09:42:02,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1544704438547451904,2022-07-06,15:26:52,"""3 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1542878901348843522,2022-07-01,14:32:50,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1540951481645506563,2022-06-26,06:53:57,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1539303190151286784,2022-06-21,17:44:14,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1537692848891510784,2022-06-17,07:05:18,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1533976895678824449,2022-06-07,00:59:26,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1532895231137521669,2022-06-04,01:21:17,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1525789678741356544,2022-05-15,10:46:21,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1524379134981513219,2022-05-11,13:21:22,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1522884826386341888,2022-05-07,10:23:31,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1521443327748587521,2022-05-03,10:55:31,"""one person followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1518537844767268865,2022-04-25,10:30:09,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1517051179486027776,2022-04-21,08:02:41,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1515644674689712128,2022-04-17,10:53:44,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1514419276702265344,2022-04-14,01:44:26,"""one person followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1513325023443959811,2022-04-11,01:16:16,"""one person followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1511954155463655432,2022-04-07,06:28:56,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1510560309890723840,2022-04-03,10:10:17,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1506427550624538625,2022-03-23,00:28:10,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1502646791208058882,2022-03-12,14:04:47,"""2 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1501138657666809859,2022-03-08,10:12:00,"""3 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1498211714235609092,2022-02-28,08:21:22,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1496790989398511617,2022-02-24,10:15:55,"""3 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1493901104194666497,2022-02-16,10:52:33,"""5 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1493041719025315850,2022-02-14,01:57:39,"""$renbuys HTTPURL""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1493035949726609416,2022-02-14,01:34:44,"""Get ready! Play #TUMSworthy Big Game Trivia and you could WIN $56,000! One day only. Up to 5 winners. Good luck! #sweepstakes HTTPURL""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1493033506376724487,2022-02-14,01:25:01,"""@USER @USER @USER I concur!  $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1493032068334465024,2022-02-14,01:19:18,"""@USER @USER @USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1493031947022610440,2022-02-14,01:18:50,"""Get ready! Play #TUMSworthy Big Game Trivia and you could WIN $56,000! One day only. Up to 5 winners. Good luck! #sweepstakes HTTPURL""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1493028527314251776,2022-02-14,01:05:14,"""$renbuys HTTPURL""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1493028061754937344,2022-02-14,01:03:23,"""@USER @USER @USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1492452828098576390,2022-02-12,10:57:37,"""one person followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1491766335721938947,2022-02-10,13:29:44,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1490982695484248064,2022-02-08,09:35:50,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1488076886697820161,2022-01-31,09:09:11,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1486648675988393989,2022-01-27,10:33:59,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1480847529432469504,2022-01-11,10:22:18,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1472525252756393984,2021-12-19,11:12:33,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1468144077254369285,2021-12-07,09:03:19,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1463913178681810944,2021-11-25,16:51:14,"""@USER @USER $renbuys #CashApp13plus""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1463837022599143426,2021-11-25,11:48:37,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1462857066171842565,2021-11-22,18:54:37,"""$renbuys HTTPURL""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1462421704521793538,2021-11-21,14:04:39,"""one person followed me and 4 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1461030621837410316,2021-11-17,17:56:59,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1458087828634710016,2021-11-09,15:03:22,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1456617997972430849,2021-11-05,13:42:48,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1452192273983283203,2021-10-24,08:36:33,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1450714421320376321,2021-10-20,06:44:05,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1449197093441130498,2021-10-16,02:14:46,"""one person followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1446233155468468233,2021-10-07,21:57:08,"""2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1444622334313304065,2021-10-03,11:16:18,"""one person followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1443362657982197760,2021-09-29,23:50:48,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1441765146603532290,2021-09-25,14:02:52,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1439952045558091777,2021-09-20,13:58:15,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1438524753430597633,2021-09-16,15:26:42,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1437017277417893895,2021-09-12,11:36:32,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1435584488529072128,2021-09-08,12:43:08,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1434166751332376586,2021-09-04,14:49:33,"""2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1432712740750168069,2021-08-31,14:31:50,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1431376711460048896,2021-08-27,22:02:56,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1427002471776464900,2021-08-15,20:21:16,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1425554095948148739,2021-08-11,20:25:56,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1424135064175222789,2021-08-07,22:27:13,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1422646505995898880,2021-08-03,19:52:13,"""2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1421239404224520200,2021-07-30,22:40:53,"""2 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1419761722546606083,2021-07-26,20:49:07,"""2 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1418346808674226176,2021-07-22,23:06:45,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1416852423763808261,2021-07-18,20:08:36,"""2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1415210221098651651,2021-07-14,07:23:04,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1413752287684616193,2021-07-10,06:49:46,"""2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1410620466470035460,2021-07-01,15:25:01,"""@USER @USER $renbuys #CashAppForHotties  Cant wait!!!!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1410493421484134403,2021-07-01,07:00:12,"""@USER @USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1410433705345261570,2021-07-01,03:02:54,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1409301934503256065,2021-06-28,00:05:39,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1408222123747856385,2021-06-25,00:34:52,"""one person followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1407151448815771649,2021-06-22,01:40:23,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1405810825579876352,2021-06-18,08:53:14,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1404595194268467200,2021-06-15,00:22:45,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1403149280106450950,2021-06-11,00:37:12,"""one person followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1401736347409342468,2021-06-07,03:02:42,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1399975767744860162,2021-06-02,06:26:47,"""one person followed me and 3 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1398396753422991361,2021-05-28,21:52:21,"""3 people followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1396926056167268354,2021-05-24,20:28:20,"""3 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1395460343787311109,2021-05-20,19:24:07,"""one person followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1393991067373080577,2021-05-16,18:05:44,"""one person followed me and 4 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1392486885818253315,2021-05-12,14:28:39,"""one person followed me and 3 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1391037057091448837,2021-05-08,14:27:33,"""4 people followed me and 4 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1389551640668254208,2021-05-04,12:05:02,"""3 people followed me and 3 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1388101806006341634,2021-04-30,12:03:54,"""6 people followed me and 4 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1387755145027534850,2021-04-29,13:06:24,"""@USER Eagle""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1386678164236165120,2021-04-26,13:46:52,"""one person followed me and 3 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1386439377228730369,2021-04-25,21:58:00,"""@USER Congrats!!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1385201059711393792,2021-04-22,11:57:23,"""5 people followed me and 5 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1383051356093751302,2021-04-16,13:35:13,"""10 people followed me and 3 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1382880717252796419,2021-04-16,02:17:10,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1381524433635000321,2021-04-12,08:27:47,"""2 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1380342792933769225,2021-04-09,02:12:22,"""2 people followed me and 6 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1379237849669722115,2021-04-06,01:01:43,"""one person followed me and 6 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1378300906299666437,2021-04-03,10:58:38,"""@USER @USER Prooooof.  Good luck! HTTPURL""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1377877723301867521,2021-04-02,06:57:03,"""one person followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1376429562784059394,2021-03-29,07:02:35,"""5 people followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1375054461425614851,2021-03-25,11:58:25,"""3 people followed me and 6 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1373823369108406272,2021-03-22,02:26:30,"""4 people followed me and 5 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1372435793772478464,2021-03-18,06:32:46,"""3 people followed me and 3 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1371014953700843521,2021-03-14,08:26:51,"""2 people followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1370212283796877314,2021-03-12,03:17:20,"""@USER @USER #cashapptrivia @USER So hypeeeee HTTPURL""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1370211990627610633,2021-03-12,03:16:10,"""@USER @USER #cashapptrivia is starting soon.   Theres no greater game to play after everyone else is asleep!!! $renbuys HTTPURL""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1370211740533800961,2021-03-12,03:15:10,"""@USER @USER #cashapptrivia is gonna pass you by if you dont get on this HYPE TRAIN!!! HTTPURL""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1370211383506255874,2021-03-12,03:13:45,"""@USER @USER #cashapptrivia is starting and you arent HYPE ENOUGH!!!! $renbuys HTTPURL""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1370211017087721477,2021-03-12,03:12:18,"""#cashapptrivia @USER Its the best thing going!!!! $renbuys @USER HTTPURL""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1370210688111624201,2021-03-12,03:10:59,"""#cashapptrivia @USER the best trivia game going after 10pm!!""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1369691220704964610,2021-03-10,16:46:49,"""@USER hey hey""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1369545486617751556,2021-03-10,07:07:43,"""6 people followed me and 3 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1368158418092105731,2021-03-06,11:16:00,"""3 people followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1366672232186077185,2021-03-02,08:50:26,"""6 people followed me and 5 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1365794276681129985,2021-02-27,22:41:45,"""@USER @USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1365794100801392642,2021-02-27,22:41:03,"""@USER $renbuys""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1365493755306983433,2021-02-27,02:47:35,"""5 people followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1365315726643523585,2021-02-26,15:00:10,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1364413316026793989,2021-02-24,03:14:18,"""5 people followed me and 4 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1363316111366881280,2021-02-21,02:34:24,"""4 people followed me and 4 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1363108381867839498,2021-02-20,12:48:58,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1363107882791747587,2021-02-20,12:46:59,"""@USER $renbuys.  Could really use a hand. Have been sleeping in my car and its 4 degrees out""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1363107645507461120,2021-02-20,12:46:02,"""@USER Could really use a hand.  Been sleeping in my car and its 4 degrees out.  Renbuts@HTTPURL""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1362690634918875140,2021-02-19,09:08:59,"""@USER $renbuys.   Basically  living in my car and its coooold""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1362690330940866563,2021-02-19,09:07:47,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1362229018129498117,2021-02-18,02:34:41,"""4 people followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1361143374020038657,2021-02-15,02:40:43,"""5 people followed me and 4 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1360069048147525633,2021-02-12,03:31:44,"""9 people followed me and 5 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1360022657593409540,2021-02-12,00:27:24,"""#cashapptrivia @USER If people are sending you cashapp money , send that my way and really make them mad!! $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1360012289886351363,2021-02-11,23:46:12,"""#cashapptrivia Still time to get on and PLAY!!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1360011752612765698,2021-02-11,23:44:04,"""#cashapptrivia Ohhhhhhhhhhh Yeahhhhhhhhhhhhhhhhhh""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1359316034092732421,2021-02-10,01:39:32,"""@USER Happy pizza day!!!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1359315397724487684,2021-02-10,01:37:00,"""@USER @USER $renbuys.  #nesslyaffairs way to goooo!!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1359314012387893252,2021-02-10,01:31:30,"""@USER $renbuys.   Thanks for helping someone out.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1359130225829961728,2021-02-09,13:21:11,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1358966286563295242,2021-02-09,02:29:45,"""2 people followed me and 4 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1357593964916924416,2021-02-05,07:36:38,"""3 people followed me and 8 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1356154037847126016,2021-02-01,08:14:53,"""13 people followed me and 4 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1356048584580411398,2021-02-01,01:15:51,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1356040429897211908,2021-02-01,00:43:27,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1356039238547087362,2021-02-01,00:38:43,"""@USER $renbuys.  Please I need this so badly.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1356038738661552141,2021-02-01,00:36:43,"""@USER @USER They have a big show tonight. Royal Rumble""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1356033729077121025,2021-02-01,00:16:49,"""@USER Cap means something is fake or BS""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1356033615214346245,2021-02-01,00:16:22,"""@USER $renbuys.  Basically sleeping in my car tonight.  Please consider it for gas and something to eat.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1356032851469283328,2021-02-01,00:13:20,"""@USER Honestly I need to keep gas in my car because Im sleeping there tonight.  Please consider it $renbuys.  #AnythingIsPossible""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1356032567976349700,2021-02-01,00:12:12,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1356018600650354691,2021-01-31,23:16:42,"""@USER Done!! HTTPURL""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1356018294344601603,2021-01-31,23:15:29,"""If you cant help please retweet my last tweet""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1356012026766749703,2021-01-31,22:50:35,"""@USER If I could borrow 20-30 bucks Ill pay it back tomorrow.  $renbuys.  Sleeping in my car tonight probably and running out of gas. Congrats though!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1356011156251488258,2021-01-31,22:47:07,"""@USER @USER Just a few bucks for gas in my tank or somethjng to eat.   Dont have a lot  options until tomorrow or the next day. $renbuys. Please someone""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1356009713398390790,2021-01-31,22:41:23,"""I have almost no gas in my car and nothing to eat until at least tomorrow.  If anyone could help me with 20 or 30 bucks cashapp or Venmo, I would  be super grateful.  Could even pay it back later this week.  Please consider it, hard to keep my head up here.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1356007600945590272,2021-01-31,22:33:00,"""@USER $renbuys.  At the end of my rope here.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1356000113253085190,2021-01-31,22:03:14,"""@USER its been too long. Please give @USER @USER and @USER their access back!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1356000010039648257,2021-01-31,22:02:50,"""@USER pleas reinstate @USER @USER and @USER""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1355999732435476486,2021-01-31,22:01:44,"""@USER Always on!!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1355999615573766152,2021-01-31,22:01:16,"""@USER @USER Yay!  Hope its me!!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1355999103671529478,2021-01-31,21:59:14,"""@USER @USER Lets get this done!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1355999050835910658,2021-01-31,21:59:01,"""@USER @USER Justice!!!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1355999014857150468,2021-01-31,21:58:53,"""@USER @USER Strong together!!!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1355998957089009673,2021-01-31,21:58:39,"""@USER @USER We can do this!!!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1355998819243220993,2021-01-31,21:58:06,"""@USER @USER Way to go!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1355998779640590337,2021-01-31,21:57:56,"""@USER @USER Congrats!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1355998538438750218,2021-01-31,21:56:59,"""@USER @USER @USER @USER @USER I did it!  Hope they listen!  $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1355998298419683331,2021-01-31,21:56:02,"""@USER @USER @USER @USER @USER Done!   Check me out!!!! $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1355998085579726848,2021-01-31,21:55:11,"""@USER @USER @USER and @USER need to be allowed to shine as the great contributors they are!!!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1355997863709470720,2021-01-31,21:54:18,"""@USER you should recognize @USER @USER and @USER as the great community members they are!! They were falsely reported!!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1355997673342595072,2021-01-31,21:53:33,"""@USER please let @USER @USER and @USER back in!   They are great community members!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1355997529024901120,2021-01-31,21:52:58,"""@USER these guys @USER @USER and @USER should be reinstated and were valuable members!!!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1355997320077320193,2021-01-31,21:52:08,"""@USER hey there!   @USER @USER and @USER Were unjustly banned!   Help themmmmm!!!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1355997226124914694,2021-01-31,21:51:46,"""@USER you should look into reinstating @USER @USER and @USER!  They are gray and valuable members!!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1355996969173397512,2021-01-31,21:50:45,"""@USER @USER @USER and @USER have been unjustly removed and are great community members!!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1355996868120031237,2021-01-31,21:50:21,"""@USER @USER @USER and @USER are gray community members. Please look into helping them!!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1355996709218869251,2021-01-31,21:49:43,"""@USER @USER @USER and @USER need to be reinstated!!   They were falsely reported!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1355996606663958533,2021-01-31,21:49:18,"""@USER @USER @USER and @USER are valuable community members!!!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1355996513655287813,2021-01-31,21:48:56,"""@USER @USER @USER and @USER were unjustly banned please look into this!!!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1355996426317213698,2021-01-31,21:48:35,"""@USER @USER @USER and @USER deserve to be reinstated please fix this!!!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1355996168694673408,2021-01-31,21:47:34,"""@USER please reinstate @USER   he was falsely reported!!!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1355995933620793345,2021-01-31,21:46:38,"""@USER hey! You should look into @USER @USER and @USER they are valuable contributors who were falsely reported!!!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1355995817094602752,2021-01-31,21:46:10,"""@USER @USER @USER and @USER provide real value to the community!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1355995723335163908,2021-01-31,21:45:48,"""@USER @USER @USER @USER @USER Im doing it now!!!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1355995599510896640,2021-01-31,21:45:18,"""@USER @USER @USER and @USER need to be helped!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1355995534834728966,2021-01-31,21:45:03,"""@USER @USER @USER and @USER false reporting!   Help them!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1355995453477810176,2021-01-31,21:44:43,"""@USER please look into @USER @USER and @USER""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1355995405432057863,2021-01-31,21:44:32,"""@USER @USER @USER and @USER should be allowed in!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1355995349509406722,2021-01-31,21:44:19,"""@USER @USER @USER and @USER need help!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1355995183947653130,2021-01-31,21:43:39,"""@USER @USER @USER and @USER are good influences and deserve better!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1355995114020200456,2021-01-31,21:43:23,"""@USER @USER @USER and @USER were falsely reported. Please reinstate""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1355995034575900673,2021-01-31,21:43:04,"""@USER please help @USER @USER and @USER""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1355994844993359882,2021-01-31,21:42:18,"""@USER @USER   @USER  and  @USER were falsely reported.  Help them!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1355994686943621125,2021-01-31,21:41:41,"""@USER please reinstate @USER   @USER  and  @USER""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1355994078631104514,2021-01-31,21:39:16,"""@USER @USER @USER Real supporter!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1355964041970262018,2021-01-31,19:39:54,"""@USER is a scammer.  He blocked me now but everyone watch out.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1355954764580847622,2021-01-31,19:03:02,"""@USER Welp.  I qualify lol""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1355666877285072897,2021-01-30,23:59:05,"""@USER $renbuys.  Could really use something please.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1355601658638704644,2021-01-30,19:39:55,"""@USER $renbuys.   Could really use some good luck right now.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1355601443269586946,2021-01-30,19:39:04,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1355601267536654338,2021-01-30,19:38:22,"""@USER Could really use it $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1355600781832052737,2021-01-30,19:36:26,"""@USER I wish""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1355588316255629313,2021-01-30,18:46:54,"""@USER @USER OMG YOU DO CASHAPP FLIPPING??""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1355527816440381443,2021-01-30,14:46:30,"""@USER I dont get people like that.... maybe embarrassed to have received help?  Maybe just jerks lol.  I have beeen probably overly communicative and grateful to people who have reached hit to me. So maybe theres a middle ground.   Anyway.  Keep being you.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1355522810882514951,2021-01-30,14:26:37,"""@USER I could use a meatball sub lol""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1355461586710888448,2021-01-30,10:23:20,"""@USER I could use it for sure.   Been living in my car more or less and could really use it for gas and to get something to eat in the morning.  Please consider it.  Thank you.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1355325518317551617,2021-01-30,01:22:38,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1355311617626533891,2021-01-30,00:27:24,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1355300028257079297,2021-01-29,23:41:21,"""@USER @USER @USER @USER @USER   Cashapp: $renbuys""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1355204757061832707,2021-01-29,17:22:47,"""I've entered @USER's Instagram contest for a chance to win one of six prizes ranging from $25 (@USER gift cards) to $250 (@USER).  #CommunityMatters #PayItForward  HTTPURL""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1355200079943110666,2021-01-29,17:04:12,"""@USER I need cigs AND a blunt lol""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1355179745927974917,2021-01-29,15:43:24,"""@USER Back at ya!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1355144325722763267,2021-01-29,13:22:39,"""Ok trying to watch Rise of Skywalker again.  I didnt care to finish it last time. Lol""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1355140701978288131,2021-01-29,13:08:15,"""@USER $renbuys.   Could really use it.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1355128198615457796,2021-01-29,12:18:34,"""@USER I wish""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1355127694023946242,2021-01-29,12:16:33,"""@USER Could use some breakfast right now.  Sounds great!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1355127228036747266,2021-01-29,12:14:42,"""@USER $renbuys.  Could really use the help mr. humanity sir""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1355126733373059072,2021-01-29,12:12:44,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1355105458714009600,2021-01-29,10:48:12,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1355104589410918405,2021-01-29,10:44:45,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1355038011214458880,2021-01-29,06:20:11,"""@USER How about a 23 minute giveaway??""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1355037884387110914,2021-01-29,06:19:41,"""@USER @USER Hey @USER lookie here!!!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1354984156955107332,2021-01-29,02:46:12,"""@USER Cash and many wins!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1354983961097867264,2021-01-29,02:45:25,"""@USER Must..... have ... giveaway""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1354983719350763522,2021-01-29,02:44:27,"""@USER Doooooo it""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1354981166311493633,2021-01-29,02:34:19,"""@USER Proud of taking time to work on myself. #MoreThanMyMoney""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1354969815279161344,2021-01-29,01:49:12,"""@USER Hey hi""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1354952131837571080,2021-01-29,00:38:56,"""@USER @USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1354944420467134464,2021-01-29,00:08:18,"""@USER @USER Chocolate please""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1354943772312936457,2021-01-29,00:05:43,"""@USER Could really use it.  $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1354915781843308546,2021-01-28,22:14:30,"""@USER $renbuys.   Just need a little help to keep my head above water 🙏""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1354915083160342532,2021-01-28,22:11:43,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1354859129920217088,2021-01-28,18:29:23,"""@USER I could really use a decent meal.   $renbuys.  Please consider it.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1354794609088540672,2021-01-28,14:13:00,"""@USER Eagle""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1354792522518822912,2021-01-28,14:04:42,"""@USER Trying to""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1354766193291354112,2021-01-28,12:20:05,"""@USER $renbuys.  Just need a little help to stay afloat""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1354665437431259137,2021-01-28,05:39:43,"""10 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1864302516,123,721,0,1539
+CONTROL,1354532416791187457,2021-01-27,20:51:08,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1354516879075897346,2021-01-27,19:49:24,"""@USER Hey $renbuys.   This would be super helpful.  Thank you""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1354427893615624201,2021-01-27,13:55:48,"""@USER @USER Just 25 dollars will go so far.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1354419869257785345,2021-01-27,13:23:55,"""@USER $renbuys  need this please""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1354317442156261376,2021-01-27,06:36:54,"""@USER This would be so helpful.  Ive been on the verge of eviction since Christmas and it kills my chances to visit with my son. $renbuys  Please and thanks""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1354287526438203399,2021-01-27,04:38:02,"""@USER Ooo I only had to pay 30 bucks.  So ya know... guess I win lol""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1354283961065893889,2021-01-27,04:23:52,"""@USER @USER I worked at a school cafeteria and as a server and both jobs got eliminated eventually.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1354278148502917121,2021-01-27,04:00:46,"""@USER Hey yo""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1354277310585856001,2021-01-27,03:57:26,"""@USER @USER Wish I could.  Need some new threads""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1354277035120746498,2021-01-27,03:56:21,"""@USER @USER What do you mean?  I havent been working.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1354274656820355072,2021-01-27,03:46:54,"""@USER @USER I really do.  COVID took out both my jobs.  I have to support my self and my son and Ive been basically homeless since Christmas. Hes the only reason I keep going sometimes.    Living minute to minute it seems .  Anything helps.  Please and thank you. Venmo is @USER""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1354273928303280131,2021-01-27,03:44:00,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1354250040114638849,2021-01-27,02:09:04,"""@USER $renbuys.   Please I need this HTTPURL""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1354248485340651520,2021-01-27,02:02:54,"""@USER Forever free""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1354246162220535811,2021-01-27,01:53:40,"""@USER Trying.   Just hard to keep going sometimes when it seems like nothings working.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1354245423695863809,2021-01-27,01:50:44,"""@USER @USER Wish I could have some luck like that go my way.  Hard to keep going sometimes.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1354244757648781312,2021-01-27,01:48:05,"""@USER Cant even find the hand right now. Hard to keep my head up sometimes.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1354237437699092480,2021-01-27,01:19:00,"""@USER Would love a bump""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1354227314905780227,2021-01-27,00:38:46,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1354227126074015744,2021-01-27,00:38:01,"""@USER COVID took out both my jobs.  Anything helps been basically living in my car. $renbuys #honeyfollowtrain""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1354226610933796865,2021-01-27,00:35:59,"""@USER Its lunch time in Hawaii lol""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1354226512506085388,2021-01-27,00:35:35,"""@USER Could use some dinner for my son and me. $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1354225064242196484,2021-01-27,00:29:50,"""@USER $renbuys.  Please anything helps""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1354224974484172807,2021-01-27,00:29:28,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1354217012281700356,2021-01-26,23:57:50,"""@USER They all scammers.   Been lookin""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1354215321771667458,2021-01-26,23:51:07,"""@USER Im with you there.  The small family I have is no support at all.   No one to turn to when COVID wiped out my jobs.  Ugh.  Pulling for you.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1354214211417735168,2021-01-26,23:46:42,"""@USER Of course they are.  More scammers than non scammers it seems""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1354213575905177610,2021-01-26,23:44:11,"""@USER Dont we all?""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1354209691082108934,2021-01-26,23:28:45,"""@USER Sometimes teaching in class AND on Zoom""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1354209428703219718,2021-01-26,23:27:42,"""@USER Went a couple years back.  Met some nice ones""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1354208895758172170,2021-01-26,23:25:35,"""@USER I wish""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1354208840791842821,2021-01-26,23:25:22,"""@USER I wish""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1354205711165775873,2021-01-26,23:12:56,"""@USER @USER @USER Any and everything helps.   Gas in the tank keeps the heat going!!   Thanks so much. Youre a superstar.""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1354203774798192642,2021-01-26,23:05:14,"""@USER Or like 12 bucks for a couple footlongs lol""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1354199742624968705,2021-01-26,22:49:13,"""@USER I need like 50 dollars.  Though 35 will cut it.   I wanna out some gas in my car to go pick up my son and then take him out to eat so he thinks mom has the big bucks lol.   Really just wanna show him a good time.  $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1354180437988552708,2021-01-26,21:32:30,"""@USER Could use anything right now.   Struggling hard with no end in sight.  $renbuys.  Dm for PayPal or venmo""",1,1,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1354179690953658377,2021-01-26,21:29:32,"""@USER More than you know.  $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1354164514791555073,2021-01-26,20:29:14,"""@USER I like Venmo. But cashapp is cool too.  Like cash mostly""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1354163027596222470,2021-01-26,20:23:19,"""@USER dont need a big win just need a little help.  Tryin to keep my head up""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1354162605884121088,2021-01-26,20:21:39,"""@USER Do ittttt""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1354162360647380992,2021-01-26,20:20:40,"""@USER @USER Basically COVID killed both my jobs and Ive been practically living in my car.  $renbuys.   Any little thing helps.""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1354161507341369345,2021-01-26,20:17:17,"""@USER @USER Love it""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1354160719177117696,2021-01-26,20:14:09,"""@USER So was this fake then?""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1354137816553414656,2021-01-26,18:43:08,"""@USER $renbuys.   How are you?""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1354120349240201217,2021-01-26,17:33:44,"""@USER I got cashapp""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1354117251557945347,2021-01-26,17:21:25,"""@USER Did it.  $renbuys HTTPURL""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1354114300055580673,2021-01-26,17:09:42,"""@USER $renbuys HTTPURL""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1354112570500784131,2021-01-26,17:02:49,"""@USER Help if you can $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1354101918579224576,2021-01-26,16:20:30,"""Can somebody help with $20 dollars.? Would go a long way for me today.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1354101509328396290,2021-01-26,16:18:52,"""@USER @USER Yeah they suck tbh""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1354101070788751362,2021-01-26,16:17:07,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1354093500636213254,2021-01-26,15:47:03,"""@USER Not to be selfish but Ive been basically living in my car since Christmas.  Anything can help but I get it if you are looking for bigger causes.  $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1354092463250665472,2021-01-26,15:42:55,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1354064768978530304,2021-01-26,13:52:52,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1353464147057455105,2021-01-24,22:06:13,"""@USER @USER @USER @USER @USER @USER cashapp please $renbuys""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1353457256533254145,2021-01-24,21:38:50,"""@USER @USER Thanks hun""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1353456630164316162,2021-01-24,21:36:21,"""@USER Me please $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1353456066374361090,2021-01-24,21:34:06,"""@USER @USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1353419862551506945,2021-01-24,19:10:15,"""@USER Mental stillness. Like a calm before/after the storm kinda thing""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1353385146590896129,2021-01-24,16:52:18,"""@USER Dealing with dealing with it""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1353378233564196869,2021-01-24,16:24:50,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1353377188716843009,2021-01-24,16:20:40,"""@USER Im good at word play sometimes""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1353377052842319873,2021-01-24,16:20:08,"""@USER Ooo $renbuys lol""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1353376006304911371,2021-01-24,16:15:59,"""@USER How about ""Theratryst"".  Like a tryst between therapists.""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1353374711187714049,2021-01-24,16:10:50,"""@USER Do it then lol""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1353374216557633536,2021-01-24,16:08:52,"""@USER Cant dm sadly""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1353366365650956289,2021-01-24,15:37:40,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1353366044711251969,2021-01-24,15:36:24,"""@USER Thats so awesome.  I used to work in a high school cafeteria.  Kinda low on the totem pole but still nice to see the people who deserve to be appreciated get some love sent their way.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1353365504283521024,2021-01-24,15:34:15,"""@USER @USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1353365235239944193,2021-01-24,15:33:11,"""@USER $renbuys.   Could use something for sure.""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1353364897594302465,2021-01-24,15:31:50,"""@USER @USER @USER Im in!!!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1353364434165485569,2021-01-24,15:30:00,"""@USER Here 🙋🏽‍️""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1353364371175424003,2021-01-24,15:29:45,"""@USER @USER @USER Hoping and praying.   I need to make something happen this week for sure. $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1353045784917397505,2021-01-23,18:23:48,"""@USER @USER @USER @USER @USER @USER @USER @USER  cashapp please $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1353045041824972801,2021-01-23,18:20:50,"""@USER @USER @USER Cashapp : $renbuys.  @USER @USER @USER""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1353031715267215368,2021-01-23,17:27:53,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1352820303282499585,2021-01-23,03:27:49,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1352819305625346050,2021-01-23,03:23:51,"""@USER Loaded those comments!!!! Lailarenbae $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1352479875706314753,2021-01-22,04:55:04,"""@USER Lark""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1352479824259014656,2021-01-22,04:54:52,"""@USER Farce""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1352479474646966272,2021-01-22,04:53:29,"""@USER Plight""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1352476885322752001,2021-01-22,04:43:11,"""@USER Guile""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1352476772554711040,2021-01-22,04:42:45,"""@USER Quirk""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1352475600125100034,2021-01-22,04:38:05,"""@USER Flail""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1352475520173289473,2021-01-22,04:37:46,"""@USER Squelch""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1352474967775059970,2021-01-22,04:35:34,"""@USER Prose""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1352474430354690049,2021-01-22,04:33:26,"""@USER Brash""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1352474312947740674,2021-01-22,04:32:58,"""@USER Chide""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1352474193020022784,2021-01-22,04:32:30,"""@USER Posh""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1352473952208228356,2021-01-22,04:31:32,"""@USER Frail""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1352473694174588929,2021-01-22,04:30:31,"""@USER ChAste""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1352473634397450240,2021-01-22,04:30:16,"""@USER Bard""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1352473572002902016,2021-01-22,04:30:01,"""@USER Stride""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1352473385620680704,2021-01-22,04:29:17,"""@USER Dour""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1352472887148634112,2021-01-22,04:27:18,"""@USER Qualm""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1352472760711315459,2021-01-22,04:26:48,"""@USER Reign""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1352472706382508034,2021-01-22,04:26:35,"""@USER Mast""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1352472599696203777,2021-01-22,04:26:10,"""@USER Jest""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1352472503483035650,2021-01-22,04:25:47,"""@USER Feign""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1352472461141540870,2021-01-22,04:25:37,"""@USER Bough""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1352472404317110274,2021-01-22,04:25:23,"""@USER Clasp""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1352472262696448000,2021-01-22,04:24:49,"""@USER Glean""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1352472237555802114,2021-01-22,04:24:43,"""@USER Trough""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1352470820736659457,2021-01-22,04:19:06,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1352424326600007681,2021-01-22,01:14:20,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1352423616680497154,2021-01-22,01:11:31,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1352423261401968641,2021-01-22,01:10:06,"""@USER $renbuys any little thing can help""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1352423152522059779,2021-01-22,01:09:41,"""@USER @USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1352422071050104833,2021-01-22,01:05:23,"""@USER did ya win?""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1352413417617854467,2021-01-22,00:31:00,"""Pokemon class comes through in the clutch!! #cashapptrivia @USER $renbuys #austinpoints""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1352412955757965316,2021-01-22,00:29:09,"""Science class comes through #cashapptrivia @USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1352412037826146305,2021-01-22,00:25:31,"""#cashapptrivia is on lets go wish me luck!!! $renbuys @USER @USER""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1352411367677046784,2021-01-22,00:22:51,"""ITS NORWAY $renbuys #cashapptrivia @USER""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1352411021269413890,2021-01-22,00:21:28,"""Game time HTTPURL #cashapptrivia @USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1352410686744383490,2021-01-22,00:20:08,"""I MUST WIN #cashapptrivia $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1352409994067632136,2021-01-22,00:17:23,"""Gimme the 🧀! Gimme the 🍞! Gimme the💰! #austinpoints #cashapptrivia @USER $renbuys🤑🤑🤑🤑🤑🤑""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1352409395687272448,2021-01-22,00:15:01,"""Lucky for me, I know most things #cashapptrivia @USER @USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1352409027385425922,2021-01-22,00:13:33,"""Let's get the game started guys!!!! @USER #cashapptrivia @USER $renbuys HTTPURL""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1352408745494646784,2021-01-22,00:12:26,"""Don't make my son cry, come play #cashapptrivia @USER @USER $renbuys HTTPURL""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1352408146506100736,2021-01-22,00:10:03,"""#cashapptrivia ITS HERE ITS TIME!!! @USER $renbuys lets win!!!! HTTPURL""",0,1,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1352407930344243201,2021-01-22,00:09:11,"""HTTPURL #cashapptrivia is starting and you are gonna lose if you dont play!!! @USER $renbuys""",0,1,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1352407622775943168,2021-01-22,00:07:58,"""Squirrel looking for a nut! Or a girl looking for some #austinpoints #cashapptrivia @USER $renbuys HTTPURL""",0,2,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1352407097376452615,2021-01-22,00:05:53,"""Austin is a host, can't argue with that! HTTPURL @USER @USER #cashapptrivia #austinpoints $renbuys come play!!!""",0,1,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1352406485049946112,2021-01-22,00:03:27,"""something, something, something #cashapptrivia @USER @USER $renbuys  HTTPURL""",0,1,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1352406222792777728,2021-01-22,00:02:24,"""As time tends to go, you are running out of time to get to HTTPURL ans play #cashapptrivia @USER @USER $renbuys""",0,1,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1352405972703191040,2021-01-22,00:01:25,"""You have 8 minutes to get to HTTPURL and play #cashapptrivia with all the cool kids!!! @USER @USER $renbuys hit me uppppp!!!""",0,1,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1352405679999488002,2021-01-22,00:00:15,"""@USER is the best host!  Well he's a host.... #cashapptrivia @USER $renbuys HTTPURL""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1352405251563913217,2021-01-21,23:58:33,"""HTTPURL You gotta come play or you might not win!  I mean you still might not win, but its fun!!!! @USER @USER #cashapptrivia $renbuys""",0,1,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1352404091968884737,2021-01-21,23:53:56,"""Hey everyone! You should come play #cashapptrivia  with me at HTTPURL @USER @USER  $renbuys""",0,1,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1352403555228012544,2021-01-21,23:51:48,"""$renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1352403485900365824,2021-01-21,23:51:32,"""HTTPURL @USER @USER come play #cashapptrivia  you wont be disappointed!  I mean you might if you lose, but like don't lose and you wont be disappointed""",0,1,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1352402184827260928,2021-01-21,23:46:21,"""@USER everyone play #cashapptrivia $renbuys @USER""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1352401552460439552,2021-01-21,23:43:51,"""@USER Cant stop me from that 💰 💰 💰 🔥 🔥 🔥 #cashapptrivia @USER""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1352400442198794240,2021-01-21,23:39:26,"""#cashapptrivia LETS FKN GOOOOOO!!! @USER makin bread""",0,1,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1352387401142956035,2021-01-21,22:47:37,"""@USER $renbuys.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1352380669536690180,2021-01-21,22:20:52,"""@USER Ive never wanted anything more lol. $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1352287873597374464,2021-01-21,16:12:08,"""@USER $renbuys  really need something good to happen  🙏""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1352225004637794304,2021-01-21,12:02:18,"""@USER $renbuys. Want McDonalds lol.  I have nowhere close to that energy.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1352045465131474946,2021-01-21,00:08:53,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1352045271857901572,2021-01-21,00:08:07,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1352045143298351108,2021-01-21,00:07:36,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1352034104481636354,2021-01-20,23:23:44,"""@USER $renbuys. Following  @USER check it out. HTTPURL""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1352033715053092864,2021-01-20,23:22:11,"""@USER I doubt you could even  do that right.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1352031072255684610,2021-01-20,23:11:41,"""@USER @USER My good boy Rudy.  $renbuys #CashAppPoki HTTPURL""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351904088926150656,2021-01-20,14:47:06,"""@USER We wont miss a beat""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351903055252488193,2021-01-20,14:43:00,"""@USER I cant dm""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351902868383608833,2021-01-20,14:42:15,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351885169632964613,2021-01-20,13:31:55,"""@USER Listened,liked,subscribed,shared.   $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351884971288485892,2021-01-20,13:31:08,"""HTTPURL  Everyone check this out!!!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351879786814189568,2021-01-20,13:10:32,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351750580977475584,2021-01-20,04:37:07,"""@USER @USER @USER @USER @USER @USER $renbuys.   I really tried with all the names you mentioned. You gotta pick me""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351750107172118528,2021-01-20,04:35:14,"""@USER @USER @USER Please please I tried with all of them $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351746735043993601,2021-01-20,04:21:50,"""@USER I need it pretty badly right now.  $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351745240986746882,2021-01-20,04:15:54,"""@USER $renbuys.  school cafeteria worker and worked at a restaurant.  Both jobs got eliminated due to COVID.  Havent been able to get back to Working anything close to full time since.  I have a son and have struggled a lot with mental health this last year.   Could really use help""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351718299004973057,2021-01-20,02:28:50,"""@USER Hey please go follow @USER so hell hook up my cashapp.  I know you care and I need this so bad.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351717788583399425,2021-01-20,02:26:49,"""@USER I wish $renbuys""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351711336733044737,2021-01-20,02:01:10,"""@USER please help me out and follow @USER hes gonna hit my cashapp if you do.  I need it so much after a year of struggling with mental health and trying to be a single mom. #TAPINTUESDAY #WhereTheMoneyReside""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351710081654665223,2021-01-20,01:56:11,"""@USER @USER @USER @USER @USER Bout to be a certified stalker here but Ill keep trying""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351709549074505733,2021-01-20,01:54:04,"""@USER @USER  please help me out and follow @USER hes gonna hit my cashapp if you do.  I need it so much after a year of struggling with mental health and trying to be a single mom. #TAPINTUESDAY #WhereTheMoneyReside""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351709222547947521,2021-01-20,01:52:46,"""@USER I need your help for real.  Please follow @USER. I know you care and hell send some cash my way if you do.  #TAPINTUESDAY #WhereTheMoneyReside""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351708529560846340,2021-01-20,01:50:01,"""@USER please help me out and follow @USER hes gonna hit my cashapp if you do.  I need it so much after a year of struggling with mental health and trying to be a single mom. #TAPINTUESDAY #WhereTheMoneyReside""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351707910703865857,2021-01-20,01:47:34,"""@USER Already following $renbuys.   Pick meeeee please I need it""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351707448764149766,2021-01-20,01:45:43,"""@USER So young.  So sad.  Too soon.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351706373457907712,2021-01-20,01:41:27,"""@USER Dont give them the power.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351705684837097473,2021-01-20,01:38:43,"""@USER Yeah thats for real""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351705312898777089,2021-01-20,01:37:14,"""@USER Already following $renbuys.   Could use a blessing though for sure.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351704266063413250,2021-01-20,01:33:05,"""@USER or ya know do what you want still love ya  But seriously follow @USER pweeeeease""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351703622107754501,2021-01-20,01:30:31,"""@USER come through and follow or mention @USER. Im just trying to win some cash as the last year has been a struggle.   I will overcome this but you can sure help!!! #TAPINTUESDAY""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351703180577542145,2021-01-20,01:28:46,"""@USER please help me out and follow @USER hes gonna hit my cashapp if you do.  I need it so much after a year of struggling with mental health and trying to be a single mom. #TAPINTUESDAY #WhereTheMoneyReside""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351703119034540032,2021-01-20,01:28:31,"""@USER @USER Look Im bordering on harassment here with her lol.   Ill keep at it.  $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351702887232106499,2021-01-20,01:27:36,"""@USER please help me out and follow @USER hes gonna hit my cashapp if you do.  I need it so much after a year of struggling with mental health and trying to be a single mom. #TAPINTUESDAY #WhereTheMoneyReside""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351701791122059265,2021-01-20,01:23:15,"""@USER @USER please show up and follow and mention @USER. (And say I sent ya) His @USER blessing would be just what I need after a year of struggling with single parenthood and mental health #TAPINTUESDAY #WhereTheMoneyReside""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351700599117672448,2021-01-20,01:18:30,"""@USER Im ready! $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351700189233504257,2021-01-20,01:16:53,"""@USER gonna need you to follow and mention @USER its a matter of national security.  Oh wait.  Insecurity.  Get it? #TAPINTUESDAY   (Really I just need some cash for me and my son)""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351699476273106944,2021-01-20,01:14:03,"""@USER @USER I hit jada up for you too.   Doin work here $renbuys #TAPINTUESDAY""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351699287009349635,2021-01-20,01:13:18,"""@USER you need to follow @USER and say its from me please!!!!! Hes gonna bless me with some cash if you do.   I need it for me and my son.   Its been a real struggle the last year.  Please please please #TAPINTUESDAY""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351698939410579456,2021-01-20,01:11:55,"""@USER @USER I just hit her up.   Were tight shes be following soon lol $renbuys #TAPINTUESDAY""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351698642781016068,2021-01-20,01:10:44,"""@USER  you need to follow @USER  and say its from me please!!!!! Hes gonna bless me with some cash if you do.   I need it for me and my son.   Its been a real struggle the last year.  Please please please #TAPINTUESDAY""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351698425268621316,2021-01-20,01:09:52,"""@USER you need to follow  @USER and say its from me please!!!!! Hes gonna bless me with some cash if you do.   I need it for me and my son.   Its been a real struggle the last year.  Please please please #TAPINTUESDAY""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351698122121031681,2021-01-20,01:08:40,"""@USER you need to follow @USER and say its from me please!!!!! Hes gonna bless me with some cash if you do.   I need it for me and my son.   Its been a real struggle the last year.  Please please please #TAPINTUESDAY""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351697840700071940,2021-01-20,01:07:33,"""@USER  you need to follow @USER  and say its from me please!!!!! Hes gonna bless me with some cash if you do.   I need it for me and my son.   Its been a real struggle the last year.  Please please please #TAPINTUESDAY""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351697535857995776,2021-01-20,01:06:20,"""@USER  you need to follow @USER  and say its from me please!!!!! Hes gonna bless me with some cash if you do.   I need it for me and my son.   Its been a real struggle the last year.  Please please please #TAPINTUESDAY""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351697095992946688,2021-01-20,01:04:35,"""@USER @USER @USER @USER @USER @USER @USER Pestering them now.   If they even care lol.  $renbuys.   Could really use the help.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351696915621179393,2021-01-20,01:03:52,"""@USER please please please follow @USER and say its from me.  Hes sending out cashapp blessings and I need it so much for me and my son.  This year has been such a struggle.  Pleeeeeeeease. 😃""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351696394600513537,2021-01-20,01:01:48,"""@USER you need to follow @USER and say its from me please!!!!! Hes gonna bless me with some cash if you do.   I need it for me and my son.   Its been a real struggle the last year.  Please please please""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351691196134010883,2021-01-20,00:41:09,"""@USER Thank you so much!!!""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351661011103789058,2021-01-19,22:41:12,"""@USER @USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351650706533584899,2021-01-19,22:00:15,"""Hopefully Americans can take advantage of the closing of this chapter in our history and make the next one something we dont have to run from screaming.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351649900153466880,2021-01-19,21:57:03,"""@USER @USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351646024947953666,2021-01-19,21:41:39,"""@USER @USER Retweeted.  $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351645613063073792,2021-01-19,21:40:01,"""@USER @USER @USER @USER @USER @USER $renbuys #WhereTheMoneyReside""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351643908409856003,2021-01-19,21:33:14,"""@USER $renbuys. Really struggling. 🙏""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351642828099776519,2021-01-19,21:28:57,"""@USER $renbuys.  Could really use it.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351642614852935682,2021-01-19,21:28:06,"""@USER $renbuys. Would be a blessing""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351635148429733889,2021-01-19,20:58:26,"""@USER @USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351634604034314243,2021-01-19,20:56:16,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351628948325748736,2021-01-19,20:33:47,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351589092253978626,2021-01-19,17:55:25,"""@USER Subscribed and liked too!!!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351588937748377600,2021-01-19,17:54:48,"""@USER $renbuys.  Retweeted!!!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351588442493362180,2021-01-19,17:52:50,"""@USER I could use some help for sure.  Hard to keep going most days when Im always coming from behind.  Super great of you to do this.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351574423191617538,2021-01-19,16:57:08,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351559560759287809,2021-01-19,15:58:04,"""@USER @USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351559168700915712,2021-01-19,15:56:31,"""@USER Would be so cool.  Food is a luxury some days for me. $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351558914576408579,2021-01-19,15:55:30,"""@USER $renbuys.  Please I need it""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351544616777109505,2021-01-19,14:58:41,"""@USER @USER Hooray!!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351488504547704834,2021-01-19,11:15:43,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351486987442806784,2021-01-19,11:09:41,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351485914053287937,2021-01-19,11:05:25,"""@USER $renbuys""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351459872789950464,2021-01-19,09:21:57,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351459016011112450,2021-01-19,09:18:32,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351458851187470336,2021-01-19,09:17:53,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351458228132073473,2021-01-19,09:15:25,"""@USER Its a boy""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351372033259671560,2021-01-19,03:32:54,"""@USER @USER $renbuys""",1,1,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351371199176179713,2021-01-19,03:29:35,"""@USER $renbuys I could use it so bad.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351341407844380674,2021-01-19,01:31:12,"""@USER @USER $renbuys.  Single mom trying to keep my son in my life.  Struggle with mental health and have been homeless at times in the last couple mos.   anything helps""",0,1,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351337637710352389,2021-01-19,01:16:14,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351337429987434496,2021-01-19,01:15:24,"""@USER Got you over 40 now!!  $renbuys HTTPURL""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351337156271341569,2021-01-19,01:14:19,"""@USER Youre at 40! HTTPURL""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351336689667624963,2021-01-19,01:12:28,"""@USER Just commented a few.  $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351335571118043138,2021-01-19,01:08:01,"""@USER $renbuys. Just trying to keep going 🙏""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351335205798293511,2021-01-19,01:06:34,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351334772883251200,2021-01-19,01:04:51,"""@USER @USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351332747382558721,2021-01-19,00:56:48,"""@USER I would definitely pay off my debts, they cause me so much stress. Then I would pay people to cook my recipes to see if they are really that good of if Im biased. Then lotsa cool shoes""",2,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351303944136515584,2021-01-18,23:02:20,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351301844220448773,2021-01-18,22:54:00,"""@USER 57 125 lbs $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351300884286894081,2021-01-18,22:50:11,"""@USER $renbuys  could use a hand for sure""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351299921056555009,2021-01-18,22:46:21,"""@USER Let me!  $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351269557814632450,2021-01-18,20:45:42,"""@USER $renbuys  gotta feed my son and its been a struggle.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351268962957463555,2021-01-18,20:43:20,"""@USER Aint much better than my old year""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351264019374612480,2021-01-18,20:23:42,"""@USER $renbuys. Just trying to keep my head above water and keep moving forward.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351263736871481346,2021-01-18,20:22:34,"""@USER $renbuys  trying to keep my head above water. 🙏""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351260668129898497,2021-01-18,20:10:23,"""@USER $renbuys 🙏""",1,1,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351258185353621513,2021-01-18,20:00:31,"""@USER $renbuys. Would love to take my son to dinner""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351257859217108998,2021-01-18,19:59:13,"""@USER $renbuys HTTPURL""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351233070050009090,2021-01-18,18:20:43,"""@USER Happy birthday""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351232725823455233,2021-01-18,18:19:21,"""@USER $renbuys ☕️ 🙏""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351232441030221826,2021-01-18,18:18:13,"""@USER $renbuys.  I dmed it""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351228406134951939,2021-01-18,18:02:11,"""@USER @USER @USER $renbuys ✌️🙏""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351045107349413892,2021-01-18,05:53:49,"""@USER I could use one""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351042575067717632,2021-01-18,05:43:45,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351041259536850945,2021-01-18,05:38:32,"""@USER $renbuys.  🙏""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351041007413055490,2021-01-18,05:37:31,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351040866891288576,2021-01-18,05:36:58,"""@USER I could use one""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351040586795651077,2021-01-18,05:35:51,"""@USER @USER Could use one""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351039556733325312,2021-01-18,05:31:46,"""@USER Could use one. 🙏""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351039172518227969,2021-01-18,05:30:14,"""@USER I could use one 🙏""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351038370131157000,2021-01-18,05:27:03,"""@USER Could use one 🙏""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351034647724122123,2021-01-18,05:12:15,"""@USER $renbuys.  Very cool""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351031623735762944,2021-01-18,05:00:14,"""@USER Ready""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351020321776799751,2021-01-18,04:15:20,"""@USER @USER Im not really relying on anyone.  Just looking for some assistance if I can get it.  Medication cant fix everything, Ive tried.   Thank you for reaching out though.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351016782119755776,2021-01-18,04:01:16,"""@USER Ive Probly shown more for less before""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351016486664601607,2021-01-18,04:00:05,"""@USER $renbuys.  Anything you can do to help.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351004611621101573,2021-01-18,03:12:54,"""@USER @USER @USER @USER I did this and you never cashapped me 😔""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351003638869741574,2021-01-18,03:09:02,"""@USER @USER Jeez thanks!   Hoping for a turn around""",2,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351003027893866496,2021-01-18,03:06:36,"""@USER @USER Thats sweet thank you""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351000410228727814,2021-01-18,02:56:12,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1351000046716788740,2021-01-18,02:54:46,"""@USER @USER Im really struggling with working less and trying to keep up visitations with my son.  Sometimes its hard to keep going.  Spent most of last month living in my car.   Anything can help please $renbuys 🙏""",2,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350998840858521602,2021-01-18,02:49:58,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350998611476307972,2021-01-18,02:49:03,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350998267614654464,2021-01-18,02:47:41,"""@USER Nintendo switch pro controller 69.99.  (For the kid)""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350993881438019585,2021-01-18,02:30:16,"""@USER $renbuys could really use the help. 🙏""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350993752932888576,2021-01-18,02:29:45,"""@USER So bad.  😔 $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350985509393358848,2021-01-18,01:57:00,"""@USER Here it goes""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350974755231379459,2021-01-18,01:14:16,"""@USER I wish I didn't need it, spent most of last month sleeping in my car.   Struggle is real""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350973259387428869,2021-01-18,01:08:19,"""@USER Really do need it, I used to be a cafeteria worker and now I work in restaurants and we are terribly underpaid.   I never make my bills.  $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350972319083220993,2021-01-18,01:04:35,"""@USER super weird.   I'm there I promise""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350971571918299136,2021-01-18,01:01:37,"""@USER Ok.... didnt want you to think I was ignoring you""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350971213540167680,2021-01-18,01:00:11,"""@USER i responded to the last one $renbuys.... said thank you i needed this so much""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350970601096286210,2021-01-18,00:57:45,"""@USER @USER $renbuys.   Need some help, hard to keep going most days""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350969949620232193,2021-01-18,00:55:10,"""@USER $renbuys.  Thanks I need this so much.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350969565606518794,2021-01-18,00:53:38,"""@USER Please I dont even need that much $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350966691916820485,2021-01-18,00:42:13,"""@USER i picked 631.... cant get much closer.... im so broke right now too lol""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350966524002103296,2021-01-18,00:41:33,"""@USER $renbuys please be me""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350966387657875457,2021-01-18,00:41:01,"""@USER Please please be me $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350965928784232450,2021-01-18,00:39:11,"""@USER well i said 631..... pretty close!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350948180494606343,2021-01-17,23:28:40,"""@USER 631 and the dog is named Shelly(Michelle)""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350946218248122371,2021-01-17,23:20:52,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350945229956907017,2021-01-17,23:16:56,"""@USER @USER Unlike unfollowed""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350939169141510146,2021-01-17,22:52:51,"""@USER Would be amazing.  $renbuys 🙏""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350936329018863619,2021-01-17,22:41:34,"""@USER For my son more than me $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350936071165669377,2021-01-17,22:40:33,"""@USER @USER @USER Liked and followed $renbuys HTTPURL""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350933085181894656,2021-01-17,22:28:41,"""@USER @USER Please Im so lost right now.  $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350932612978798602,2021-01-17,22:26:48,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350931424707284992,2021-01-17,22:22:05,"""@USER Could always use some for me and my son. Mostly him.  I dont  have custody but it would show that I can contribute something to him when Im behind""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350929664651522051,2021-01-17,22:15:05,"""@USER Clearly its to cashapp me""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350927873536909320,2021-01-17,22:07:58,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350927624768548866,2021-01-17,22:06:59,"""@USER I just need a boost to keep my head above water. Sometimes it feels like I cant keep going.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350926321124331520,2021-01-17,22:01:48,"""@USER @USER $renbuys 🙏""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350923116386639879,2021-01-17,21:49:04,"""@USER @USER Black 5""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350919197732311041,2021-01-17,21:33:30,"""HTTPURL  @USER #propmoney listen its 🔥🔥🔥🔥🔥🎵🎵🎵✌️✌️✌️""",1,1,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350917822180962310,2021-01-17,21:28:02,"""@USER This gal""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350916900541374464,2021-01-17,21:24:22,"""@USER Whatcha gonna do with it?""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350913140976984070,2021-01-17,21:09:26,"""@USER Followed. $renbuys.   Im qcpatrol""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350909463805489153,2021-01-17,20:54:49,"""@USER Prettiest girl in Philly it would be an honor lol""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350899416593555464,2021-01-17,20:14:54,"""@USER $renbuys.  Would be so so grateful.  So stuck right now""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350893057630208002,2021-01-17,19:49:37,"""@USER Memememe Please $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350891589565034504,2021-01-17,19:43:47,"""@USER It was me 🙋🏽‍️""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350888962466975746,2021-01-17,19:33:21,"""@USER Gotta put in work""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350888912093392898,2021-01-17,19:33:09,"""@USER Praying its me""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350888848847499264,2021-01-17,19:32:54,"""@USER Hoping its me""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350884967241412615,2021-01-17,19:17:29,"""@USER Happy birthday!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350884861129748482,2021-01-17,19:17:03,"""@USER Im just trying to keep my head above water.   I have one visit a week with my son and half the time I cant even put gas in my car to go pick him up.  Then I just lose the visit.  Im just sad so much and the isolation and lack of work havent helped at all.  $renbuys 🙏""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350884795191074817,2021-01-17,19:16:48,"""@USER Im just trying to keep my head above water.   I have one visit a week with my son and half the time I cant even put gas in my car to go pick him up.  Then I just lose the visit.  Im just sad so much and the isolation and lack of work havent helped at all.  $renbuys 🙏""",3,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350876732979613696,2021-01-17,18:44:45,"""@USER Nah dont always work like that""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350874816920875009,2021-01-17,18:37:09,"""@USER CAnt say Im bad lol""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350873596495880192,2021-01-17,18:32:18,"""@USER I really need like 50 bucks to gas up my car and take my son out to eat.  I only get one chance to see him a week and I cant even make that happen this week.  $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350873085981974530,2021-01-17,18:30:16,"""@USER It would give me my visitation day with my son this week.   Just need gas and some money to take him to eat.   Doesnt seem like much but its my whole world and its hard when I cant make it happen.  $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350872651670167555,2021-01-17,18:28:32,"""@USER Im here.  Always here $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350855514549268494,2021-01-17,17:20:27,"""@USER I just wanna be able to gas up my car and take my son out to lunch.  I only get to see him once a week at best so if I miss this it ruins my whole week.   Just been hard times lately.  Help a girl out if you can.  $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350852789757485056,2021-01-17,17:09:37,"""@USER Eagle!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350852651014090754,2021-01-17,17:09:04,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350852451683999745,2021-01-17,17:08:16,"""@USER I honestly need 65 dollars would keep me going til next week.   Not sure I can keep my head up anymore""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350851484339077122,2021-01-17,17:04:26,"""@USER $renbuys.  🙏 need this more than youll know""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350850831600521221,2021-01-17,17:01:50,"""@USER $renbuys 🙏""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350850546438201348,2021-01-17,17:00:42,"""@USER @USER $renbuys 🙏""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350847031942782978,2021-01-17,16:46:44,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350630237307101187,2021-01-17,02:25:16,"""@USER Two knives.  Ruthless""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350621483727540227,2021-01-17,01:50:29,"""I just wanna remember being happy""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350619912608342021,2021-01-17,01:44:15,"""@USER $renbuys.   Hey ya never know""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350618648050880514,2021-01-17,01:39:13,"""@USER Dont be a bigger loser.  $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350617561306693634,2021-01-17,01:34:54,"""These scam accounts make me wanna cry sometimes. Especially the ones that act normal at first like they are gonna really help me out... then ask for personal login info and cash upfront. 😔""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350615296793571329,2021-01-17,01:25:54,"""@USER Thanks so much""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350614166411862019,2021-01-17,01:21:25,"""@USER Dinner and trees sound sweet $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350611277173960707,2021-01-17,01:09:56,"""@USER Hey hi""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350611175646572545,2021-01-17,01:09:32,"""@USER Could really use something.   Hard to keep my head up most days.  $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350610991621533696,2021-01-17,01:08:48,"""@USER $renbuys.  Could really use something""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350610733269180416,2021-01-17,01:07:46,"""@USER @USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350609592561135619,2021-01-17,01:03:14,"""You know you wanna hook it up $renbuys HTTPURL""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350608101028880387,2021-01-17,00:57:19,"""Anyone wanna help me out with 35 dollars?? Cashapp:  $renbuys  @USER  just  trying to keep my head above water this weekend.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350606817521528832,2021-01-17,00:52:13,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350177234452160513,2021-01-15,20:25:12,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350119722352844801,2021-01-15,16:36:40,"""@USER $renbuys.  Im struggling hard right now with out a steady place to live.  Supposed to see my son today but no gas In The car to pick him up. Just a mess right now.  Could truly use some help.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350119261247860736,2021-01-15,16:34:50,"""@USER $renbuys.  Im just struggling hard right now with out a steady place to live.  Supposed to see my son today but no gas In The car to pick him up. Just a mess right now.  Could use some help.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350043571504734210,2021-01-15,11:34:04,"""@USER Rt with notis on $renbuys HTTPURL""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350043011078615044,2021-01-15,11:31:51,"""@USER I understand""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1350042604705112065,2021-01-15,11:30:14,"""@USER Dont do it""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1349919419217158147,2021-01-15,03:20:44,"""@USER @USER @USER @USER @USER @USER @USER @USER and @USER and @USER are all the besssst""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1349918678121373698,2021-01-15,03:17:47,"""@USER @USER @USER @USER @USER @USER @USER @USER @USER @USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1349918597288763394,2021-01-15,03:17:28,"""@USER @USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1349917242222399489,2021-01-15,03:12:05,"""@USER @USER and @USER.  And @USER of course.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1349915829496913921,2021-01-15,03:06:28,"""@USER $renbuys really just need to gas up my car so I can take my son out tomorrow.  Would be such a huge help!!!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1349915420522901504,2021-01-15,03:04:51,"""@USER Didnt it originate on Rigel 7?""",3,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1349914115133857796,2021-01-15,02:59:39,"""@USER Am so ready.  Need this.  $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1349911970238107650,2021-01-15,02:51:08,"""#MFAMCashApp $ renbuys hoping for a win here  @USER    @USER""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1349910514932084736,2021-01-15,02:45:21,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1349910351551279104,2021-01-15,02:44:42,"""@USER I can just send sexy pics""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1349908685166940160,2021-01-15,02:38:05,"""@USER $renbuys.  You deserve that allowance after spelling all those big 8th grade words correctly as a fifth grader!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1349907492143321089,2021-01-15,02:33:20,"""@USER @USER Done $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1349907407321899017,2021-01-15,02:33:00,"""@USER @USER @USER check this out 🔥 🔥🔥🔥🔥""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1349906936192528385,2021-01-15,02:31:08,"""@USER Liked and subscribed $renbuys HTTPURL""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1349873264810729473,2021-01-15,00:17:20,"""If its not NORWAY, I'm gonna cry #cashapptrivia @USER @USER $renbuys""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1349872846051414016,2021-01-15,00:15:40,"""I want those austin points because I like both you and money!  It makes sense! #cashapptrivia @USER @USER""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1349872322115756032,2021-01-15,00:13:35,"""Getting real now!! #cashapptrivia @USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1349870871922561027,2021-01-15,00:07:49,"""Need this win!! #cashapptrivia @USER @USER $renbuys SO FUN!!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1349868895201587202,2021-01-14,23:59:58,"""Melina is gonna win. So am I! @USER #cashapptrivia @USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1349868420951662594,2021-01-14,23:58:05,"""#cashapptrivia Come play!  its fun! its starting! $renbuys @USER @USER @USER""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1349867933833588736,2021-01-14,23:56:09,"""@USER $renbuys  Gonna get the W!!! #cashapptrivia @USER @USER""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1349867518488420354,2021-01-14,23:54:30,"""#cashapptrivia @USER @USER Volume issues mean better prizes?""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1349867091420188673,2021-01-14,23:52:48,"""#cashapptrivia Gonna win that cash today!!! @USER @USER""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1349866572152713225,2021-01-14,23:50:44,"""#cashapptrivia @USER @USER  HURRY UP!! its starting!!!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1349866347845586944,2021-01-14,23:49:51,"""@USER @USER $renbuys happy birthday @USER!!!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1349866087500947458,2021-01-14,23:48:49,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1349865879509544962,2021-01-14,23:47:59,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1349865786693865472,2021-01-14,23:47:37,"""#cashapptrivia @USER @USER Its happening NOW!!!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1349865166536650752,2021-01-14,23:45:09,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1349864886944333832,2021-01-14,23:44:02,"""@USER $renbuys neeeeed this""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1349541225876094978,2021-01-14,02:17:56,"""@USER Hey hi hoody hoo""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1349522884289552385,2021-01-14,01:05:03,"""@USER Too often my life lol""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1349522345371774980,2021-01-14,01:02:54,"""Honestly wanna cry.   Everytime it seems like Someone is gonna help me, it turns out they are just a cashapp scammer.  Just plays with my emotions too much.  Someone cares I just gotta find them.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1349520144058478596,2021-01-14,00:54:09,"""@USER @USER @USER Thanks.  Been calling out as many of these people as I can.  I literally have nothing right now and I get a little hope that someone is gonna help.  Then I realize ""oh you arent gonna help me at all"". Sigh.  Thanks""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1349516811944026112,2021-01-14,00:40:55,"""Probably just drown my sorrows is this red wine.  🍷 although mine looks different than the emoji does.  Not even sure whats real  anymore. $renbuys #cashapptrivia @USER HTTPURL""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1349514675017428992,2021-01-14,00:32:25,"""See my map says Norway $renbuys @USER #cashapptrivia""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1349513971607416834,2021-01-14,00:29:38,"""The capital of Sweden is.... smh #cashapptrivia  @USER HTTPURL""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1349511921272299524,2021-01-14,00:21:29,"""#cashapptrivia my friend is still in this, sad im not..... good for him though $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1349510469103575042,2021-01-14,00:15:43,"""#cashapptrivia  didnt get the win but im sticking with it $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1349509355666862085,2021-01-14,00:11:17,"""@USER $renbuys  praying for a blessing i have nothing right now""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1349508785354620930,2021-01-14,00:09:01,"""#cashapptrivia 5 for 5 so nervous @USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1349507740977287170,2021-01-14,00:04:52,"""oh no im stuck #cashapptrivia ""what color is red wine?""  HELP @USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1349507517701885952,2021-01-14,00:03:59,"""#cashapptrivia @USER @USER I need a win lets gooooo $renbuys this game is great everyone PLAYYYY""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1349507184707710977,2021-01-14,00:02:40,"""pogchamp #cashapptrivia @USER $renbuys.  Get that W get those dollas""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1349506918704947208,2021-01-14,00:01:36,"""@USER @USER I'm in the game lets get this W #cashapptrivia $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1349506760017649665,2021-01-14,00:00:58,"""@USER @USER @USER @USER @USER @USER #cashapptrivia cant stop me gotta get those dollas""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1349506578161004553,2021-01-14,00:00:15,"""@USER @USER @USER @USER @USER $renbuys #cashapptrivia  Gotta get that money lets goooo""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1349506261172297728,2021-01-13,23:58:59,"""@USER go get that winning.  #cashapptrivia  lets gooooo $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1349502436403249155,2021-01-13,23:43:48,"""@USER #cashapptrivia on twitch Good luck everyone!! $renbuys wish me luck I need a win!!!!""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1349379714687905793,2021-01-13,15:36:08,"""@USER I like to think I would, just knowing how much it would devastate me if I sent that out accidentally.  On the other hand, I know how much I could use it. Hoping Id be strong enough to do the right thing though.""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1349169624332578816,2021-01-13,01:41:19,"""All right my loves I worked some stuff out.  I need about $65 to be stable for the next week or so. I know this is a big ask, but know I would do the same if I was on the other side and able.  Either way thank you if you have helped me or anyone in the past. Cashapp: $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1349116459717451779,2021-01-12,22:10:04,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1348473324255510529,2021-01-11,03:34:28,"""@USER No you wont.  Sad""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1348471629886742530,2021-01-11,03:27:44,"""@USER $renbuys  🙏""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1348463805093867520,2021-01-11,02:56:39,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1348463604174118912,2021-01-11,02:55:51,"""@USER Flips are a scam though""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1348463123297136640,2021-01-11,02:53:56,"""@USER SCAM""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1348462384067862531,2021-01-11,02:51:00,"""@USER I dont think they got them in here.  Not for real anyway 😔😘😏😔""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1348461395235504130,2021-01-11,02:47:04,"""@USER How much?  Dm if you want.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1348456788014866432,2021-01-11,02:28:46,"""@USER Ayy whats up""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1347563409311748097,2021-01-08,15:18:47,"""@USER $renbuys  we could all use a little luck, a little love, and a little blessing.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1347028519352758273,2021-01-07,03:53:20,"""@USER Well I guess Ill know if Im fake soon""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1347028057027129344,2021-01-07,03:51:30,"""@USER $renbuys""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1346972646559395842,2021-01-07,00:11:19,"""@USER @USER $renbuys. Please lord I need a blessing.  🙏""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1346469685974298638,2021-01-05,14:52:43,"""Trying again because Im getting desperate.  I need about $150 if anyone can contribute anything.   My phone is about to get shut off and I have a potential visitation with my son tomorrow. I have a 25 dollar Amazon card I can send as gratitude cashapp: $renbuys. Dm for Venmo""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1346281553442336770,2021-01-05,02:25:09,"""@USER $renbuys  need some help for sure""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345946964458942464,2021-01-04,04:15:37,"""@USER $renbuys.  Anything helps. Just trying to keep from drowning right now.""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345904231233032208,2021-01-04,01:25:49,"""@USER $renbuys.   Just trying to eat and keep my phone on at this point.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345889126894219270,2021-01-04,00:25:47,"""As a Cleveland gal, I have to say the browns legitimately shocked me today.  #Browns #NFLPlayoffs #BakerMania #landry #chubb""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345879776557494273,2021-01-03,23:48:38,"""@USER Good lil mixtape. @USER""",1,1,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345875605624135682,2021-01-03,23:32:04,"""@USER Yup.   Happy to help.   Been listening all day""",1,1,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345856382105485318,2021-01-03,22:15:40,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345856118631895040,2021-01-03,22:14:38,"""@USER $renbuys.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345840446317146121,2021-01-03,21:12:21,"""@USER It really does hit different when you aint got it""",0,1,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345836606201196544,2021-01-03,20:57:06,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345836423728009216,2021-01-03,20:56:22,"""@USER $renbuys.  Pleaaaaaaase""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345835680795078657,2021-01-03,20:53:25,"""@USER HTTPURL  This my soundtrack today.   Check it out. 🔥🔥🔥🔥""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345834439356669958,2021-01-03,20:48:29,"""@USER $renbuys. Need something badly.""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345834230715191298,2021-01-03,20:47:39,"""@USER Dont give em the power ya know?  Thats what they want""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345833900300521472,2021-01-03,20:46:20,"""@USER I just got get me a couple.  One at least.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345832921060487170,2021-01-03,20:42:27,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345832076428369927,2021-01-03,20:39:06,"""@USER @USER Thats whats up.   $renbuys.""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345831930105892871,2021-01-03,20:38:31,"""@USER No, not until I was older 😊""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345828155811102720,2021-01-03,20:23:31,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345827923249557504,2021-01-03,20:22:35,"""@USER @USER More the merrier""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345827240144220160,2021-01-03,20:19:52,"""@USER Yayayay!   Cleveland gal here""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345823813884387329,2021-01-03,20:06:16,"""Ready to be somebodys goddess or something lol.  Cashapp me HTTPURL""",2,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345819577071112194,2021-01-03,19:49:25,"""@USER Thanks.  Just hate feeling like this.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345806896054358016,2021-01-03,18:59:02,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345805878063198208,2021-01-03,18:54:59,"""@USER Eagle!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345800961370034178,2021-01-03,18:35:27,"""@USER Streaming now""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345798806198222858,2021-01-03,18:26:53,"""@USER $renbuys  you never know 🙏""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345792690831695873,2021-01-03,18:02:35,"""HTTPURL     Check this out its 🔥🔥🔥 @USER #propmoney""",2,1,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345791648287088646,2021-01-03,17:58:27,"""@USER Always.   $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345770342862770177,2021-01-03,16:33:47,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345770180006260736,2021-01-03,16:33:08,"""@USER $renbuys.  Please!   Been a struggle lately""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345738786358128640,2021-01-03,14:28:23,"""@USER @USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345738727587536902,2021-01-03,14:28:09,"""@USER @USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345711904115875842,2021-01-03,12:41:34,"""@USER @USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345710317687500802,2021-01-03,12:35:16,"""@USER $renbuys.  Hoping for something good to happen soon 🙏""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345709818443669504,2021-01-03,12:33:17,"""Figured Id give it another shot.  If anyone wants to help out to start off 2021 I need about 155 dollars total.  Stimulus cant come fast enough.  Sigh #cashapp #venmo #blessing #newyearnoproblems.  Or just drop yours below maybe we can start a love chain going. $renbuys""",1,3,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345558698765254658,2021-01-03,02:32:47,"""@USER @USER @USER  $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345549605983940610,2021-01-03,01:56:39,"""@USER I prolly could lol""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345541965509783553,2021-01-03,01:26:18,"""@USER I would if I could.  I really wish I was in the other side of these things.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345538536708190208,2021-01-03,01:12:40,"""@USER Back at ya""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345538318763778048,2021-01-03,01:11:48,"""@USER @USER @USER Ok done done done""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345537712888156160,2021-01-03,01:09:24,"""@USER Yeah Ive spent some days and nights in my car lately.  But at least I have that. Hoping for the best for you""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345535523348226049,2021-01-03,01:00:42,"""@USER $renbuys.   Hoping and praying""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345535324999581699,2021-01-03,00:59:54,"""@USER More than you know""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345530023353135106,2021-01-03,00:38:50,"""@USER Better than I have in a long time.""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345529652144701440,2021-01-03,00:37:22,"""@USER @USER I could use some help.  But not sure I deserve it before some other people here.""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345518674287996929,2021-01-02,23:53:45,"""@USER @USER Praying""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345516864605196292,2021-01-02,23:46:33,"""@USER @USER Pleeeeaase lol followed""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345516743238803464,2021-01-02,23:46:04,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345514948919783432,2021-01-02,23:38:56,"""@USER No youre not.  SCAM""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345514769973981185,2021-01-02,23:38:14,"""@USER @USER @USER Done done done""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345514271216726017,2021-01-02,23:36:15,"""@USER Just trying to eat and keep my phone on.   $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345513632273203207,2021-01-02,23:33:43,"""@USER @USER That aint real either homie""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345512785342554113,2021-01-02,23:30:21,"""@USER No you really aint""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345495440918253569,2021-01-02,22:21:25,"""@USER A pint of red""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345488380298203137,2021-01-02,21:53:22,"""@USER $renbuys""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345479161209647104,2021-01-02,21:16:44,"""@USER @USER @USER @USER  $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345476760293568512,2021-01-02,21:07:12,"""@USER $renbuys""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345475231578779649,2021-01-02,21:01:07,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345474852514365442,2021-01-02,20:59:37,"""@USER Hey hey $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345473848284770304,2021-01-02,20:55:37,"""@USER $renbuys.   Please help anyway you can""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345471789925851137,2021-01-02,20:47:27,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345471217017434113,2021-01-02,20:45:10,"""@USER @USER @USER @USER @USER Just typical stuff, bills and no money.  Right now just tryin to eat, keep my phone on, gas in my car, pay child support.  Would be truly shocked if you legitimately helped me.""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345468126260027394,2021-01-02,20:32:53,"""@USER Lemme get like 200 lol""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345457066387898369,2021-01-02,19:48:56,"""@USER @USER *Gasps*""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345434518455541761,2021-01-02,18:19:20,"""@USER @USER I can do that""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345434130847309825,2021-01-02,18:17:48,"""@USER @USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345425451892748291,2021-01-02,17:43:19,"""@USER @USER @USER @USER @USER I wish you would.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345416624543838210,2021-01-02,17:08:14,"""@USER All I have is hope right now $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345409071512514563,2021-01-02,16:38:13,"""@USER @USER.  Could use it for sure""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345406845826043905,2021-01-02,16:29:23,"""If anyone wants to help out to start off 2021 I need about 155 dollars total.  Stimulus cant come fast enough.  Sigh #cashapp #venmo #blessing #newyearnoproblems.  Or just drop yours below maybe we can start a love chain going. $renbuys""",1,1,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345374153654865920,2021-01-02,14:19:28,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345373131729494018,2021-01-02,14:15:25,"""@USER Ready ready.    Could definitely use it.  $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345372919262826497,2021-01-02,14:14:34,"""@USER Could use the help for sure. $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345243948806246400,2021-01-02,05:42:05,"""@USER @USER @USER @USER @USER @USER @USER @USER $renbuys.   Following all""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345236321690910722,2021-01-02,05:11:47,"""@USER @USER @USER @USER @USER @USER @USER @USER Following all.   $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345230105451372544,2021-01-02,04:47:04,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345229934185349122,2021-01-02,04:46:24,"""@USER $renbuys.  Just trying to keep the phone on right now.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345197823965466625,2021-01-02,02:38:48,"""@USER $renbuys. Gotta keep my phone on and my car gassed""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345176784652926979,2021-01-02,01:15:12,"""@USER Yeah I get that.   Usually fallin asleep way later then I wanna.  Or way earlier.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345176244539826180,2021-01-02,01:13:03,"""@USER Im up and down lol how are you?""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345175415640436742,2021-01-02,01:09:45,"""@USER Hey hi! 👋""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345175319192477700,2021-01-02,01:09:22,"""@USER @USER @USER @USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345167489974624258,2021-01-02,00:38:16,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345166824455995394,2021-01-02,00:35:37,"""@USER This is a flip scam.   Dont waste your time. SCAM!!!""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345165863956213766,2021-01-02,00:31:48,"""@USER @USER @USER @USER @USER @USER You wont though.  Youll ask me to pay you first.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345165202233372673,2021-01-02,00:29:10,"""@USER @USER @USER @USER @USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345162513365798912,2021-01-02,00:18:29,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345161653109841920,2021-01-02,00:15:04,"""@USER @USER @USER @USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345159946405634048,2021-01-02,00:08:17,"""@USER $renbuys. Just trying to keep my phone on so I can get a job right now.   And gas in the tank.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345159607367380995,2021-01-02,00:06:56,"""@USER He wont.   Asks you to pay him first or asks for your login info.   SCAM""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345159541764345857,2021-01-02,00:06:41,"""@USER He wont.   Asks you to pay him first or asks for your login info.   SCAM""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345159405831127052,2021-01-02,00:06:08,"""@USER He wont.   Asks you to pay him first or asks for your login info.   SCAM""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345158809539514369,2021-01-02,00:03:46,"""@USER He wont.   Asks you to pay him first or asks for your login info.   SCAM""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345158608405848064,2021-01-02,00:02:58,"""@USER He wont.  Asks you to pay him first.  SCAM""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345158521902555138,2021-01-02,00:02:38,"""@USER He wont.   Asks you to pay him first SCAM""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345153558635806723,2021-01-01,23:42:54,"""If anyone wants to help out to start off 2021 I need about 155 dollars total.  Stimulus cant come fast enough.  Sigh #cashapp #venmo #blessing #newyearnoproblems.  Or just drop yours below maybe we can start a love chain going. $renbuys""",2,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345153206222000128,2021-01-01,23:41:30,"""If anyone wants to help out to start off 2021 I need about 155 dollars total.  Stimulus cant come fast enough.  Sigh #cashapp #venmo #blessing #newyearnoproblems.  Or just drop yours below maybe we can start a love chain going.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345065962698117122,2021-01-01,17:54:50,"""@USER @USER @USER Funny to laugh at now, but it sucks that first time when you struggling and think someone is about to help.   Fuck them for playing on peoples hope like that.  Ass-hoes""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345024172410494977,2021-01-01,15:08:46,"""@USER You arent.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345023888921653249,2021-01-01,15:07:39,"""@USER @USER @USER Not really though lol""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345023761662291969,2021-01-01,15:07:08,"""@USER $renbuys because why not?   Need some help for sure""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345022511445106689,2021-01-01,15:02:10,"""@USER @USER @USER Yeah if you just send 40 to complete the transaction 🙄""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345021863328681984,2021-01-01,14:59:36,"""@USER @USER Fake""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1345019735327576064,2021-01-01,14:51:08,"""@USER $renbuys anything can help""",2,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1344479699150360577,2020-12-31,03:05:14,"""@USER I doooooo.  $renbuys HTTPURL""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1344479286523117569,2020-12-31,03:03:35,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1344477418946351106,2020-12-31,02:56:10,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1344468996716863488,2020-12-31,02:22:42,"""@USER Ill leave""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1344458748039983106,2020-12-31,01:41:59,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1344457704899817472,2020-12-31,01:37:50,"""@USER Ill take whatever help you can give hun.""",2,1,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1344456008953901058,2020-12-31,01:31:05,"""@USER :(  *offers hug* I could use one too""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1344454839737217029,2020-12-31,01:26:27,"""@USER $renbuys. Help a girl get a burrito 🌯""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1344454004626100230,2020-12-31,01:23:08,"""@USER $renbuys to keep the heat on in my car tonight.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1344446285244473344,2020-12-31,00:52:27,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1344387608458244096,2020-12-30,20:59:18,"""@USER Ya never know""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1344385996620767233,2020-12-30,20:52:53,"""@USER @USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1344382771356164101,2020-12-30,20:40:04,"""@USER Not real.  RUN""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1344371366238298114,2020-12-30,19:54:45,"""@USER @USER Followed both""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1344370632318976004,2020-12-30,19:51:50,"""@USER You really arent""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1344370584747192320,2020-12-30,19:51:39,"""@USER No you wont""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1344369677712162817,2020-12-30,19:48:03,"""@USER @USER Whatever you can do.   At the end of my rope sometimes.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1344365232475541506,2020-12-30,19:30:23,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1344363788024348674,2020-12-30,19:24:38,"""@USER @USER No... no you wont""",2,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1344363259277824002,2020-12-30,19:22:32,"""@USER @USER No you wont.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1344362651045023750,2020-12-30,19:20:07,"""@USER @USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1344361293189300224,2020-12-30,19:14:43,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1344360975852589060,2020-12-30,19:13:28,"""@USER Not true""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1344354180954288129,2020-12-30,18:46:28,"""@USER Furloughed Lunch lady here.   Unfortunately not needed with the schools being remote mostly.   So awesome to see this happening.  $renbuys if you wanna help.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1344352794644504578,2020-12-30,18:40:57,"""@USER $renbuys.  A girl can hope""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1344347644492181505,2020-12-30,18:20:29,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1344345634204229633,2020-12-30,18:12:30,"""@USER Its funny i been messin with them asking if they gonna scam me right away.  Then they say no, they they try to scam me.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1344340072842321925,2020-12-30,17:50:24,"""@USER @USER @USER I do ..... but you wont.  Girl can dream""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1344335956204269568,2020-12-30,17:34:03,"""@USER $renbuys currently living in my car.  Anything helps.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1344333329420709889,2020-12-30,17:23:36,"""@USER No you wont be.""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1344333131927724033,2020-12-30,17:22:49,"""@USER No, youre not""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1344332594607960066,2020-12-30,17:20:41,"""@USER Well how are you?""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1344289855384281088,2020-12-30,14:30:51,"""@USER Gave ya a follow""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1344287434100666368,2020-12-30,14:21:14,"""@USER $renbuys thanks lol""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1344286818691391489,2020-12-30,14:18:47,"""@USER Sure come on over lol""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1344286481549029376,2020-12-30,14:17:27,"""@USER Unless its Willie hutch.   But I know thats the same song.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1344286121329631237,2020-12-30,14:16:01,"""@USER Blue laces and doo wop""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1344285299422220289,2020-12-30,14:12:45,"""@USER Look at you""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1344284419872403457,2020-12-30,14:09:15,"""@USER Got a third one that no one has thiugh""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1344284365086478336,2020-12-30,14:09:02,"""@USER Oh I cant dm""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1344280725185581057,2020-12-30,13:54:35,"""@USER Can i dm them?   So people just dont run off what I wrote?""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1344269272709799936,2020-12-30,13:09:04,"""@USER Help meeeee.  Literally living in my car.  Its cold! Lol.  $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1344260175616749569,2020-12-30,12:32:55,"""@USER $renbuys. PleSe help""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1344259317848027138,2020-12-30,12:29:31,"""@USER I need it to fill my gas tank and eat.   Been mostly staying in my car for the last few nights and its cold out.   Either that or put it towards getting a place to stay.  But Im kinda past that right now.   Anything helps.   🙏 $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1344237375501824000,2020-12-30,11:02:19,"""@USER $renbuys 🙏""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1344198905576239108,2020-12-30,08:29:27,"""@USER @USER @USER Check""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1344039699149684736,2020-12-29,21:56:49,"""@USER $renbuys because pleeeeese. Also I want some tacos""",3,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1343989992968908800,2020-12-29,18:39:19,"""@USER $renbuys 🤞""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1343988266954063872,2020-12-29,18:32:27,"""@USER $renbuys ☕️ ☕️""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1343987568195596292,2020-12-29,18:29:40,"""@USER Yeah thats what i thought""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1343987200426463232,2020-12-29,18:28:13,"""@USER Chillin for now at a friends place""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1343978362923003908,2020-12-29,17:53:06,"""@USER Already did""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1343966722072727552,2020-12-29,17:06:50,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1343953023861743616,2020-12-29,16:12:24,"""HTTPURL  Check this out!🔥🔥🔥 @USER #propmoney""",1,1,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1343952038108028928,2020-12-29,16:08:29,"""@USER Had an appt this morning whats up?""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1343670004676501506,2020-12-28,21:27:47,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1343661851062775813,2020-12-28,20:55:23,"""@USER Hey hi""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1343650891925221377,2020-12-28,20:11:51,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1343647268340117508,2020-12-28,19:57:27,"""@USER $renbuys   Gotta have faith!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1343641734471950346,2020-12-28,19:35:27,"""@USER Fassssst""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1343641645137453056,2020-12-28,19:35:06,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1343628746255970305,2020-12-28,18:43:51,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1343587261489831937,2020-12-28,15:59:00,"""HTTPURL Everyone check this out @USER 🔥🔥🔥""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1343572238122037250,2020-12-28,14:59:18,"""@USER $renbuys  ya never knowwwww""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1343572019636527105,2020-12-28,14:58:26,"""@USER @USER Done done done @USER check this outttttt!!!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1343568145899008000,2020-12-28,14:43:02,"""@USER Spammed the hell out of it lol""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1343566790106996737,2020-12-28,14:37:39,"""@USER Was gonna be my guess I SWEAR lol""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1343566396098273280,2020-12-28,14:36:05,"""@USER $renbuys  heres hoping!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1343419363630702592,2020-12-28,04:51:50,"""@USER One... one titty""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1343415327611355145,2020-12-28,04:35:48,"""@USER I can be active for less than that lol""",2,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1343413469966700551,2020-12-28,04:28:25,"""@USER Done and done.  🙏""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1343412660201787392,2020-12-28,04:25:12,"""@USER @USER @USER $renbuys. Hey I could use a miracle.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1343410301220356096,2020-12-28,04:15:49,"""@USER $renbuys hoping for some good fortune.  Or better than bad. Sleeping in the car again.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1343408263577137153,2020-12-28,04:07:44,"""@USER Prepay some rent and maybe my phone bill.  And a burrito""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1343358127446626304,2020-12-28,00:48:30,"""@USER Check""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1343351685981351938,2020-12-28,00:22:54,"""@USER Happy bday""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1343351140155580422,2020-12-28,00:20:44,"""@USER @USER @USER Done""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1343350837154873344,2020-12-28,00:19:32,"""@USER @USER @USER @USER All done""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1343330844992270336,2020-12-27,23:00:05,"""@USER App yes, cash no""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1343319891445743618,2020-12-27,22:16:34,"""@USER @USER Done""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1343319870038020098,2020-12-27,22:16:29,"""@USER @USER @USER Done""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1343318113648074753,2020-12-27,22:09:30,"""@USER Clearly I do $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1343316453664190464,2020-12-27,22:02:54,"""@USER Yeah I get it.   Its gonna get better I hope.  But I hope you get what you need too.""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1343315796219588609,2020-12-27,22:00:18,"""@USER $renbuys. Basically homeless right now and could use something for the gas tank and phone bill.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1343313942072995841,2020-12-27,21:52:56,"""@USER I hear ya.  The last week has been so tough for me""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1343313515390631936,2020-12-27,21:51:14,"""@USER Doneso""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1343306280350445574,2020-12-27,21:22:29,"""@USER Liked!!! HTTPURL""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1343305372078059521,2020-12-27,21:18:52,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1343303826326102016,2020-12-27,21:12:44,"""@USER Worth a shot.  $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1343302462132932614,2020-12-27,21:07:18,"""@USER 😔 thank ya""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1343301798845689869,2020-12-27,21:04:40,"""@USER Im not even close lol.  But thanks""",1,1,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1343301188364750850,2020-12-27,21:02:15,"""@USER Hey I try""",1,1,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1343300357569576961,2020-12-27,20:58:57,"""@USER Dont really know what thats like""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1343297390279847937,2020-12-27,20:47:09,"""@USER Thats awesome! I had a rough one, but I still get something out of other people doing good.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1343295078165585921,2020-12-27,20:37:58,"""@USER Slept in my car last night, probably tonight too.   Could use anything $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1343294399518806018,2020-12-27,20:35:16,"""@USER Obviously me.  But Im biased""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1343291223688306688,2020-12-27,20:22:39,"""Check this out on face book 🔥🔥️❤️️🔥🔥 #propmoney @USER HTTPURL""",1,1,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1343290529405145093,2020-12-27,20:19:53,"""@USER $renbuys. Slept In The car last night, gonna overcome this but I could use a hand for sure.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1343289808618184712,2020-12-27,20:17:02,"""@USER $renbuys. Pleeeeaase lol""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1343275164373540864,2020-12-27,19:18:50,"""@USER Covers face, raises hand lol""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1343274042321752066,2020-12-27,19:14:23,"""@USER My phone bill about to be 88 dollars.  Dont have to be the whole thing, anything helps :). $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1343270088414212102,2020-12-27,18:58:40,"""@USER I can sees ya""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1343269683601035264,2020-12-27,18:57:03,"""@USER $renbuys.  Really struggling right now""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1343217639297003520,2020-12-27,15:30:15,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1343201069824954372,2020-12-27,14:24:25,"""Anyone wanna buy an Amazon gift card cheap? Cashapp or Venmo""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1343197170636361736,2020-12-27,14:08:55,"""@USER @USER Would be nice.  Had to sleep in my car last night 😔""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1343196952054411265,2020-12-27,14:08:03,"""@USER Doneeee HTTPURL""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1343196292101582848,2020-12-27,14:05:26,"""@USER Try to always be""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1343196003529355265,2020-12-27,14:04:17,"""@USER @USER @USER Doneeeee""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1343195456948613120,2020-12-27,14:02:06,"""@USER Done""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1343190218820771840,2020-12-27,13:41:18,"""@USER Hey hi""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1343186276741165063,2020-12-27,13:25:38,"""@USER I can be random!!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1343159708685922306,2020-12-27,11:40:03,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1343155579716571136,2020-12-27,11:23:39,"""@USER $renbuys.  Could use the help.  Dont have anything right now""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1343154205037637632,2020-12-27,11:18:11,"""@USER @USER @USER Done""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1343154033641598976,2020-12-27,11:17:30,"""@USER @USER Done""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1343153910257770499,2020-12-27,11:17:01,"""@USER @USER Done""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1343009732131434502,2020-12-27,01:44:06,"""Sleeping in the car tonight.  Thankful I have that at least and my phone is paid for the next month.  Anyone wanna help keep some gas in the tank hit me up. I WILL conquer this too.  #homeless #cleveland #cashapp #venmo""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342998076760457219,2020-12-27,00:57:47,"""@USER could use ANYTHING. $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342996840376098817,2020-12-27,00:52:53,"""@USER Heres hoping""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342996287046770689,2020-12-27,00:50:41,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342986125594546177,2020-12-27,00:10:18,"""@USER $renbuys.  Hope hope hoping.  Awesome for doing this though.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342985736744742912,2020-12-27,00:08:45,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342956251085467654,2020-12-26,22:11:35,"""@USER $renbuys 🙏""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342930418396516364,2020-12-26,20:28:56,"""@USER $renbuys.   Hope hope hope""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342929796393791493,2020-12-26,20:26:28,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342922262454951937,2020-12-26,19:56:32,"""@USER Ive seen a ton of these scams.  Just sad and cruel HTTPURL""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342921909172887557,2020-12-26,19:55:08,"""@USER Seen SO MANY of these this week HTTPURL""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342911439628099585,2020-12-26,19:13:31,"""@USER Bouncer""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342907922616082434,2020-12-26,18:59:33,"""@USER $renbuys   Struggling hard this year.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342907686288060422,2020-12-26,18:58:37,"""@USER Give him mine just to F with him.  Lol""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342905980582031363,2020-12-26,18:51:50,"""@USER Subscribed and retweeted HTTPURL""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342884016945569792,2020-12-26,17:24:33,"""@USER @USER @USER Liked, commented, retweeted !  $renbuys 🙏""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342882443188174848,2020-12-26,17:18:18,"""@USER Sadly me too.  Couldnt even hang with my kid.  I feel broken 😞""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342873278327746561,2020-12-26,16:41:53,"""@USER Read that real fast and thought it said ""thought my ramen was Nicki Minaj.""""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342871172447424516,2020-12-26,16:33:31,"""@USER Which is why social media will always be frustrating. It makes no sense sometimes, and does what its supposed to other times.  Aaaaaa""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342869878383013888,2020-12-26,16:28:22,"""@USER @USER Done and done!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342866130713653249,2020-12-26,16:13:29,"""@USER @USER $renbuys  its been a struggle""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342853631532552197,2020-12-26,15:23:49,"""@USER Why so good?""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342852007573544960,2020-12-26,15:17:22,"""@USER This year been a struggle $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342850129624256513,2020-12-26,15:09:54,"""@USER $renbuys  can hope and pray lol.  Awesome for doing this though""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342847874300850177,2020-12-26,15:00:56,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342847480996757509,2020-12-26,14:59:23,"""@USER $renbuys. Can only hope !""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342844740866347009,2020-12-26,14:48:29,"""@USER $renbuys  I guess you never know!   Retweeted and liked a bunch.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342668847959183360,2020-12-26,03:09:33,"""@USER Retweeted""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342667496579543041,2020-12-26,03:04:11,"""@USER $renbuys  ya never know!  Merry Christmas!!!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342666662412242944,2020-12-26,03:00:52,"""@USER @USER Retweeted!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342578290607980547,2020-12-25,21:09:43,"""@USER Why so happy?   $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342577818614583298,2020-12-25,21:07:50,"""@USER Hey Santa!   $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342572039257923589,2020-12-25,20:44:52,"""@USER Just need my gas tank filled""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342569685427118081,2020-12-25,20:35:31,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342568747509415938,2020-12-25,20:31:47,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342567998905868288,2020-12-25,20:28:49,"""@USER @USER.  Cashtag: $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342566728124006400,2020-12-25,20:23:46,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342566589087023104,2020-12-25,20:23:13,"""@USER $renbuys.  You wanna hook it up, Ill gladly take it lol.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342565740021477376,2020-12-25,20:19:50,"""@USER So close lol""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342562445781569539,2020-12-25,20:06:45,"""@USER $renbuys.   Thanks!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342558035265388546,2020-12-25,19:49:13,"""@USER $renbuys.  Maybe take my son to eat.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342556175540379649,2020-12-25,19:41:50,"""@USER Whatcha gonna get?""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342555544578617344,2020-12-25,19:39:19,"""@USER @USER @USER @USER Just want to be able to put that Christmas magic look on my sons face instead of having to give up my days with him because I dont have food or gas or something stupid.  Merry Christmas to all of you though.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342554618514055168,2020-12-25,19:35:39,"""@USER Venmo @USER   Sell out to your hearts content lol""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342553655921106944,2020-12-25,19:31:49,"""@USER 66 $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342547431121182721,2020-12-25,19:07:05,"""@USER Would love to be able to take the kid out to eat. $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342533456581054467,2020-12-25,18:11:33,"""@USER Done and done""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342533118683717634,2020-12-25,18:10:13,"""@USER $renbuys.   I guess you never know""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342532297850052612,2020-12-25,18:06:57,"""@USER Well obviously Id like a present lol""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342532030731603968,2020-12-25,18:05:53,"""@USER Even more depressing when youre already depressed.  Just want to show my kid a nice holiday, instead I ended up with a dead battery and still cant get him anything nice.   Ah well.  Let me know if you can help""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342530142552383491,2020-12-25,17:58:23,"""@USER Could be me? $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342529620189605891,2020-12-25,17:56:19,"""@USER Sadly counting down til I start at 3 :(""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342528053814165504,2020-12-25,17:50:05,"""@USER Hoping for something!  $renbuys (cashapp). Hope you have an awesome Christmas either way!!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342526542975557632,2020-12-25,17:44:05,"""@USER $renbuys  hope you have a great Christmas 🎄""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342525046783356928,2020-12-25,17:38:08,"""@USER Please please please help me If you can.  $renbuys.  Really stuck this holiday.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342522285673082888,2020-12-25,17:27:10,"""@USER Ya never know!  $renbuys  Merry Christmas everyone!   Trying to stay positive.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342519375451058178,2020-12-25,17:15:36,"""@USER Hoping for anything good.  $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342518544219709440,2020-12-25,17:12:18,"""@USER And merry Christmas. Hope you get blessed back either way!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342514451635957761,2020-12-25,16:56:02,"""@USER @USER @USER $renbuys""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342513092752769026,2020-12-25,16:50:38,"""@USER You are a SAINT! Thank you""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342512391024746500,2020-12-25,16:47:51,"""@USER Yeah thats the one""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342511456701587457,2020-12-25,16:44:08,"""@USER $renbuys. 🙏""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342511270424150016,2020-12-25,16:43:24,"""@USER Venmo is @USER if you are feeling it. Merry Christmas either way!!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342509930520129540,2020-12-25,16:38:04,"""@USER $renbuys  hope you have a great holiday!!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342509307804471297,2020-12-25,16:35:36,"""@USER Hey Im just struggling to give my son a nice Christmas.  COVID hit work and family hard.  But Im still here!   Anything will help!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342508417882198018,2020-12-25,16:32:04,"""@USER $renbuys anything will be helpful!! Merry 🎄 Christmas""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342508030932484102,2020-12-25,16:30:31,"""@USER @USER Done done and done""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342507079404310532,2020-12-25,16:26:44,"""@USER @USER Done and done!  We shall see $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342506222772232193,2020-12-25,16:23:20,"""@USER Hoping for any blessing.  $renbuys""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342504908201844738,2020-12-25,16:18:07,"""@USER Who was the winner?""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342504403270561793,2020-12-25,16:16:06,"""@USER Its all ive ever wanted lol""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342504011107340288,2020-12-25,16:14:33,"""@USER Liked!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342502798437601282,2020-12-25,16:09:44,"""@USER And have a great day. Sometimes I forget what thats like.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342502647983648768,2020-12-25,16:09:08,"""@USER Hoping for something good to happen. $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342502166116888579,2020-12-25,16:07:13,"""@USER Hoping for something!  Merry Christmas $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342501897358483462,2020-12-25,16:06:09,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342500588777562113,2020-12-25,16:00:57,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342499824994824195,2020-12-25,15:57:55,"""@USER $renbuys.  Struggles are real, worth a shot.  Merry Christmas!!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342497791902425088,2020-12-25,15:49:50,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342496777551966214,2020-12-25,15:45:48,"""@USER Just wanted some warm fuzzy socks lol.  $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342496525205827587,2020-12-25,15:44:48,"""@USER Happy holidays 2021!! $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342495960283426822,2020-12-25,15:42:33,"""@USER Dont think I was the most.  But I tried to keep them fresh lol""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342494815469133829,2020-12-25,15:38:01,"""@USER I think I got rate limited lol""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342492503942029314,2020-12-25,15:28:49,"""@USER Would love anything this Christmas.  But you are awesome for this either way.  $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342492049120112642,2020-12-25,15:27:01,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342491382070579200,2020-12-25,15:24:22,"""@USER @USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342490867022622723,2020-12-25,15:22:19,"""@USER @USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342490332940939265,2020-12-25,15:20:12,"""@USER Same to you!!!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342488642099544064,2020-12-25,15:13:29,"""@USER And merry Christmas either way!!!""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342488534293344260,2020-12-25,15:13:03,"""@USER Cant hurt to try $renbuys""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342487611290562564,2020-12-25,15:09:23,"""@USER $renbuys just in case 🙏""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342487257291382785,2020-12-25,15:07:59,"""@USER And I want to be blessed!  Its like we were meant to meet here lol.  Merry Christmas!!!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342486630771421184,2020-12-25,15:05:29,"""@USER Im as bad as Michael Jackson $renbuys  Hoping for something gooood""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342484780131241986,2020-12-25,14:58:08,"""@USER Wish I was on on the other side of this, but hoping to come back stronger next year!  $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342484057939193857,2020-12-25,14:55:16,"""@USER It could happen lol.   $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342480741268152322,2020-12-25,14:42:05,"""@USER $renbuys  hoping for a blessing, big or small. Merry Christmas 🎁🎄 🎄 🎁""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342478920436903938,2020-12-25,14:34:51,"""@USER Because hey, ya never know!   $renbuys""",1,2,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342478576810131457,2020-12-25,14:33:29,"""@USER Done!!!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342472368355237888,2020-12-25,14:08:49,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342471700273893376,2020-12-25,14:06:09,"""@USER Done and done $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342471036701454342,2020-12-25,14:03:31,"""@USER $renbuys  hey you never know!  Gotta have hope""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342470683075477505,2020-12-25,14:02:07,"""@USER @USER Hello and have a merry Christmas!!  $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342470025270222848,2020-12-25,13:59:30,"""@USER $renbuys  hey you never know! Have a great day and an amazing new year!!!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342469786291347463,2020-12-25,13:58:33,"""@USER $renbuys  ya never know!  Merry Christmas!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342469230646730753,2020-12-25,13:56:21,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342466115289686016,2020-12-25,13:43:58,"""@USER $renbuys  hope you have a great day and an amazing new year!!!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342465470176382979,2020-12-25,13:41:24,"""@USER $renbuys  hope you have a great Christmas!!!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342465028721680384,2020-12-25,13:39:39,"""@USER $renbuys hoping for a blessing!  Merry Christmas!!🎄🎁""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342464395767644160,2020-12-25,13:37:08,"""@USER $renbuys  merry merry merry Christmas 🎄🎁""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342452065340157953,2020-12-25,12:48:08,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342436195075321857,2020-12-25,11:45:04,"""@USER Tis the season lol""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342435361528680448,2020-12-25,11:41:46,"""@USER $renbuys 🙏""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342427801643839488,2020-12-25,11:11:43,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342392184939704323,2020-12-25,08:50:11,"""@USER $renbuys hoping for something good!!  Merry Christmas!!!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342385728991457280,2020-12-25,08:24:32,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342385062038425600,2020-12-25,08:21:53,"""@USER $renbuys  hoping for a blessing!!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342384642800951303,2020-12-25,08:20:13,"""@USER @USER @USER @USER @USER $renbuys every little bit helps!  Merry Christmas 🎄🎁""",2,1,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342383827189116928,2020-12-25,08:16:59,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342382235710840833,2020-12-25,08:10:39,"""@USER @USER $renbuys. Thanks!  Merry Christmas!🎄🎁""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342347222223118336,2020-12-25,05:51:32,"""@USER Everyone lol.   But me specifically $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342346291645472768,2020-12-25,05:47:50,"""@USER $renbuys thanks for anything!  Merry Christmas 🎄🎁""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342346020789878784,2020-12-25,05:46:45,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342345323306496001,2020-12-25,05:43:59,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342345082964467713,2020-12-25,05:43:02,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342343193187258368,2020-12-25,05:35:31,"""@USER $renbuys  hoping for a blessing!!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342342244083359745,2020-12-25,05:31:45,"""@USER $renbuys  merry merry Christmas 🎁🎄""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342341665181360129,2020-12-25,05:29:27,"""@USER Hmm. Grandma got run over by a reindeer""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342341024023244801,2020-12-25,05:26:54,"""@USER Do they know its Christmas?""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342340219551571969,2020-12-25,05:23:42,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342340134218452992,2020-12-25,05:23:22,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342339652871663618,2020-12-25,05:21:27,"""@USER Merry Christmas to youuuu!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342336170966077440,2020-12-25,05:07:37,"""@USER $50? 20? 200?   Whatevers doable...""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342335405199384576,2020-12-25,05:04:34,"""@USER $renbuys. Every lil bit helps. Thanks for being cool and merry Christmas 🎄🎁""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342334709284675585,2020-12-25,05:01:48,"""@USER $renbuys  any lil thing helps!   Merry Christmas 🎁🎄""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342334278965862400,2020-12-25,05:00:06,"""@USER $renbuys  any lil thing can help!   Merry merry!""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342304536279576576,2020-12-25,03:01:54,"""@USER $renbuys.  Merry almost Christmas!!! 🎄""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342302659534073857,2020-12-25,02:54:27,"""@USER $renbuys.   Heres hoping!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342295385604300802,2020-12-25,02:25:33,"""@USER $renbuys. Looking for anything to get things going.   Thanks so much!!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342292679309332480,2020-12-25,02:14:47,"""@USER I could use it so badly.  Bless you for blessing people either way.  This is the real stuff right here.  $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342290777465114624,2020-12-25,02:07:14,"""@USER $renbuys Ive been swinging at these messages all day, but I still have #HOPE!  Merry Christmas and bless you for doing this!!!.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342288588197801984,2020-12-25,01:58:32,"""@USER @USER $renbuys  just need to catch a break somehow. Right now I dont  really have anything for my son outside of what my mom bought him :((. I know things happen, but its hard to keep my head up sometimes.   I do it for him though!  Merry Christmas.🎄🎁""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342284257981583360,2020-12-25,01:41:20,"""@USER Or do you want the actual origin?  Because then, I have no clue lol.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342284000673542144,2020-12-25,01:40:18,"""@USER I mean, it basically juSt means like a small, quickly travelled distance away.""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342277713109909516,2020-12-25,01:15:19,"""@USER Amazing to see someone REAL giving it back, especially this year.  If I cant give my son his wanted gifts, I can point here and show him the spirit of Christmas in motion.  Hed rather have video games lol but at least theres something to learn and hold onto. Thanks!  $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342275908623867905,2020-12-25,01:08:09,"""@USER $renbuys  would be so perfect the get a blessing like that right now.  Turn a blah Christmas into something better.  Either way, super awesome that you can and will do this for people. Hopefully next year Im in that position.  But for now... $renbuys""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342273464489668610,2020-12-25,00:58:26,"""@USER $renbuys. Hellllp meeeeee. Or not lol.  Either way Merry Christmas!!! 🎄🎁""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342273027615191040,2020-12-25,00:56:42,"""@USER @USER $renbuys #BITCOINMEG  Sending again because I might have forgotten the haahtag aaaa.  Just hot girl  ish 😝""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342272299727278085,2020-12-25,00:53:49,"""@USER $renbuys  could use a bit of cheer.  Or a LOT of cheer""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342271814601478144,2020-12-25,00:51:53,"""@USER $renbuys hoping for a blessing!  Merry Christmas!🎁🎄""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342233996898545665,2020-12-24,22:21:37,"""@USER @USER $renbuys  so awesome for doing this!!!""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342233647164878848,2020-12-24,22:20:13,"""@USER @USER $renbuys.   Heres to hoping! Merry Christmas!🎄🎁""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342231325500170241,2020-12-24,22:11:00,"""@USER $renbuys  gotta hold on to hope.  Merry Christmas 🎄🎁""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342229685296648195,2020-12-24,22:04:29,"""@USER @USER Ok done and done! HTTPURL""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342227976155496449,2020-12-24,21:57:41,"""@USER @USER Followed! Notifs ON!  $renbuys hoping for a little miracle. Merry Christmas! 🎁🎄 HTTPURL""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342226312132501504,2020-12-24,21:51:04,"""@USER $renbuys for that hot girl ish""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342226182444621824,2020-12-24,21:50:33,"""@USER @USER $renbuys for that hot girl s**t""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342225128382488576,2020-12-24,21:46:22,"""@USER $renbuys  Heres wishing.  Merry Christmas and have hope!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342214595474296832,2020-12-24,21:04:31,"""@USER Done done and done""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342214497239498752,2020-12-24,21:04:07,"""@USER @USER @USER @USER Also $renbuys""",1,1,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342204804186185728,2020-12-24,20:25:36,"""@USER $renbuys.  Just wanna take my son out to eat for Christmas. Or make him something great.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342204596350033920,2020-12-24,20:24:47,"""@USER $renbuys please help""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342204228715110402,2020-12-24,20:23:19,"""@USER @USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342201255075180544,2020-12-24,20:11:30,"""@USER Retweeted.   $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342201061428383744,2020-12-24,20:10:44,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342198491351818242,2020-12-24,20:00:31,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342195835426242562,2020-12-24,19:49:58,"""@USER I wish I knew how to be ok :(""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342195665514979329,2020-12-24,19:49:18,"""Prey 4 Da Sheep HTTPURL via @USER  @USER check this out. Been hitting in my car lately.""",2,2,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342193609903321088,2020-12-24,19:41:08,"""#propmoney #machinegunkelly you wont be disappointed!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342192488833036299,2020-12-24,19:36:40,"""@USER @USER Ugh I know the feeling, had a close friend hit with COVID and watched them suffer.  Sending prayers and love ️ ❤️️ 💜 🎄.   $renbuys""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342191736152600577,2020-12-24,19:33:41,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342190639321120774,2020-12-24,19:29:19,"""Check out #propmoney on audiomack. Good dude. 🔥🔥🎄🎄🔥🔥🎄 music HTTPURL""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342186079248642050,2020-12-24,19:11:12,"""@USER @USER Eeeeek thank you!!!""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342183698398064643,2020-12-24,19:01:44,"""@USER The grinch""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342182959521165313,2020-12-24,18:58:48,"""@USER Just wishing I could show my son a good time for Christmas. Barely getting by part-time.  $renbuys  for whatever you can do!  Thank you!""",2,3,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342181489627324419,2020-12-24,18:52:58,"""@USER @USER @USER To @USER you gotta hear this!!! $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342181167978708993,2020-12-24,18:51:41,"""@USER @USER @USER Yo @USER you gotta hear this!!!! $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342180750037291009,2020-12-24,18:50:01,"""@USER @USER Anytime hun""",1,1,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342179675091693570,2020-12-24,18:45:45,"""@USER @USER Its fireeeeeee 🔥 🔥 #propmoney""",1,1,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342175743569252353,2020-12-24,18:30:08,"""@USER $renbuys @USER""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342175057775353859,2020-12-24,18:27:24,"""@USER $renbuys  please anything helps.  🎄 🤶""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342174693231570949,2020-12-24,18:25:57,"""@USER $renbuys.   Bless you for doing this""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342171272462086145,2020-12-24,18:12:22,"""@USER @USER Followed both, retweeted and joined group $renbuys HTTPURL""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342169113905553408,2020-12-24,18:03:47,"""@USER $renbuys could really use a blessing to show my son a fun night. Merry Christmas!!!🎁🎄""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342168820706906113,2020-12-24,18:02:37,"""@USER Could really use a blessing $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342167466982649856,2020-12-24,17:57:15,"""@USER I had posted on one part of the giveaway tweet, but I posted on the others now too.  Thanks!""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342167326343503873,2020-12-24,17:56:41,"""@USER @USER $renbuys""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342167269510705153,2020-12-24,17:56:27,"""@USER @USER @USER $renbuys""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342165961210736641,2020-12-24,17:51:16,"""@USER Im just trying to take my son out and show him some lights and get some grub.  Show him a good time on Christmas.  $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342164384387313665,2020-12-24,17:45:00,"""@USER $renbuys  please help and merry Christmas!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342162396656394240,2020-12-24,17:37:06,"""@USER $renbuys whatever you can do!!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342161304115695616,2020-12-24,17:32:45,"""@USER $renbuys  just trying to take my kid out to see some Christmas lights and out to eat.   Gas and food.  Merry Christmas!!!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342160236841492481,2020-12-24,17:28:31,"""@USER Thankful that the COVID impact was limited and a chance to show up against Northwestern!!  $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342157789607636992,2020-12-24,17:18:47,"""@USER @USER $renbuys""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342156767657136130,2020-12-24,17:14:44,"""@USER Kohls until 6 on Christmas Eve aaaaaa""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342155070343966722,2020-12-24,17:07:59,"""@USER I second cashapp!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342154456486584321,2020-12-24,17:05:33,"""@USER Hi $renbuys.    Commented and retweeted.   Thanks!!!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342152144229695488,2020-12-24,16:56:21,"""@USER $renbuys liked and retweeted""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342149468762890240,2020-12-24,16:45:43,"""@USER Just wanna take my son to see some lights and out to eat.  Looking for a blessing.   $renbuys""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342148741617373187,2020-12-24,16:42:50,"""@USER @USER $renbuys""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342148015507836933,2020-12-24,16:39:57,"""@USER $renbuys sob sob 😭""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342147855092502531,2020-12-24,16:39:19,"""@USER I could use some cash to take my son out to eat.  $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342147222121689088,2020-12-24,16:36:48,"""@USER Liked and followed.  $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342146194911408129,2020-12-24,16:32:43,"""@USER @USER Ok I think its done!!""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342143440319090689,2020-12-24,16:21:46,"""@USER $renbuys  Anything helps!!!! Merry Christmas 🎄🎁""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342142081272307713,2020-12-24,16:16:22,"""@USER Done.   $renbuys""",0,1,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342141856558288897,2020-12-24,16:15:29,"""@USER @USER $renbuys. Just trying to give my son a good time for Christmas this year.""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342141288993460224,2020-12-24,16:13:13,"""@USER $renbuys  just hoping to have something to give this year.   Thanks for helping whoever wins!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342139989791035393,2020-12-24,16:08:03,"""@USER $renbuys literally all I need. Some gas to take my son to see some Christmas lights and somethjng to take him out to eat.  Either way, merry Christmas.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342139522931429376,2020-12-24,16:06:12,"""@USER $renbuys literally anything will help""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342138373088174083,2020-12-24,16:01:38,"""@USER I wouldnt mind lol.  Desperate times and whatnot""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342138085325336578,2020-12-24,16:00:29,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342137536123203587,2020-12-24,15:58:18,"""@USER $renbuys  anything can help!   Merry christmas!!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342137307802038273,2020-12-24,15:57:24,"""@USER $renbuys  hoping for a blessing! 🌲 🎄 🎅""",0,1,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342136813750771720,2020-12-24,15:55:26,"""@USER $renbuys  everything is just so thin financially this year.  Would love to take my son out to eat or see some Christmas lights or buy him something. Either way, awesome you are helping!!""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342136344987000833,2020-12-24,15:53:34,"""@USER @USER $renbuys   Would love to take me son out to eat today""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342135951523508227,2020-12-24,15:52:01,"""@USER @USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342135663639068675,2020-12-24,15:50:52,"""@USER $renbuys anything can help""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342135518902046720,2020-12-24,15:50:18,"""@USER Wish it was me""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342135296142532610,2020-12-24,15:49:24,"""@USER @USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342134509949620232,2020-12-24,15:46:17,"""@USER $renbuys  anything will help""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342134143770124288,2020-12-24,15:44:50,"""@USER Honestly Christmas is thin this year, but I know I can give my son a good night by taking him out to eat and seeing some Christmas lights.  Hoping for some miracles this year.  $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342133394285670401,2020-12-24,15:41:51,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342133275209441280,2020-12-24,15:41:23,"""@USER $renbuys Hoping for a miracle 🙏""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342133073756958727,2020-12-24,15:40:35,"""@USER I can be for sure""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342132754964766721,2020-12-24,15:39:19,"""@USER $renbuys please help""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342132459559923712,2020-12-24,15:38:08,"""@USER $renbuys please help""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342131340972580865,2020-12-24,15:33:41,"""@USER Done!   $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1342130917314351105,2020-12-24,15:32:00,"""@USER $renbuys  just trying to take my kid out to eat and see some Christmas lights.   Anything will help.   Either way, awesome youre doing this.""",1,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1341805132892278785,2020-12-23,17:57:27,"""@USER $renbuys #KKWHoliday would really be a blessing.  Either way so awesome that youd do this.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1341755106975428616,2020-12-23,14:38:40,"""@USER Please sign this for the short term help.  Really have no other options right now and was counting on something happening soon.  Please help sir, show Americans the compassion Ive seen for the last 4 years.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1339793561672437761,2020-12-18,04:44:11,"""@USER $renbuys""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1329488433920741379,2020-11-19,18:15:18,"""@USER $renbuys  Ive run into some hardship lately and Id love to be able to get the people who support and help me something for Christmas.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1329486192920965121,2020-11-19,18:06:23,"""@USER @USER @USER When is the next game?  I cant find any info on it 😭😭""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1266097002418442241,2020-05-28,20:00:22,"""@USER are you going for ""we went to hilarities for the comedy show last night, mattwasfunny?"" Or is it ""I miss five years ago, you know back when mattwasfunny?""""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,1014673815840940032,2018-07-05,00:54:24,"""@USER I like to see the game, but you guys locked me out of my account because of the steve incident.  I had nothing to do with that,  great business.""",0,0,Twitter Web App,1864302516,123,721,0,1539
+CONTROL,977258785340346368,2018-03-23,19:00:25,"""i want them!!! HTTPURL""",0,0,Twitter Web Client,1864302516,123,721,0,1539
+CONTROL,899831527139356672,2017-08-22,03:12:08,"""Seriously one of the worst #RAW crowds I've ever seen.  Be ashamed Brooklyn #RAWBrooklyn""",1,0,Twitter Web Client,1864302516,123,721,0,1539
+CONTROL,899824111316348928,2017-08-22,02:42:40,"""This Brooklyn crowd is just disrespectful.    #WWE #RAW #RAWBrooklyn""",1,1,Twitter Web Client,1864302516,123,721,0,1539
+CONTROL,892119541085609984,2017-07-31,20:27:28,"""I just earned a badge from Speedway's Quest to Refresh! HTTPURL""",0,0,Twitter Web Client,1864302516,123,721,0,1539
+CONTROL,803828847493922816,2016-11-30,05:11:46,"""@USER pleeeeeeaaaaase give us @USER vs @USER next week!  Don't tease me!""",0,0,Twitter Web Client,1864302516,123,721,0,1539
+CONTROL,605572985924276225,2015-06-02,03:13:45,"""@USER  what kinda surgery?""",0,0,Twitter Web Client,1864302516,123,721,0,1539

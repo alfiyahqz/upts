@@ -1,0 +1,663 @@
+class,tweet_id,day,time,tweet,tweet_favorite_count,tweet_retweet_count,tweet_source,user_id,user_followers_count,user_friends_count,user_listed_count,user_statuses_count
+CONTROL,1551239954797314051,2022-07-24,16:16:40,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1547860503774408704,2022-07-15,08:27:56,"""2 people unfollowed me // automatically checked by HTTPURL""",1,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1540814325933301762,2022-06-25,21:48:56,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1536845817251778560,2022-06-14,22:59:30,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1533525020365963266,2022-06-05,19:03:51,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1532449583300853761,2022-06-02,19:50:26,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1531388289785143298,2022-05-30,21:33:14,"""one person followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1530316132963475456,2022-05-27,22:32:52,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1529271439567863818,2022-05-25,01:21:38,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1527910097896329216,2022-05-21,07:12:09,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1526724072402452480,2022-05-18,00:39:18,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1525653645735481344,2022-05-15,01:45:49,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1524560725213073408,2022-05-12,01:22:56,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1522041848361099266,2022-05-05,02:33:49,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1520941372961959936,2022-05-02,01:40:55,"""one person followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1515498277256454150,2022-04-17,01:12:00,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1514328865925222409,2022-04-13,19:45:11,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1513236914874335250,2022-04-10,19:26:09,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1512182565356158977,2022-04-07,21:36:33,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1511145011596963846,2022-04-05,00:53:41,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1508899875202736128,2022-03-29,20:12:18,"""2 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1507835868991705091,2022-03-26,21:44:20,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1506684070671040516,2022-03-23,17:27:29,"""one person followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1503512409503408132,2022-03-14,23:24:26,"""one person followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1502199995314974722,2022-03-11,08:29:23,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1500997770282475521,2022-03-08,00:52:10,"""one person followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1499907932716253190,2022-03-05,00:41:32,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1498786949267656705,2022-03-01,22:27:09,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1496631552268292103,2022-02-23,23:42:22,"""2 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1495579756070420486,2022-02-21,02:02:55,"""4 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1494498173552898049,2022-02-18,02:25:05,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1493383185929064453,2022-02-15,00:34:31,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1490095648900882432,2022-02-05,22:51:01,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1489011229624610818,2022-02-02,23:01:56,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1487946426634096640,2022-01-31,00:30:47,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1486880513310830595,2022-01-28,01:55:13,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1485788595927584771,2022-01-25,01:36:20,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1481075431201779713,2022-01-12,01:27:54,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1480005282084405250,2022-01-09,02:35:31,"""one person followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1478889931665817600,2022-01-06,00:43:30,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1477777272530743301,2022-01-02,23:02:12,"""2 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1476698187180216321,2021-12-30,23:34:18,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1475577471391211523,2021-12-27,21:20:58,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1474523791292305412,2021-12-24,23:34:01,"""3 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1473439707992371201,2021-12-21,23:46:16,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1470920430005456904,2021-12-15,00:55:33,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1469856833137520643,2021-12-12,02:29:12,"""2 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1468771757108740097,2021-12-09,02:37:30,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1465513574462283783,2021-11-30,02:50:38,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1463058998194810882,2021-11-23,08:17:02,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1460249374248812548,2021-11-15,14:12:35,"""3 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1458868766964690951,2021-11-11,18:46:33,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1457552985093967874,2021-11-08,03:38:06,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1456194726173069312,2021-11-04,09:40:52,"""one person followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1455002313475694592,2021-11-01,02:42:38,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1453645213814202370,2021-10-28,08:50:01,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1451359656664784897,2021-10-22,01:28:01,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1450075367109181458,2021-10-18,12:24:43,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1448195245523574785,2021-10-13,07:53:47,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1446877564212027395,2021-10-09,16:37:47,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1445579910362251270,2021-10-06,02:41:22,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1442721158063955968,2021-09-28,05:21:43,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1441208533689667586,2021-09-24,01:11:05,"""2 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1439513175809011714,2021-09-19,08:54:20,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1438046941175324674,2021-09-15,07:48:03,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1436581720984363011,2021-09-11,06:45:47,"""one person followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1435152139274395649,2021-09-07,08:05:08,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1433738665038131238,2021-09-03,10:28:29,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1432294962784264192,2021-08-30,10:51:44,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1429495235567099915,2021-08-22,17:26:37,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1428008430053249028,2021-08-18,14:58:35,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1426572497370206212,2021-08-14,15:52:42,"""3 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1425116293338968073,2021-08-10,15:26:16,"""3 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1423705970845392896,2021-08-06,18:02:09,"""4 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1422245107139481605,2021-08-02,17:17:12,"""3 people followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1420795111735271427,2021-07-29,17:15:26,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1419344006648053764,2021-07-25,17:09:15,"""one person followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1417888379782455296,2021-07-21,16:45:07,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1415036277720854528,2021-07-13,19:51:53,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1413962965401878528,2021-07-10,20:46:55,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1412846389999112200,2021-07-07,18:50:03,"""4 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1411736272708771844,2021-07-04,17:18:50,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1410704110266032128,2021-07-01,20:57:24,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1409578624580296705,2021-06-28,18:25:07,"""one person followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1408492754859143169,2021-06-25,18:30:15,"""one person followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1407412344876044293,2021-06-22,18:57:06,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1406369652045926401,2021-06-19,21:53:48,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1405347595250241536,2021-06-17,02:12:31,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1402633288959864834,2021-06-09,14:26:50,"""2 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1398267160192065545,2021-05-28,13:17:24,"""3 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1396799916773724165,2021-05-24,12:07:06,"""one person followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1395338748607582211,2021-05-20,11:20:56,"""3 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1393870320226996231,2021-05-16,10:05:55,"""3 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1389753757173420038,2021-05-05,01:28:10,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1386986674266181637,2021-04-27,10:12:46,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1385667381557698560,2021-04-23,18:50:22,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1384351363035975680,2021-04-20,03:40:59,"""3 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1382515726385356800,2021-04-15,02:06:49,"""3 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1381359319187390464,2021-04-11,21:31:40,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1380224523010719749,2021-04-08,18:22:24,"""3 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1379125010724487177,2021-04-05,17:33:20,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1376967684638846981,2021-03-30,18:40:53,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1375941352861675521,2021-03-27,22:42:36,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1374886769649446913,2021-03-25,00:52:04,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1373701387595436038,2021-03-21,18:21:47,"""2 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1372631256790360069,2021-03-18,19:29:28,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1371572592935600134,2021-03-15,21:22:43,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1370502339690381314,2021-03-12,22:29:55,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1369380749737136130,2021-03-09,20:13:07,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1367310762117636103,2021-03-04,03:07:43,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1366119799387021315,2021-02-28,20:15:16,"""4 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1365015359158378498,2021-02-25,19:06:37,"""one person followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1363927944394121216,2021-02-22,19:05:37,"""3 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1362840270778294272,2021-02-19,19:03:35,"""3 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1361734834482208774,2021-02-16,17:50:59,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1360665504650829845,2021-02-13,19:01:50,"""one person followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1359586137430515722,2021-02-10,19:32:49,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1358485054968786951,2021-02-07,18:37:31,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1357426100079583233,2021-02-04,20:29:36,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1355277622167687173,2021-01-29,22:12:19,"""2 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1354192807049748481,2021-01-26,22:21:39,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1353154508768108546,2021-01-24,01:35:49,"""one person followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1349868884850040833,2021-01-14,23:59:56,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1348778322889764865,2021-01-11,23:46:25,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1347700480730923016,2021-01-09,00:23:28,"""one person followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1346544659762450438,2021-01-05,19:50:39,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1345448200027721728,2021-01-02,19:13:42,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1344358625792430080,2020-12-30,19:04:08,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1343294975610646534,2020-12-27,20:37:34,"""one person followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1342228106644512773,2020-12-24,21:58:12,"""3 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1341117335302795269,2020-12-21,20:24:24,"""2 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1340053808643256322,2020-12-18,21:58:19,"""one person followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1338971673224212480,2020-12-15,22:18:18,"""3 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1337880063409270789,2020-12-12,22:00:38,"""one person followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1336763609607794688,2020-12-09,20:04:15,"""4 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1335672292962152449,2020-12-06,19:47:44,"""4 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1334598036601909265,2020-12-03,20:39:02,"""3 people followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1333493677533106183,2020-11-30,19:30:42,"""one person followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1332461586246733833,2020-11-27,23:09:32,"""one person followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1330307414470615040,2020-11-22,00:29:38,"""3 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1329165329449308163,2020-11-18,20:51:23,"""5 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1328080894977069057,2020-11-15,21:02:14,"""3 people followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1327007055811653635,2020-11-12,21:55:11,"""3 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1325917065895694337,2020-11-09,21:43:57,"""one person followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1324825133547180039,2020-11-06,21:25:00,"""3 people followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1323715958792425478,2020-11-03,19:57:32,"""3 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1322606631146934272,2020-10-31,18:29:28,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1321545466023186437,2020-10-28,20:12:46,"""4 people followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1320496039229620224,2020-10-25,22:42:44,"""2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1319399671803105283,2020-10-22,22:06:09,"""3 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1318264421114892295,2020-10-19,18:55:04,"""3 people followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1317179198222569474,2020-10-16,19:02:47,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1316100635654336515,2020-10-13,19:36:58,"""2 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1315069217381715968,2020-10-10,23:18:28,"""2 people followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1313941818661318656,2020-10-07,20:38:36,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1312878180710133766,2020-10-04,22:12:05,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1311779653456195584,2020-10-01,21:26:55,"""2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1310709099286401024,2020-09-28,22:32:55,"""3 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1309626039015014402,2020-09-25,22:49:14,"""2 people followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1308556009158463490,2020-09-22,23:57:19,"""one person followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1307216055433977856,2020-09-19,07:12:49,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1306034853687832577,2020-09-16,00:59:08,"""3 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1304936766852476930,2020-09-13,00:15:44,"""4 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1303814904219152391,2020-09-09,21:57:51,"""one person followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1302729263276269568,2020-09-06,22:03:54,"""3 people followed me and 3 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1301404316159406080,2020-09-03,06:19:02,"""2 people followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1300240549694275585,2020-08-31,01:14:39,"""2 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1299089776080027650,2020-08-27,21:01:53,"""one person followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1297972562429911044,2020-08-24,19:02:28,"""5 people followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1296879276348801024,2020-08-21,18:38:08,"""2 people followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1295778210236567553,2020-08-18,17:42:54,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1294516244524290049,2020-08-15,06:08:18,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1293352655696388096,2020-08-12,01:04:37,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1292271891034574848,2020-08-09,01:30:02,"""2 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1291203416111407105,2020-08-06,02:44:18,"""one person followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1289821493916864513,2020-08-02,07:13:02,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1288583736850817026,2020-07-29,21:14:38,"""3 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1287495882238308353,2020-07-26,21:11:53,"""3 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1286406680557899776,2020-07-23,21:03:47,"""one person followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1285309892346236928,2020-07-20,20:25:32,"""2 people followed me and 4 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1284234135268188161,2020-07-17,21:10:52,"""3 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1283141755500732416,2020-07-14,20:50:08,"""2 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1282052386383712263,2020-07-11,20:41:22,"""2 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1280972680775204864,2020-07-08,21:11:01,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1279872487388569600,2020-07-05,20:19:14,"""2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1278790475382689792,2020-07-02,20:39:42,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1277684359676538881,2020-06-29,19:24:24,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1276657004329697280,2020-06-26,23:22:03,"""2 people followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1275547523931930626,2020-06-23,21:53:22,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1274460174863011842,2020-06-20,21:52:38,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1273377952638664711,2020-06-17,22:12:16,"""2 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1272289892823961601,2020-06-14,22:08:43,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1271208275711836160,2020-06-11,22:30:45,"""one person followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1270109498884136969,2020-06-08,21:44:36,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1269064000115019776,2020-06-06,00:30:10,"""4 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1268001539207114758,2020-06-03,02:08:19,"""one person followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1265764818478419969,2020-05-27,22:00:24,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1264717642792939520,2020-05-25,00:39:18,"""one person followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1263623764664819713,2020-05-22,00:12:37,"""3 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1262509793941565440,2020-05-18,22:26:05,"""2 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1261434703271378948,2020-05-15,23:14:04,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1260334816479907841,2020-05-12,22:23:30,"""6 people followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1260039076264022016,2020-05-12,02:48:20,"""Im back 🤗""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1259256631214432259,2020-05-09,22:59:11,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1258165109203120128,2020-05-06,22:41:52,"""one person followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1257056456404275201,2020-05-03,21:16:28,"""3 people followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1256016515788427271,2020-05-01,00:24:07,"""5 people followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1254935636810833921,2020-04-28,00:49:06,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1253632336849141761,2020-04-24,10:30:15,"""3 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1252428041474551808,2020-04-21,02:44:48,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1251340678988259332,2020-04-18,02:44:01,"""2 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1250209142339514368,2020-04-14,23:47:41,"""6 people followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1248883396727758849,2020-04-11,07:59:39,"""2 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1247707962879197184,2020-04-08,02:08:54,"""3 people followed me and 4 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1246325623422717952,2020-04-04,06:35:58,"""4 people followed me and 3 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1244896131949174784,2020-03-31,07:55:41,"""9 people followed me and 3 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1244566216049446913,2020-03-30,10:04:43,"""Hays Thank you lord for the first time 😇☝🏻🙏🙏 HTTPURL""",2,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1244478591254978561,2020-03-30,04:16:32,"""Mao gud. 😏 HTTPURL""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1244274376414908417,2020-03-29,14:45:03,"""Dawbeee HTTPURL""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1244257143882014729,2020-03-29,13:36:34,"""@USER Thanks jai! 🤗""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1244215480300138496,2020-03-29,10:51:01,"""Strategy for war. To reduce the population of other countries. Charooot lang 😂 daghan predictions na inani akong gaka read. HTTPURL""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1244157396617846784,2020-03-29,07:00:13,"""Bee Gees &amp; Kenny Rogers 👌🏻""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1244082666695053312,2020-03-29,02:03:16,"""A new kid in town""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1243740789584216064,2020-03-28,03:24:46,"""Happy birthday PRRD 🥳🎉👊🏻""",3,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1243573468467101697,2020-03-27,16:19:54,"""@USER Happy birthday sangaaay 🥳🎉🎉""",1,1,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1243572930971226112,2020-03-27,16:17:45,"""Same HTTPURL""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1243572356854861824,2020-03-27,16:15:28,"""It all starts with your self. HTTPURL""",3,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1243473828287778818,2020-03-27,09:43:57,"""12 people followed me and 9 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1243434787387260933,2020-03-27,07:08:49,"""Wer u cancer HTTPURL""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1243358501151227904,2020-03-27,02:05:41,"""Your parents raised you right, you did wrong on your own. HTTPURL""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1243169596892315648,2020-03-26,13:35:03,"""Reality really hurts. All you have to do is to accept it""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1243157585366110210,2020-03-26,12:47:19,"""Game! HTTPURL""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1242883056366583808,2020-03-25,18:36:26,"""Hello 🤗 HTTPURL""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1242664995369844736,2020-03-25,04:09:57,"""Shyt 🤤🤤🤤 HTTPURL""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1242003987043430401,2020-03-23,08:23:20,"""14 people followed me and 5 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1241971018240933888,2020-03-23,06:12:20,"""Back to city nah""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1241700450707091459,2020-03-22,12:17:11,"""Chruuu 💯 HTTPURL""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1241693023253098497,2020-03-22,11:47:40,"""@USER More moree haha""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1241686867512152064,2020-03-22,11:23:13,"""@USER Sorry kirs 😂😂""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1241357994689875968,2020-03-21,13:36:23,"""Da best duo ever 💯 HTTPURL""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1241332939251568640,2020-03-21,11:56:50,"""@USER Carmen?""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1241323245472604160,2020-03-21,11:18:19,"""Hayss. RIP :( HTTPURL""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1241319398251458560,2020-03-21,11:03:01,"""@USER Haha literal na cooking""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1240974775796654080,2020-03-20,12:13:37,"""@USER Sa new leaf ba?""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1240921936185577472,2020-03-20,08:43:39,"""@USER @USER Kanaaaa. Next week same place?""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1240834563724566528,2020-03-20,02:56:28,"""Off to Malaybalay""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1240833419598278656,2020-03-20,02:51:55,"""9 people followed me and 7 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1240660040916205576,2020-03-19,15:22:58,"""Sorry""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1240657675622289413,2020-03-19,15:13:34,"""MARRY FUCK FUCK HTTPURL""",1,1,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1240656927543054338,2020-03-19,15:10:36,"""Double purpose HTTPURL""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1240647108350210048,2020-03-19,14:31:35,"""Drink lang HTTPURL""",2,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1240594121921671169,2020-03-19,11:01:02,"""Malaybalay toms""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1240588367210745856,2020-03-19,10:38:10,"""Most awaited HTTPURL""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1240587024886726656,2020-03-19,10:32:50,"""Here's mine 😝 ▫️lockscreen ▫️homescreen ▫️last song u listened to ▫️15th photo in your gallery   Tag 6 mutuals: @USER @USER @USER @USER @USER @USER HTTPURL HTTPURL""",2,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1240293574010212353,2020-03-18,15:06:46,"""@USER Time will come""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1240282620199460871,2020-03-18,14:23:14,"""@USER HAHAHA thank you""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1240261883577266176,2020-03-18,13:00:50,"""Shat ta""",4,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1240257553142960128,2020-03-18,12:43:38,"""Thank you bro @USER sa among video ni @USER""",2,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1239641439396601859,2020-03-16,19:55:25,"""10 people followed me and 4 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1239556254827085825,2020-03-16,14:16:55,"""Would u date:  1. Yes 2. No 3. No 4. Yes 5. Yes 6. Yes 7. Yes 8. YESYES! Ugma deretso? 9. Yes 10. Yes""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1239525057296084995,2020-03-16,12:12:57,"""Don't lie! Name drop: 1. Rance 2. Quimby 3. My younger sister 4. Cassy 5. My father 6. My older sister 7. My niece 8. My older sister 9. My father&amp;mother 10. Jisiel  ️ For the questions!""",4,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1239390909352927232,2020-03-16,03:19:54,"""Would u date:  1. Yes 2. No 3. No 4. Yes 5. Yes 6. Yes 7. Yes 8. YES YES! 9. Yes 10. Yes""",2,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1239354199533477889,2020-03-16,00:54:01,"""wild game !️ have you....?  1. Yes 2. None 3. Yes 4. None 5. Yes 6. None 7. None 8. Yes 9. Yes 10. Yes 11. Wala pajud bay :(  wild level: 1. YES 2. YES 3. YES 4. YES 5. YES  like for the qs 🤡""",4,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1239218235515404288,2020-03-15,15:53:45,"""fave this &amp; ill send u a name  1. Classmates 2.  4/5 months 3. Yes 4. Yes 5. Sa math 58 na class 6. Hmm none 7. Red 8. 💁🏻‍️ 9. Ayaw pag shift 10. Anywhere she goes 11. Me i think hmm 12. I think not 13. Me 14. Yes i would 15. Yes opcors""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1239213954682867719,2020-03-15,15:36:44,"""Purgeeee HTTPURL""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1239173779995025408,2020-03-15,12:57:06,"""John Wick ☑️ Hobbs &amp; Shaw ☑️""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1239080700503928832,2020-03-15,06:47:14,"""expose yourself ;  1. Shat lang 2. Nope 3. Sahay 4. Blue 5. J 6. Amping 7. Girls 8. Night with her 9. Stay safe 10. 24 11. None 12. Yes 13. 🤗     and ill send you the questions !!""",2,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1238700990284460032,2020-03-14,05:38:24,"""Hays HTTPURL""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1238673904803049474,2020-03-14,03:50:47,"""Unli wings ta""",2,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1238604924092481537,2020-03-13,23:16:40,"""Tf. I forgot what happened last night 🤦🏻‍️""",3,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1238579838635642891,2020-03-13,21:36:59,"""5 people followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1238476719146729474,2020-03-13,14:47:14,"""@USER Proud of you matt""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1238465725804589056,2020-03-13,14:03:33,"""@USER Finals week naman jud na jayceeee""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1238439613426892800,2020-03-13,12:19:47,"""To me, being single is for you to find your true love. Someday HTTPURL""",5,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1238069433915981824,2020-03-12,11:48:49,"""@USER Dawbeee""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1237942499231985664,2020-03-12,03:24:26,"""@USER Yes confirmed bay. Hays""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1237779984871120898,2020-03-11,16:38:39,"""Pag AB ECON na please""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1237769252272099329,2020-03-11,15:56:01,"""Sacrifice is enough for somebody""",2,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1237459192430112769,2020-03-10,19:23:57,"""one person followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1237013420630663169,2020-03-09,13:52:36,"""Lesson learned""",2,1,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1237008819999264769,2020-03-09,13:34:19,"""Why not. Friendly man oks 🤗 HTTPURL""",3,1,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1237008236621922305,2020-03-09,13:32:00,"""Attitude HTTPURL""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1236975229118734338,2020-03-09,11:20:51,"""Right HTTPURL""",3,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1236933591264677893,2020-03-09,08:35:23,"""Haysss HTTPURL""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1236796396541317120,2020-03-08,23:30:14,"""@USER Lebron James 💪🏻👑""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1236784585406435329,2020-03-08,22:43:18,"""homecourt pajud sa clippers aheem""",0,0,Twitter Web App,881118042322644993,387,391,0,7812
+CONTROL,1236605342819049472,2020-03-08,10:51:03,"""@USER Secreeeet""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1236487258884042752,2020-03-08,03:01:49,"""Why do birds suddenly appear""",5,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1236476679343583232,2020-03-08,02:19:47,"""@USER Matic 💪🏻""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1236476541267140608,2020-03-08,02:19:14,"""Think of laura""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1236397436702199811,2020-03-07,21:04:54,"""2 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1236239862535077889,2020-03-07,10:38:46,"""Reminds me of 😪💔 HTTPURL HTTPURL""",9,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1236027940673998849,2020-03-06,20:36:40,"""Reality HTTPURL""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1235837246361632768,2020-03-06,07:58:54,"""@USER Lets get wasted na""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1235552264569278467,2020-03-05,13:06:29,"""Continue with life whatever happens 👌🏻""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1235532475050254337,2020-03-05,11:47:51,"""The more the merrier""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1235284744826474498,2020-03-04,19:23:28,"""6 people followed me and 3 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1235189502865375235,2020-03-04,13:05:00,"""Thanks! HTTPURL""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1235173538845188096,2020-03-04,12:01:34,"""fall out boy boys like girls fm static secondhand serenade the red jumpsuit three doors down the hoobastank nickelback""",5,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1235082251689275394,2020-03-04,05:58:50,"""Hays HTTPURL""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1235069033059192832,2020-03-04,05:06:18,"""@USER @USER friday busss. G?""",0,0,Twitter Web App,881118042322644993,387,391,0,7812
+CONTROL,1235065333670502402,2020-03-04,04:51:36,"""defense to offense 💪 we've seen it many times HTTPURL""",4,0,Twitter Web App,881118042322644993,387,391,0,7812
+CONTROL,1234898794426163202,2020-03-03,17:49:50,"""📍scions""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1234872909333557249,2020-03-03,16:06:59,"""Miss being kissed 🤭 HTTPURL""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1234668690915807233,2020-03-03,02:35:29,"""Header 💯💙""",5,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1234483461123006464,2020-03-02,14:19:27,"""📍edens solace""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1234446958267228161,2020-03-02,11:54:24,"""@USER Not all""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1234182961790103552,2020-03-01,18:25:22,"""8 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1234147362261491712,2020-03-01,16:03:55,"""Through the years""",3,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1234088694191013889,2020-03-01,12:10:47,"""Crusaders and Seniors Nights 🏀💯🔥 HTTPURL""",21,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1233424180764262401,2020-02-28,16:10:15,"""Okay HTTPURL""",0,1,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1233116843277275137,2020-02-27,19:49:00,"""6 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1233016319135690753,2020-02-27,13:09:33,"""😺✏  Happiness HTTPURL""",0,0,Curious Cat,881118042322644993,387,391,0,7812
+CONTROL,1233008897381715973,2020-02-27,12:40:03,"""Yeah. 👌🏻 HTTPURL""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1232852538853969921,2020-02-27,02:18:45,"""Soon 🙏 HTTPURL""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1232328088324673538,2020-02-25,15:34:46,"""@USER Sadt""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1232322249815814150,2020-02-25,15:11:34,"""11:11 Thank you Lord 💯""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1232284275568824320,2020-02-25,12:40:40,"""The best point guard ng cdo @USER 💯""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1232004816790007809,2020-02-24,18:10:12,"""10 people followed me and 3 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1231897164252508160,2020-02-24,11:02:26,"""Please HTTPURL""",2,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1231560365256794113,2020-02-23,12:44:07,"""How do i live without you""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1231011414036213760,2020-02-22,00:22:46,"""Good luck @USER !! HTTPURL""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1230946838527774724,2020-02-21,20:06:10,"""4 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1230530500449562625,2020-02-20,16:31:48,"""Even 9 year old kid tried to commit suicide for being bullied 😪💔 HTTPURL""",2,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1230331977011617793,2020-02-20,03:22:56,"""Absolutely! 💯 HTTPURL""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1230280985872236544,2020-02-20,00:00:19,"""Round 1 fight! HTTPURL""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1229925745570402307,2020-02-19,00:28:43,"""Until when? 🙁 HTTPURL""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1229849328354807814,2020-02-18,19:25:04,"""4 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1229263635345625088,2020-02-17,04:37:43,"""The best all-star game 🏀💯""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1229263229773209601,2020-02-17,04:36:07,"""Well played #TeamLebron #TeamGiannis 💯👏🏻""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1229258556588744704,2020-02-17,04:17:33,"""NBA ALL-STAR 2020 is the best 💯""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1229082592336416769,2020-02-16,16:38:19,"""I easily give up things""",4,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1229056503367127044,2020-02-16,14:54:39,"""@USER @USER Unsay requirements jords?""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1228785043721592832,2020-02-15,20:55:58,"""6 people followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1228769467485704192,2020-02-15,19:54:05,"""Not now but someday""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1228633374887043073,2020-02-15,10:53:18,"""SCCS - sherwin AMS - wingcals XU - wingks HTTPURL""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1228613164817760256,2020-02-15,09:32:59,"""Next saturday 👌🏻 HTTPURL""",4,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1228346121216380928,2020-02-14,15:51:51,"""Good night""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1228015212038516737,2020-02-13,17:56:56,"""Okay nakoo, good night 😊😴""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1228000596701007873,2020-02-13,16:58:52,"""One of the best 💯 HTTPURL""",2,1,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1227683253131317260,2020-02-12,19:57:51,"""2 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1227414422722768896,2020-02-12,02:09:37,"""Guilty 🤭 HTTPURL""",5,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1227258799699853318,2020-02-11,15:51:13,"""@USER Advance""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1227067856493264896,2020-02-11,03:12:29,"""@USER Poser basad ah 😆""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1226836995730628608,2020-02-10,11:55:07,"""Artsfest 2020 champs 🏀 #ECONOMICS #🏆🏆 HTTPURL""",30,5,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1226831046387257345,2020-02-10,11:31:29,"""@USER Accepted na?""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1226799476389470209,2020-02-10,09:26:02,"""Going to iponan""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1226715670412349440,2020-02-10,03:53:01,"""Nice shot! HTTPURL""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1226682525646385152,2020-02-10,01:41:19,"""Woah HTTPURL""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1226667051390922752,2020-02-10,00:39:50,"""Happy fiesta iponan HTTPURL""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1226625592231157761,2020-02-09,21:55:05,"""7 people followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1226496883574460416,2020-02-09,13:23:38,"""Good luck jb! HTTPURL""",2,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1226496283440861191,2020-02-09,13:21:15,"""Longlive!! HTTPURL""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1226455056846688256,2020-02-09,10:37:26,"""@USER aheeem""",0,0,Twitter Web App,881118042322644993,387,391,0,7812
+CONTROL,1226452629162622976,2020-02-09,10:27:47,"""beauty HTTPURL""",4,0,Twitter Web App,881118042322644993,387,391,0,7812
+CONTROL,1226204613436571648,2020-02-08,18:02:16,"""Ana diay na. Now i know""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1225772074305650688,2020-02-07,13:23:30,"""Sana all jud HTTPURL""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1225687510740652032,2020-02-07,07:47:29,"""Fake HTTPURL""",2,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1225560805413990409,2020-02-06,23:24:00,"""Shift na 👋🏻 HTTPURL""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1225524784961871872,2020-02-06,21:00:52,"""3 people followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1225236011086565376,2020-02-06,01:53:23,"""True HTTPURL""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1224963012303286273,2020-02-05,07:48:35,"""@USER Tunay man jud na yol, way cooking""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1224951729264791553,2020-02-05,07:03:45,"""Happy birthday @USER the best big man sa SBM 💪🏻""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1224732377416515584,2020-02-04,16:32:07,"""Good luck jb! HTTPURL""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1224731620097196032,2020-02-04,16:29:07,"""Go jb!! 💙💙 HTTPURL""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1224674973081452545,2020-02-04,12:44:01,"""@USER @USER Thank you sir! @USER""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1224613035492311041,2020-02-04,08:37:54,"""Good luck ECONOMICS!! 💪🏻  VENUE❗️ Feb 5- (Macasandig Covered Court) Feb 9- (XAVIER GRADE SCHOOL Covered Court) HTTPURL""",13,3,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1224432700343193601,2020-02-03,20:41:19,"""3 people followed me and 4 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1224326478231269377,2020-02-03,13:39:13,"""FAST AND FURIOUS 9 is 🔥""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1224282751303479296,2020-02-03,10:45:28,"""@USER fake news mana""",0,0,Twitter Web App,881118042322644993,387,391,0,7812
+CONTROL,1223821217825607680,2020-02-02,04:11:30,"""Life is so unfair. 😏 HTTPURL""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1223761524600082432,2020-02-02,00:14:18,"""Sad movies always makes me cry""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1223450248858587137,2020-02-01,03:37:24,"""I will do it for kobe HTTPURL""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1223353317818085381,2020-01-31,21:12:14,"""4 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1223051142348734465,2020-01-31,01:11:30,"""Get well 🙏 HTTPURL""",2,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1222997784229335040,2020-01-30,21:39:28,"""No one dies because they want to. Most deaths come unwillingly.""",2,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1222842003764867072,2020-01-30,11:20:27,"""Thank you 🤗 HTTPURL""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1222694881841123328,2020-01-30,01:35:51,"""Hays HTTPURL""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1222264815353241601,2020-01-28,21:06:55,"""3 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1222166983317188608,2020-01-28,14:38:10,"""Finally 💙👏🏻 HTTPURL""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1222161113678151680,2020-01-28,14:14:50,"""When I look into your eyes I can see how much I love you And it makes me realize 🎶""",0,1,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1222142986307244032,2020-01-28,13:02:48,"""for me, you is enough""",0,0,Twitter Web App,881118042322644993,387,391,0,7812
+CONTROL,1222034741362188290,2020-01-28,05:52:41,"""Hays HTTPURL""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1221834970546630658,2020-01-27,16:38:52,"""Hays 😢 HTTPURL""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1221807456063328256,2020-01-27,14:49:32,"""@USER @USER @USER @USER @USER @USER Lezz go""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1221785647872008194,2020-01-27,13:22:52,"""hays HTTPURL""",0,0,Twitter Web App,881118042322644993,387,391,0,7812
+CONTROL,1221699222577115141,2020-01-27,07:39:27,"""Literally out 💔😭 HTTPURL""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1221181291107901446,2020-01-25,21:21:22,"""6 people followed me and 3 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1220880645225795584,2020-01-25,01:26:43,"""@USER Thank you jai! 💯""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1220848780007731201,2020-01-24,23:20:06,"""Good luck @USER we got your back 💪🏻 HTTPURL""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1220093530829475840,2020-01-22,21:19:00,"""5 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1218999707155996679,2020-01-19,20:52:32,"""4 people followed me and 3 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1218613376995082245,2020-01-18,19:17:24,"""Woah HTTPURL""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1218555335356514304,2020-01-18,15:26:46,"""Nice HTTPURL""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1218021922409086976,2020-01-17,04:07:10,"""@USER Sorry na ler""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1217924365456723969,2020-01-16,21:39:31,"""5 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1217754354414837761,2020-01-16,10:23:57,"""@USER @USER Girl o boy?""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1217753942928420864,2020-01-16,10:22:19,"""@USER Congrats @USER""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1217680156858257408,2020-01-16,05:29:07,"""@USER @USER Na short""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1217667884601634819,2020-01-16,04:40:21,"""Not in our home Terrence Ross!""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1217508887231782917,2020-01-15,18:08:33,"""Toinks HTTPURL""",6,1,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1217358851181203457,2020-01-15,08:12:22,"""Yeah yeah HTTPURL""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1217023122265608194,2020-01-14,09:58:18,"""Dwight howard bay naka shot nasad ug 3 points""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1216814682025140224,2020-01-13,20:10:02,"""12 people followed me and 5 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1216611446521380865,2020-01-13,06:42:27,"""LETS HAVE A SEX TALK 🤪   1. 15 2. 2years ago  3. both 4. car 5. yes 6. yes, before 7. none 8. none 9. none 10. none  11. none  12. both 13. more than 3  14. nope 15. C 16. lips,eyes, B  17. why not? hihi  If you arent scared to play, drop an emoji""",6,0,Twitter Web App,881118042322644993,387,391,0,7812
+CONTROL,1216372560255782912,2020-01-12,14:53:12,"""@USER Fast approaching na ang End of the world pao""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1216273863996166149,2020-01-12,08:21:01,"""@USER Sorry na ler""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1216001912790585344,2020-01-11,14:20:22,"""@USER Good luck""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1216001822298521600,2020-01-11,14:20:01,"""Kini moy blocked HTTPURL""",2,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1215756070137860097,2020-01-10,22:03:29,"""7 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1215716736445505536,2020-01-10,19:27:11,"""Ma control ug ma bago ko rani before my birthday 💪🏻💯""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1215665158942412802,2020-01-10,16:02:14,"""@USER Happy birthday kath!!""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1215280074917761024,2020-01-09,14:32:03,"""Mao jud HTTPURL""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1215117643604082689,2020-01-09,03:46:36,"""The easiest way to learn is through pain.""",2,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1214905440900767744,2020-01-08,13:43:23,"""Go guys! HTTPURL""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1214877821975199744,2020-01-08,11:53:38,"""Sometimes my heart cant afford to be just friends with you.""",6,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1214667691937685504,2020-01-07,21:58:39,"""8 people followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1214539989016440833,2020-01-07,13:31:13,"""how i wish HTTPURL""",1,0,Twitter Web App,881118042322644993,387,391,0,7812
+CONTROL,1214534868576522245,2020-01-07,13:10:52,"""last na 😪""",0,0,Twitter Web App,881118042322644993,387,391,0,7812
+CONTROL,1214154109416288256,2020-01-06,11:57:52,"""Better accept the fact""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1214087933378146305,2020-01-06,07:34:54,"""Ill be waiting""",3,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1214046657374875648,2020-01-06,04:50:53,"""Okay""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1213834327038951426,2020-01-05,14:47:10,"""+18  1. Nag one piece ko sa new year  2. Performance 3. beer 4. spit 5. smooth 6. Yes 7. Kaayo 8. Yes 9. Secret 10. Both 11. Hips 12. 18 13. None 14. Both 15. Yes 16. Pera 17. No 18. Yes   ❤️️ for the questions""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1213819735458091014,2020-01-05,13:49:11,"""👁 Twitter Statistics 👁 @USER --&gt; 🕛 10 min @USER --&gt; 🕐 19 min @USER --&gt; 🕥 55 min @USER --&gt; 🕞 1h @USER --&gt; 🕛 9h @USER --&gt; 🕐 18h HTTPURL""",0,0,🤖Your last visits,881118042322644993,387,391,0,7812
+CONTROL,1213541268602658818,2020-01-04,19:22:39,"""6 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1213367706117738497,2020-01-04,07:52:59,"""Last na""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1212795999158059008,2020-01-02,18:01:13,"""Crush please duet ta ️ HTTPURL""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1212761237567623170,2020-01-02,15:43:05,"""I miss you ex""",2,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1212569628724957185,2020-01-02,03:01:42,"""Rest In Peace HTTPURL""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1212461050530091008,2020-01-01,19:50:15,"""4 people followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1212244026117607424,2020-01-01,05:27:52,"""Hello birth month 🤗 HTTPURL""",4,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1212242009815048192,2020-01-01,05:19:52,"""@USER When imo bday jeb?""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1211788714717798400,2019-12-30,23:18:38,"""The king 👑💪🏻 HTTPURL""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1211396868976074752,2019-12-29,21:21:34,"""7 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1211307444929888256,2019-12-29,15:26:14,"""CRUSH GAME: Describe your crush  1. Smaller 2. Younger 3. Cute 4. I dunno 5. None 6. Sec Mall 7. November 8. First week of dec 9. Yes 10. Yes  ️ for qs""",2,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1211306710993780739,2019-12-29,15:23:19,"""This year, what have you done? 🔞  1- Yes 2- Yes 3- No 4- Yes 5- No 6- Yea 7- Yes 8- Yes 9- Yes 10- Yes 11- No 12- Yes 13- Yes 14- No 15- Yes 16- No 17- No  ️ for questions""",4,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1211250025495326720,2019-12-29,11:38:04,"""@USER Sure na A""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1211172707930234881,2019-12-29,06:30:50,"""Lakers 💪🏻 HTTPURL""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1211172597678739457,2019-12-29,06:30:24,"""@USER Econ people 💯""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1211165805527699457,2019-12-29,06:03:25,"""@USER Maybe 😅""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1211119682960257025,2019-12-29,03:00:08,"""A-Yes B-Jan 25,1996 C-J lang sa D-hmm yes? E-God F-If by Rivermaya G-shat H-black I-before J-nothing K-kagawad L-1yr&amp;5months M-Pamin N-09551848404 O-be happy  P-god Q-what is life? R-bcoz of my fam S-buttercup T-9:32 U-m2m V-none W-die X-curks Y-my niece Z-aquarious   for qs""",3,0,Twitter Web App,881118042322644993,387,391,0,7812
+CONTROL,1211116664911089665,2019-12-29,02:48:09,"""❗️SPG game❗️  1. 16 2. june 2018 3. curky 4. si J 5. 1 6. yes kaayo! 7. none 8. romantic 9. Sex 10. pwede? yaay  fav this twt and i will send u the questions""",1,0,Twitter Web App,881118042322644993,387,391,0,7812
+CONTROL,1211006097722527745,2019-12-28,19:28:47,"""No more or more HTTPURL""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1210943797426704384,2019-12-28,15:21:14,"""Dare me please HTTPURL""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1210855825947783169,2019-12-28,09:31:40,"""@USER Tunay jus way cooking ✋🏻""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1210540359379369988,2019-12-27,12:38:07,"""@USER Arats!""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1210358061254078464,2019-12-27,00:33:43,"""Yaay HTTPURL""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1210259612269785100,2019-12-26,18:02:31,"""5 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1209650823774388224,2019-12-25,01:43:25,"""Still 🍻""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1209587522755428352,2019-12-24,21:31:53,"""Same HTTPURL""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1209178126418403329,2019-12-23,18:25:05,"""6 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1208904384517570560,2019-12-23,00:17:20,"""Would You Date.....  1. Yes 2. Yes 3. Yes 4. Yes 5. No 6. Yes kaayo 💙 7.  Father 8. Yes 9. Yes yes  Like this, I'll send you the questions""",2,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1208779483374735361,2019-12-22,16:01:01,"""Straight man akong shat ah""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1208416192555171841,2019-12-21,15:57:26,"""This could be the last guys see you soon soon.""",4,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1208112607720353798,2019-12-20,19:51:05,"""6 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1207828238954725376,2019-12-20,01:01:07,"""lakers vs bucks""",0,0,Twitter Web App,881118042322644993,387,391,0,7812
+CONTROL,1207821535970390016,2019-12-20,00:34:29,"""@USER Fb lance""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1207685437516464128,2019-12-19,15:33:40,"""Way chance""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1207442847613349888,2019-12-18,23:29:42,"""Thank you maam jessica 🤗 Advance Merry Christmas 🎄💙 HTTPURL""",8,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1207031270787690496,2019-12-17,20:14:15,"""6 people followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1205969684799078401,2019-12-14,21:55:53,"""6 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1205050823593455616,2019-12-12,09:04:39,"""Whoa! Walay foul ref? HTTPURL""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1205008933955391489,2019-12-12,06:18:12,"""TELL US ABOUT YOURSELF  1. Sherwin 2. Single 3. When the childrens cry 4. 1,542 5. COC 6. J 7. XU 8. Filipino 9. None 10. None 11. My Self 12. 2019 13. Yes 14. Good job   Fave this and I'll send the questions.""",4,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1204944429993345024,2019-12-12,02:01:53,"""6 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1204742912711352325,2019-12-11,12:41:08,"""Wish i could be every little thing you want it all the time""",3,1,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1204732192766644224,2019-12-11,11:58:32,"""What if God was one of us.""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1204201179539881984,2019-12-10,00:48:28,"""@USER @USER Soft""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1203789464809738240,2019-12-08,21:32:28,"""3 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1203604887159767040,2019-12-08,09:19:01,"""congrats Kent Salado! 💪💪 HTTPURL""",11,1,Twitter Web App,881118042322644993,387,391,0,7812
+CONTROL,1203536852126330880,2019-12-08,04:48:40,"""go baban go baban go! happy birthday @USER""",0,0,Twitter Web App,881118042322644993,387,391,0,7812
+CONTROL,1203506724172259329,2019-12-08,02:48:57,"""Fr. bobby 😇🙏 HTTPURL""",27,1,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1202706662290792448,2019-12-05,21:49:48,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1202411420584775680,2019-12-05,02:16:37,"""Me too HTTPURL""",2,1,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1202410543899742208,2019-12-05,02:13:08,"""@USER Later?""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1202403773886238720,2019-12-05,01:46:13,"""@USER Need help?""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1202254385075515398,2019-12-04,15:52:36,"""Still kickin""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1202023657888894977,2019-12-04,00:35:47,"""Same here HTTPURL""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1201888133316407296,2019-12-03,15:37:15,"""Yes it sad to belong to someone else when the right one comes along""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1201588924143063048,2019-12-02,19:48:18,"""5 people followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1201076578890833921,2019-12-01,09:52:25,"""@USER Happy birthday pia! 🥳""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1201024118297989125,2019-12-01,06:23:58,"""it was all about love for a child""",1,0,Twitter Web App,881118042322644993,387,391,0,7812
+CONTROL,1200794066482368512,2019-11-30,15:09:49,"""Lets get wasted 🍻""",4,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1200529796867997697,2019-11-29,21:39:42,"""7 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1200502551633776640,2019-11-29,19:51:27,"""Im so proud that i am part of the team 💙""",9,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1200222996226433025,2019-11-29,01:20:36,"""Last game for elimination HTTPURL""",10,3,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1199442015731228672,2019-11-26,21:37:15,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1199300707699965952,2019-11-26,12:15:45,"""@USER thank you isay!""",0,0,Twitter Web App,881118042322644993,387,391,0,7812
+CONTROL,1199005648211496960,2019-11-25,16:43:17,"""@USER @USER @USER @USER @USER Go lancee p!! Stop ravena plss""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1198273054536847362,2019-11-23,16:12:13,"""7 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1198236933219946496,2019-11-23,13:48:41,"""Whats good ubec""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1197845801155743744,2019-11-22,11:54:28,"""On our way to cebu. God bless our trip 😇""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1197713173870084096,2019-11-22,03:07:27,"""@USER Just saying hehe""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1197658856215564289,2019-11-21,23:31:37,"""@USER Grabe bay. Good luck ban""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1197522731681452032,2019-11-21,14:30:42,"""FYI, free ang ticket ani. Thanks!""",4,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1196955796053078017,2019-11-20,00:57:54,"""7 people followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1196372412134129664,2019-11-18,10:19:45,"""@USER Way ga remind man jud dol""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1196274626893991936,2019-11-18,03:51:11,"""@USER Didto na haha didnt see that coming dol""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1196101177613488128,2019-11-17,16:21:57,"""@USER Borit""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1196020245728620546,2019-11-17,11:00:22,"""@USER aheeem""",0,0,Twitter Web App,881118042322644993,387,391,0,7812
+CONTROL,1195416555716333569,2019-11-15,19:01:31,"""7 people followed me and 4 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1194842523178389504,2019-11-14,05:00:31,"""@USER Congrats 😇""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1193973167745839105,2019-11-11,19:26:00,"""7 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1193315237480370177,2019-11-09,23:51:37,"""Lonely is the man without love""",3,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1193255487531208704,2019-11-09,19:54:12,"""@USER Happy birthday nicoleee""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1193210413527093248,2019-11-09,16:55:06,"""@USER Shat shat shan""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1193186570129424388,2019-11-09,15:20:21,"""Mind your own life""",3,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1193124102673854464,2019-11-09,11:12:07,"""📍Chix N Booze 🤤""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1193098168088416257,2019-11-09,09:29:04,"""@USER Hmmm arat?""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1192894087759835138,2019-11-08,19:58:08,"""5 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1192440617869041664,2019-11-07,13:56:12,"""Taboon nat imong birthday part @USER ??""",2,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1191918800930607110,2019-11-06,03:22:41,"""Sure na lakers win 💪🏻""",4,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1191792914529234946,2019-11-05,19:02:27,"""3 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1191179374038593537,2019-11-04,02:24:28,"""Okaay lakers win 💪🏻""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1190941066448400385,2019-11-03,10:37:31,"""drinks bring back all the memories and the memories bring back memories bring back you""",0,0,Twitter Web App,881118042322644993,387,391,0,7812
+CONTROL,1190692850641645568,2019-11-02,18:11:12,"""15 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1190567227847667712,2019-11-02,09:52:01,"""Jam with cousins""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1190482989249024000,2019-11-02,04:17:17,"""Lbj for threeeeeee""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1190480354945028102,2019-11-02,04:06:49,"""Woah! Nice ka green overtime""",2,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1190454622290186240,2019-11-02,02:24:34,"""kuz is back""",1,0,Twitter Web App,881118042322644993,387,391,0,7812
+CONTROL,1190147062144176128,2019-11-01,06:02:26,"""@USER Yes yes diane! 😍😍 Haha""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1190136323710930944,2019-11-01,05:19:45,"""@USER Spoil me plss""",2,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1190135476088238080,2019-11-01,05:16:23,"""Mao jud HTTPURL""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1189793179903479809,2019-10-31,06:36:14,"""@USER Hello""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1189714392704643073,2019-10-31,01:23:09,"""Hapit na end of the world""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1189628998680285190,2019-10-30,19:43:50,"""9 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1189560423676203008,2019-10-30,15:11:20,"""📍midway minkay. Overnight #teambuilding""",2,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1189162924863934464,2019-10-29,12:51:49,"""@USER Nays ka jb 💪🏻""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1188866067294113792,2019-10-28,17:12:13,"""Take care ka 👑 HTTPURL""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1188524544908320770,2019-10-27,18:35:07,"""5 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1187773034855190528,2019-10-25,16:48:53,"""Yeah yeah yeah HTTPURL""",2,1,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1187449997043912704,2019-10-24,19:25:15,"""4 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1186345875804708864,2019-10-21,18:17:52,"""3 people followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1186202966811795456,2019-10-21,08:50:00,"""@USER Woww good luck!!""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1185263675520798721,2019-10-18,18:37:36,"""6 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1184801958390951937,2019-10-17,12:02:54,"""My life here is new and that enhances my knowledge even less. HTTPURL""",14,0,Twitter Web App,881118042322644993,387,391,0,7812
+CONTROL,1184781821394898944,2019-10-17,10:42:53,"""God will bring a blessing into your life, which will erase all your sorrows.""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1184781607288180737,2019-10-17,10:42:02,"""@USER Jokee lang!! 😂😂""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1184778744235315200,2019-10-17,10:30:39,"""TW self harm, mental issues, sex  how old were you when you..  1. 10 2. 12 3. 12 4. 13 5. 12 6. 15 7. Shake 8. 16 9. 12 10. None 11. 18 12. None 13. 12 14. 16 15. 17 16. 21 17. SOON 🙏 18. 12  Drop an emoji for the questions""",2,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1184175627856949252,2019-10-15,18:34:05,"""6 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1183455768726519809,2019-10-13,18:53:37,"""@USER @USER Ill take care of it part. Thank you sa pag salig 💪🏻💯""",2,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1183096144001404931,2019-10-12,19:04:36,"""one person followed me and 4 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1182320796783349760,2019-10-10,15:43:39,"""Be strong and take heart, all you who hope in the Lord. -Psalm 31:24""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1182320051161927681,2019-10-10,15:40:41,"""Lami mag cheat day after sa finals bay""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1182022745628041221,2019-10-09,19:59:18,"""4 people followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1181932801936871425,2019-10-09,14:01:53,"""bang twice a day among practice next week""",0,0,Twitter Web App,881118042322644993,387,391,0,7812
+CONTROL,1181210375628263425,2019-10-07,14:11:14,"""@USER Unli wings""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1180925269785432065,2019-10-06,19:18:19,"""3 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1180176698702090240,2019-10-04,17:43:46,"""Follow @USER tnx""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1179864846688493568,2019-10-03,21:04:34,"""4 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1179801595053084673,2019-10-03,16:53:14,"""Good night""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1179014040997093376,2019-10-01,12:43:47,"""fetish list.  🔞🔞🔞🔞🔞🔞  1. yes 2. yes 3. yes 4. no 5. no 6. YES  7. no  8. yes  9. no 10. yes 11. yes  12. yes  Drop an emoji and I'll send you the question""",2,0,Twitter Web App,881118042322644993,387,391,0,7812
+CONTROL,1178867361673170944,2019-10-01,03:00:55,"""I still love my ex""",0,0,Twitter Web App,881118042322644993,387,391,0,7812
+CONTROL,1178760930978598912,2019-09-30,19:58:00,"""one person followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1178733990989025284,2019-09-30,18:10:57,"""Same HTTPURL""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1178323799868993536,2019-09-29,15:01:00,"""@USER Mil oh HTTPURL""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1178115786633703426,2019-09-29,01:14:26,"""Happy birthday mr. president @USER 🎉🥳 HTTPURL""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1177885516672356352,2019-09-28,09:59:25,"""Jr Siaboc live here at macasandig gym 7pm. Entrance is free""",2,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1177798040544874496,2019-09-28,04:11:49,"""I forgot who i kissed last night.""",3,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1177714380030513152,2019-09-27,22:39:23,"""4 people followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1177075160261595136,2019-09-26,04:19:21,"""bossing happy birthday bossing @USER sai ganap ani unya boss? 🥳🍻""",0,0,Twitter Web App,881118042322644993,387,391,0,7812
+CONTROL,1177069561121660928,2019-09-26,03:57:06,"""PHOTO APPROPRIATION done! next...""",0,0,Twitter Web App,881118042322644993,387,391,0,7812
+CONTROL,1177008615837724672,2019-09-25,23:54:56,"""1. School  2. 2 months 3. Yes 4. Yes 5. Nakita nako siya nag play 6. None 7. Pink 8. 🤩 9. Angel 10. Church 11. Me 12. No :( 13. Her 14. Yes 15. Always  fave &amp; Ill send u a name""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1177006866573869056,2019-09-25,23:47:59,"""Tell us about yourself 1- Sherwin Calang 2- Single 3- If by rivermaya 4- 204 5- Facebook 6- C 7- XU  8- Filipino 9- None 10- Soon 11- Plastic&amp;liars 12- 2019 13- God 14- Stay healthy  Drop an emoji for the questions""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1176928235822567424,2019-09-25,18:35:32,"""Someday. Someday. Someday 🙏🙏🙏""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1176569695148924928,2019-09-24,18:50:49,"""2 people followed me and 4 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1176549869554675712,2019-09-24,17:32:02,"""😺✏  Be loved because i miss being loved by someone 😌 HTTPURL""",0,0,Curious Cat,881118042322644993,387,391,0,7812
+CONTROL,1176419633529667584,2019-09-24,08:54:32,"""Written or Oral exam? Hmm""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1176173819200860161,2019-09-23,16:37:45,"""don't lie    - last march   - last january  - yes  - last year  - 0  - S  - C  - no  - pj  - none  - yes in the forehead  - yes 😂  drop an emoji and i'll send you the questions""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1176169830795202560,2019-09-23,16:21:54,"""I only date handsome guys.""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1176094271373332480,2019-09-23,11:21:39,"""See you on Coronation Night at Macasandig Gym September 26, 2019 7pm 🤗 HTTPURL""",4,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1175934851150536704,2019-09-23,00:48:10,"""@USER Congrats buss""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1175623160219090944,2019-09-22,04:09:38,"""See you guys! HTTPURL""",2,2,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1175573045785661440,2019-09-22,00:50:29,"""How sweet it is to be loved by you""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1175561567573725184,2019-09-22,00:04:53,"""The best jud ang sunday music bay 💯""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1175513042592894977,2019-09-21,20:52:03,"""7 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1175443814275674112,2019-09-21,16:16:58,"""Congrats arts! 👏🏻👏🏻 HTTPURL""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1175300141806313473,2019-09-21,06:46:04,"""Over-all Champion trophy #TheXavierCup2019 HTTPURL""",13,1,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1175105126245122048,2019-09-20,17:51:09,"""Sorry kaayo lord 😞 I know I have done something wrong before. I hope you can forgive me for what I have done 🙏""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1175016137915977728,2019-09-20,11:57:32,"""Naay changes sa time sa championship guys due to the unavailability of the players since dli sila iexcuse sa ila majors or activities saila profs.   VOLLEYBALL 12:00pm - 3:00pm Womens ARTS vs SBM Men ENGG vs ARTS  BASKETBALL 3:00PM-5:00PM Womens ARTS vs SBM Men ENGG vs SBM""",72,34,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1174391719296688128,2019-09-18,18:36:19,"""3 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1174172804335439872,2019-09-18,04:06:26,"""shakeee HTTPURL""",1,0,Twitter Web App,881118042322644993,387,391,0,7812
+CONTROL,1174145611504869376,2019-09-18,02:18:23,"""@USER Unli wings ta capt""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1173784244272807938,2019-09-17,02:22:26,"""way love""",3,0,Twitter Web App,881118042322644993,387,391,0,7812
+CONTROL,1173361060482564098,2019-09-15,22:20:51,"""2 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1173080197794422784,2019-09-15,03:44:48,"""First day without rara 😞😢""",2,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1172493742462230528,2019-09-13,12:54:26,"""Off to gango ayiee overnight me""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1172266367216754688,2019-09-12,21:50:56,"""6 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1171826105977716736,2019-09-11,16:41:29,"""@USER How to save a life by The Fray 👌🏻""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1171820832143761408,2019-09-11,16:20:32,"""@USER A lost a friend""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1171770385353732097,2019-09-11,13:00:04,"""Yeah yeah. Ang player jud kei way labot si Coach Pop HTTPURL""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1171768269662867456,2019-09-11,12:51:40,"""Sorry not now USA""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1171765406396084224,2019-09-11,12:40:17,"""Puro point guard""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1171271029630459904,2019-09-10,03:55:49,"""@USER Ladies first baya ge 😂""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1171269720827412481,2019-09-10,03:50:37,"""Mens(white) and Womens(yellow) basketball schedules for intrams. Good luck players AMDG! HTTPURL""",25,8,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1171117866395066368,2019-09-09,17:47:12,"""7 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1170535640359784448,2019-09-08,03:13:38,"""Happy birthday mama mary 😇️""",2,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1170088846928875526,2019-09-06,21:38:14,"""4 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1170029947789819909,2019-09-06,17:44:12,"""real friends please""",2,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1170026982400151553,2019-09-06,17:32:25,"""I know your secrets. Do not worry""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1170019807514619904,2019-09-06,17:03:54,"""I used to live alone""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1170019277656604673,2019-09-06,17:01:48,"""I lived alone without relying on others.""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1169612005050933248,2019-09-05,14:03:27,"""I was disappointed with you all 😞""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1169580768261095425,2019-09-05,11:59:19,"""@USER Search sa google lance""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1169295619589955584,2019-09-04,17:06:14,"""Hays goodnight""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1168986728339779584,2019-09-03,20:38:49,"""3 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1168840402318684163,2019-09-03,10:57:22,"""God knows what's best for you.""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1167900539016769537,2019-08-31,20:42:41,"""2 people followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1167771225931649025,2019-08-31,12:08:51,"""Way chance ge latos man""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1167326676377686017,2019-08-30,06:42:22,"""@USER Sorry na cap""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1167295249472864256,2019-08-30,04:37:29,"""Happy birthday coach rocky! 💪🏻️""",2,1,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1166785923796873225,2019-08-28,18:53:36,"""2 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1166178846451781632,2019-08-27,02:41:18,"""Happy birthday rara @USER""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1165726264734441472,2019-08-25,20:42:54,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1165285192174407680,2019-08-24,15:30:14,"""@USER Yaay thank you 😍""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1165202829608251394,2019-08-24,10:02:57,"""@USER Lets go OG""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1164618364880326656,2019-08-22,19:20:30,"""3 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1164518807508905984,2019-08-22,12:44:54,"""Off to san miguel zamboanga del sur. Have a safe trip 🙏""",6,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1164188660620652544,2019-08-21,14:53:00,"""@USER Relax lang capt""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1164138653532037120,2019-08-21,11:34:18,"""Lets go tnc! #tncvsliquid""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1163710177125830657,2019-08-20,07:11:41,"""Yes!! Nice win TNC!! 1-0""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1163508884801298432,2019-08-19,17:51:49,"""2 people followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1163306472886812672,2019-08-19,04:27:30,"""good things are going to happen soon...""",3,0,Twitter Web App,881118042322644993,387,391,0,7812
+CONTROL,1162464976457601024,2019-08-16,20:43:42,"""2 people followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1162313890706812928,2019-08-16,10:43:20,"""Nice game tnc""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1161968945986854914,2019-08-15,11:52:39,"""thank you lord 😇😇😇""",1,0,Twitter Web App,881118042322644993,387,391,0,7812
+CONTROL,1161624983056990210,2019-08-14,13:05:52,"""Dirty Work""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1161472263339700224,2019-08-14,02:59:01,"""i won't go home without you""",2,0,Twitter Web App,881118042322644993,387,391,0,7812
+CONTROL,1161471778188754945,2019-08-14,02:57:05,"""haysssssssss""",1,0,Twitter Web App,881118042322644993,387,391,0,7812
+CONTROL,1161369722744651776,2019-08-13,20:11:33,"""4 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1160601673133223936,2019-08-11,17:19:36,"""Ge ba HTTPURL""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1160600633377902592,2019-08-11,17:15:28,"""Thank you. Legit siya bay HTTPURL""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1160599232392204288,2019-08-11,17:09:54,"""Sherwin @USER""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1160281685780566017,2019-08-10,20:08:05,"""4 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1160190066079100928,2019-08-10,14:04:01,"""what's good?""",0,0,Twitter Web App,881118042322644993,387,391,0,7812
+CONTROL,1159514189817245696,2019-08-08,17:18:20,"""This is me HTTPURL""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1159253796406493184,2019-08-08,00:03:37,"""Happy birthday sir louie @USER""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1159213235414994944,2019-08-07,21:22:27,"""2 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1159137580459290625,2019-08-07,16:21:49,"""Good night""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1159129929381896194,2019-08-07,15:51:25,"""Jgh from practice""",2,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1158911629448269824,2019-08-07,01:23:58,"""The Alpha stole my boyfriend HTTPURL""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1158770112494575616,2019-08-06,16:01:38,"""@USER Welcome el""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1158609064747651073,2019-08-06,05:21:41,"""SK activities for this month 💪🏻 HTTPURL""",2,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1158430284515139584,2019-08-05,17:31:17,"""Turn over of Drum and Bugle Set to Macasandig National High School. Together with SK Chairperson And SK Kagawads 🥁🎺 HTTPURL""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1158141029285027840,2019-08-04,22:21:53,"""5 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1158007930018336768,2019-08-04,13:32:59,"""@USER Ay busss""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1157509634577453057,2019-08-03,04:32:57,"""@USER U do u""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1157224810952310784,2019-08-02,09:41:09,"""@USER Omg party party""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1157075437698396160,2019-08-01,23:47:36,"""3 people followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1156542722242576384,2019-07-31,12:30:47,"""Lamia e tanaw ug fast and furious bay""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1155965786751565825,2019-07-29,22:18:15,"""9 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1154903689435459584,2019-07-26,23:57:51,"""2 people followed me and 3 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1154691567061331969,2019-07-26,09:54:57,"""Game""",1,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1154565126260834304,2019-07-26,01:32:31,"""summoning eru""",1,0,Twitter Web App,881118042322644993,387,391,0,7812
+CONTROL,1154368907936841730,2019-07-25,12:32:49,"""hays HTTPURL""",0,0,Twitter Web App,881118042322644993,387,391,0,7812
+CONTROL,1153834996391698432,2019-07-24,01:11:15,"""7 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1153486945458065408,2019-07-23,02:08:13,"""@USER sorry wi""",1,0,Twitter Web App,881118042322644993,387,391,0,7812
+CONTROL,1152974460913364992,2019-07-21,16:11:47,"""What is your favorite fruit?  I think tanan hmm HTTPURL""",0,0,Curious Cat,881118042322644993,387,391,0,7812
+CONTROL,1152921626196893698,2019-07-21,12:41:50,"""Haayssss 😪😔""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1152790496013455360,2019-07-21,04:00:46,"""lets go pacman! 💪👊""",0,0,Twitter Web App,881118042322644993,387,391,0,7812
+CONTROL,1152490535128637441,2019-07-20,08:08:50,"""4 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,881118042322644993,387,391,0,7812
+CONTROL,1152256179411623936,2019-07-19,16:37:35,"""Dpads HTTPURL""",0,0,Twitter for iPhone,881118042322644993,387,391,0,7812
+CONTROL,1152224061604282371,2019-07-19,14:29:58,"""@USER Same here""",1,1,Twitter for iPhone,881118042322644993,387,391,0,7812

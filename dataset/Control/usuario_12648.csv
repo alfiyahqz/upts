@@ -1,0 +1,148 @@
+class,tweet_id,day,time,tweet,tweet_favorite_count,tweet_retweet_count,tweet_source,user_id,user_followers_count,user_friends_count,user_listed_count,user_statuses_count
+CONTROL,1551239961948594179,2022-07-24,16:16:42,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1549636356657369088,2022-07-20,06:04:32,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1547860513656172546,2022-07-15,08:27:58,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1546035840585027584,2022-07-10,07:37:23,"""2 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1544289954427191296,2022-07-05,11:59:51,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1542459011819180034,2022-06-30,10:44:20,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1540814332547764225,2022-06-25,21:48:58,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1539219899486048256,2022-06-21,12:13:16,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1537926757520580608,2022-06-17,22:34:46,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1535737836196048897,2022-06-11,21:36:47,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1534625475754135560,2022-06-08,19:56:40,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1532449588887670785,2022-06-02,19:50:28,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1531388296194039817,2022-05-30,21:33:16,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1527910103369895936,2022-05-21,07:12:10,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1526724077897101312,2022-05-18,00:39:19,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1524560730070167554,2022-05-12,01:22:57,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1523184917617684480,2022-05-08,06:15:58,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1522041854719672324,2022-05-05,02:33:50,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1519861860111167489,2022-04-29,02:11:19,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1517665972907397123,2022-04-23,00:45:39,"""one person followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1512182569969795073,2022-04-07,21:36:34,"""one person followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1511145017246687234,2022-04-05,00:53:42,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1510010251692675076,2022-04-01,21:44:33,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1508272463142166528,2022-03-28,02:39:12,"""Beyoncé is THAT girl. thats it""",0,0,Twitter for iPhone,882984159916044288,464,483,0,4687
+CONTROL,1504559770514173952,2022-03-17,20:46:17,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1503512423571107849,2022-03-14,23:24:30,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1499907938504298496,2022-03-05,00:41:34,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1495579760495415296,2022-02-21,02:02:56,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1493383191557722112,2022-02-15,00:34:33,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1490095654093434883,2022-02-05,22:51:03,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1485788601338277891,2022-01-25,01:36:21,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1484709552645984263,2022-01-22,02:08:36,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1478889935872610309,2022-01-06,00:43:31,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1468771761978331137,2021-12-09,02:37:31,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1467652678947852296,2021-12-06,00:30:40,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1461688996812230663,2021-11-19,13:33:08,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1457552990013906953,2021-11-08,03:38:07,"""2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1455002318294986758,2021-11-01,02:42:39,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1453645219967209473,2021-10-28,08:50:02,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1448195249919176704,2021-10-13,07:53:48,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1446877570193141762,2021-10-09,16:37:49,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1445579917014429704,2021-10-06,02:41:24,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1439513179659382787,2021-09-19,08:54:21,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1438046948582379522,2021-09-15,07:48:04,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1430950386928656384,2021-08-26,17:48:52,"""one person followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1429495242932297728,2021-08-22,17:26:39,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1423705977136848909,2021-08-06,18:02:10,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1420795119075221505,2021-07-29,17:15:28,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1417888385612517382,2021-07-21,16:45:08,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1416432760747700227,2021-07-17,16:21:00,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1415036283441885184,2021-07-13,19:51:54,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1412846394549936129,2021-07-07,18:50:04,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1411736277347622916,2021-07-04,17:18:51,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1409578629424685056,2021-06-28,18:25:08,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1408492759703490561,2021-06-25,18:30:17,"""2 people followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1406369656781381637,2021-06-19,21:53:49,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1404109549364256773,2021-06-13,16:12:58,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1402633296857735172,2021-06-09,14:26:52,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1398267166911307779,2021-05-28,13:17:25,"""one person followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1396799921391538178,2021-05-24,12:07:07,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1395338755230285827,2021-05-20,11:20:58,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1393870326979760128,2021-05-16,10:05:57,"""2 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1393074831139164167,2021-05-14,05:24:56,"""i HATE how yall acting like these songs is new,,, yall dont know chi-raq???😩😩😩😩""",2,0,Twitter for iPhone,882984159916044288,464,483,0,4687
+CONTROL,1392374286187474947,2021-05-12,07:01:13,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1386986677709721603,2021-04-27,10:12:47,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1385667386070732801,2021-04-23,18:50:23,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1382515730239926274,2021-04-15,02:06:50,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1380224528387866631,2021-04-08,18:22:25,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1379125016332279813,2021-04-05,17:33:21,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1376967689088987142,2021-03-30,18:40:54,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1374886773965402113,2021-03-25,00:52:05,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1373106304714211331,2021-03-20,02:57:08,"""@USER sir/Maam respectfully shut the entire FUCK up. You sound dumb asl, every part of your argument is wrong. try tf again.""",0,0,Twitter for iPhone,882984159916044288,464,483,0,4687
+CONTROL,1372631262054256643,2021-03-18,19:29:29,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1372329766410461188,2021-03-17,23:31:27,"""when summer walker said ""i am a child of God , so i cannot be touched &gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;🦋""",1,0,Twitter for iPhone,882984159916044288,464,483,0,4687
+CONTROL,1372329492098744322,2021-03-17,23:30:22,"""yall be screaming ""Beyoncé overrated "",,, WHAT CAN YOU DO ???? LEMME KNOW""",1,0,Twitter for iPhone,882984159916044288,464,483,0,4687
+CONTROL,1371572598031720453,2021-03-15,21:22:44,"""2 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1370502343943450624,2021-03-12,22:29:56,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1368358934856228868,2021-03-07,00:32:47,"""one person followed me // automatically checked by HTTPURL""",1,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1367310768472006656,2021-03-04,03:07:45,"""one person unfollowed me // automatically checked by HTTPURL""",1,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1365015362954215424,2021-02-25,19:06:37,"""one person followed me // automatically checked by HTTPURL""",1,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1363927950626877446,2021-02-22,19:05:38,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1362840274318331904,2021-02-19,19:03:36,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1360665509629472771,2021-02-13,19:01:52,"""one person followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1359586142442635273,2021-02-10,19:32:50,"""4 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1357426106027151361,2021-02-04,20:29:38,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1356349292760465410,2021-02-01,21:10:45,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1354192811416018948,2021-01-26,22:21:40,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1352018510533296135,2021-01-20,22:21:46,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1349868889170202624,2021-01-14,23:59:57,"""2 people followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1348778326115176448,2021-01-11,23:46:26,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1347700485952839683,2021-01-09,00:23:29,"""one person followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1347430969729540097,2021-01-08,06:32:31,"""i want a hot pickle so bad rn""",2,0,Twitter for iPhone,882984159916044288,464,483,0,4687
+CONTROL,1346919558892949511,2021-01-06,20:40:22,"""do trump supporters not understand that trump LOST????""",7,0,Twitter for iPhone,882984159916044288,464,483,0,4687
+CONTROL,1346544664019611648,2021-01-05,19:50:40,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1345448206067523586,2021-01-02,19:13:44,"""2 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1344873188535250947,2021-01-01,05:08:49,"""already tired of 2021""",1,0,Twitter for iPhone,882984159916044288,464,483,0,4687
+CONTROL,1342228110566154243,2020-12-24,21:58:13,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1341117338142334978,2020-12-21,20:24:24,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1340798324543242241,2020-12-20,23:16:46,"""asian verse was better than the city girls. I said what i said.""",1,0,Twitter for iPhone,882984159916044288,464,483,0,4687
+CONTROL,1340793010007764993,2020-12-20,22:55:38,"""twitter snapped with this one HTTPURL""",1,0,Twitter for iPhone,882984159916044288,464,483,0,4687
+CONTROL,1340053814037131266,2020-12-18,21:58:20,"""one person followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1338971677493964801,2020-12-15,22:18:19,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1337880067259699200,2020-12-12,22:00:39,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1336763615337181187,2020-12-09,20:04:16,"""2 people followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1335672297710116865,2020-12-06,19:47:46,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1334598040729104394,2020-12-03,20:39:03,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1333493682851426309,2020-11-30,19:30:43,"""one person followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1332461591242092545,2020-11-27,23:09:33,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1331393384993394689,2020-11-25,00:24:53,"""4 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1330307420128677891,2020-11-22,00:29:39,"""7 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1329165334499233799,2020-11-18,20:51:25,"""dozens of people followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1328789010047787012,2020-11-17,19:56:02,"""@USER You better get on them lil gain trains 💀""",1,0,Twitter for iPhone,882984159916044288,464,483,0,4687
+CONTROL,1328776102047850496,2020-11-17,19:04:44,"""Like ????? HTTPURL""",0,0,Twitter for iPhone,882984159916044288,464,483,0,4687
+CONTROL,1328770119321915394,2020-11-17,18:40:58,"""Just cause HTTPURL""",5,1,Twitter for iPhone,882984159916044288,464,483,0,4687
+CONTROL,1328767002299740166,2020-11-17,18:28:35,"""Why everybody doing a follow train??""",0,0,Twitter for iPhone,882984159916044288,464,483,0,4687
+CONTROL,1327007061343936520,2020-11-12,21:55:12,"""one person followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1325917071084019713,2020-11-09,21:43:58,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1324825139553439752,2020-11-06,21:25:01,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1323715964194742272,2020-11-03,19:57:33,"""2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1321545471408656384,2020-10-28,20:12:48,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1319399675779338241,2020-10-22,22:06:10,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1318264424839393289,2020-10-19,18:55:05,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1317179203092176898,2020-10-16,19:02:48,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1316100639605350400,2020-10-13,19:36:59,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1315069221626404864,2020-10-10,23:18:29,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1313941823249960961,2020-10-07,20:38:37,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1311779657688256512,2020-10-01,21:26:56,"""one person followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1310709103828897793,2020-09-28,22:32:56,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1309626043284758533,2020-09-25,22:49:15,"""one person followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1307216060395986944,2020-09-19,07:12:50,"""2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1304936773068492800,2020-09-13,00:15:45,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1303814909336186881,2020-09-09,21:57:52,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1301404321456615424,2020-09-03,06:19:03,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1296879282854256641,2020-08-21,18:38:10,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1295778214762160131,2020-08-18,17:42:55,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1289821500850266112,2020-08-02,07:13:04,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1287495888554864640,2020-07-26,21:11:55,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1284234140443971587,2020-07-17,21:10:53,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1283141760810704896,2020-07-14,20:50:10,"""2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1279872493281517573,2020-07-05,20:19:15,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1278790480432640000,2020-07-02,20:39:43,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1278516952680579073,2020-07-02,02:32:49,"""@USER Happy birthday 🥰🥰""",1,0,Twitter for iPhone,882984159916044288,464,483,0,4687
+CONTROL,1277684365368197120,2020-06-29,19:24:25,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1276657009727848450,2020-06-26,23:22:04,"""one person followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1275547529585844225,2020-06-23,21:53:24,"""2 people followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1274460180344963072,2020-06-20,21:52:39,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687
+CONTROL,1272289897303465985,2020-06-14,22:08:44,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,882984159916044288,464,483,0,4687

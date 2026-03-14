@@ -1,0 +1,508 @@
+class,tweet_id,day,time,tweet,tweet_favorite_count,tweet_retweet_count,tweet_source,user_id,user_followers_count,user_friends_count,user_listed_count,user_statuses_count
+CONTROL,1549124658867445762,2022-07-18,20:11:14,"""DJ Khaled in Prada and Nike Outfits HTTPURL""",2,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1549122641562411009,2022-07-18,20:03:13,"""Nicki Minaj in Full Burberry Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1549113854214524929,2022-07-18,19:28:18,"""Tory Lanez in Ryder Studios, Orlebar Brown, Gallery Dept., and Nike Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1548993546094534656,2022-07-18,11:30:14,"""Kendall Jenner in Dries Van Noten Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1548991081274114048,2022-07-18,11:20:27,"""Vanessa Hudgens in Poster Girl Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1548985957940068352,2022-07-18,11:00:05,"""Lil Baby in Full Rick Owens Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1548983437003935746,2022-07-18,10:50:04,"""Kourtney Kardashian in Alessandra Rich Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1548753591187476480,2022-07-17,19:36:45,"""Lil Baby in Louis Vuitton, Chanel  Pharrell, Levis  Denim Tears, and Nike  CPFM Outfits HTTPURL""",1,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1548459560746135553,2022-07-17,00:08:22,"""Kim Kardashian in Black Balenciaga Outfits HTTPURL""",1,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1548454154317619207,2022-07-16,23:46:53,"""Lil Baby in Marni and Nike Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1548446696555683840,2022-07-16,23:17:15,"""Lil Baby in Saint Laurent, Nyrva, and Lanvin Outfits HTTPURL""",2,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1548445769975205893,2022-07-16,23:13:34,"""Kendall Jenner in Heavy Manners Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1548437438825041920,2022-07-16,22:40:28,"""Ja Morant in Celine, Louis Vuitton, Dior, and Amiri Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1548433175369506824,2022-07-16,22:23:32,"""Millie Bobby Brown in Sandro, Cult Gaia, Annele, and Van Cleef &amp; Arpels Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1548430214702649345,2022-07-16,22:11:46,"""Lil Durk in Louis Vuitton, RoyGBiv, and Nike Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1548427063115231233,2022-07-16,21:59:14,"""Kendall Jenner in Frankies Bikinis Outfits HTTPURL""",2,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1547336529256878083,2022-07-13,21:45:51,"""NBA YoungBoy in Givenchy and Dior Outfits HTTPURL""",1,1,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1547334023265099778,2022-07-13,21:35:53,"""Nicki Minaj in Burberry and Givenchy Outfits HTTPURL""",1,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1547330082221473793,2022-07-13,21:20:14,"""Emma Chamberlain in Reagan Flora, Aritzia, and By Far Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1546997566549655553,2022-07-12,23:18:56,"""Lil Baby in Louis Vuitton and Richard Mille Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1546993960568213508,2022-07-12,23:04:36,"""Kodak Black in Amiri  The Great City Workshop, Amiri, and Louis Vuitton Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1546991735947104267,2022-07-12,22:55:46,"""DJ Khaled in Gucci and Nike Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1546988141587857410,2022-07-12,22:41:29,"""Kevin Hart in Vlone  Saint Michael, Gucci, and Nike Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1546986169023578113,2022-07-12,22:33:38,"""DaBaby in New Era, Prada, and Balenciaga Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1546982675285774338,2022-07-12,22:19:45,"""Ja Morant in Polo Ralph Lauren, Rhude, and Nike Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1546925793804181507,2022-07-12,18:33:44,"""Ja Morant in Amiri and Dior Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1546918787664035841,2022-07-12,18:05:53,"""DaBaby in Louis Vuitton and Balenciaga Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1546914341106196480,2022-07-12,17:48:13,"""Tory Lanez in Rhude, Dolce &amp; Gabbana, Nike, and Bottega Veneta Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1546910695903711237,2022-07-12,17:33:44,"""Chrissy Teigen in Rococo Sand and Cult Gaia Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1546908710261473281,2022-07-12,17:25:51,"""Travis Scott in Cactus Jack  Dior, Dior, and Nike  Travis Scott Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1546904473661997057,2022-07-12,17:09:01,"""NBA YoungBoy in Bottega Veneta, Casablanca, and Dior Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1546900845979226112,2022-07-12,16:54:36,"""Fivio Foreign in Full Prada Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1546268809388036096,2022-07-10,23:03:07,"""Kim Kardashian in Complete Balenciaga Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1546260787060146176,2022-07-10,22:31:14,"""North West in Balenciaga and Balenciaga  Crocs Outfits HTTPURL""",1,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1546257178343923712,2022-07-10,22:16:54,"""Jayson Tatum in Valentino, Monfrere, and Nike  Travis Scott Outfits HTTPURL""",1,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1546252002618925057,2022-07-10,21:56:20,"""North West in Louis Vuitton, Pastelle, Balenciaga, and Balenciaga  Crocs Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1546248365607993347,2022-07-10,21:41:52,"""Lil Baby in Bottega Veneta and Rick Owens Outfits HTTPURL""",1,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1546048547186941953,2022-07-10,08:27:52,"""Kylie Jenner in Alexander Wang, Amina Muaddi, and Mara Paris Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1546042430734180354,2022-07-10,08:03:34,"""Fabolous in Gallery Dept., Lanvin  Gallery Dept., and Nike Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1546036077441519616,2022-07-10,07:38:19,"""Kourtney Kardashian in Rokh, Anita Ko, and Saint Laurent Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1546034080797495296,2022-07-10,07:30:23,"""Lil Uzi Vert in Balenciaga and Doublet Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1546028464721084416,2022-07-10,07:08:04,"""Kendall Jenner in Miaou, Sommer Swim, Bottega Veneta, and Gucci Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1546024215501062144,2022-07-10,06:51:11,"""Fabolous in Human Made, Shay Xclusive, and Nike Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1546018567258243073,2022-07-10,06:28:44,"""Emily Ratajkowksi in Are You Am I, The Row, and New Balance Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1546015835675926528,2022-07-10,06:17:53,"""DaBaby in New Era, Amiri, and Nike Outfits HTTPURL""",2,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1546011724930723841,2022-07-10,06:01:33,"""Nicki Minaj in Burberry, Louis Vuitton, and Balenciaga Outfits HTTPURL""",1,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1546008774984536064,2022-07-10,05:49:50,"""J Balvin in Prada and Givenchy Outfits HTTPURL""",1,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1545362322855792641,2022-07-08,11:01:03,"""Roddy Ricch in New Era, Rhude, The Attico, and Louis Vuitton Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1544811095633838080,2022-07-06,22:30:41,"""Lil Uzi Vert in Balenciaga and Louis Vuitton  Nike Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1544806848099917824,2022-07-06,22:13:48,"""Lil Durk in Off-White and Amiri Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1544803368559935488,2022-07-06,21:59:58,"""Coi Leray in Market, Nike, and MCM Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1544800386187403265,2022-07-06,21:48:07,"""J Balvin in Full Loewe Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1544797173400870914,2022-07-06,21:35:21,"""DaBaby in New Era, Gallery Dept., Celine, and Nike Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1544471680042631170,2022-07-06,00:01:58,"""Offset in Balenciaga and Adidas  Balenciaga Outfits HTTPURL""",3,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1544455305383145473,2022-07-05,22:56:54,"""Jack Harlow in Versace, Stone Island, and New Balance  Aime Leon Dore Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1544451674500112386,2022-07-05,22:42:28,"""Cardi B in Marni, Eckhaus Latta, and Peter Do Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1544448696447901696,2022-07-05,22:30:38,"""Kevin Hart in Local Authority LA, Audemars Piguet, Gucci, and Nike Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1543352340601835523,2022-07-02,21:54:06,"""Bebe Rexha in Balenciaga Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1543350395375824896,2022-07-02,21:46:22,"""Fivio Foreign in Bottega Veneta and Marni Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1543338647008808963,2022-07-02,20:59:41,"""Kim Kardashian in Rick Owens Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1542982334798073857,2022-07-01,21:23:50,"""Khloe Kardashian in TTSWTRS, Jennifer Fisher, and Yeezy Season 2 Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1542978501548163073,2022-07-01,21:08:36,"""Lil Durk in Rhude, Gucci, Rta, and Nike  Off-White Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1542943324859924480,2022-07-01,18:48:49,"""Jordyn Woods in Balmain, Balenciaga, and Tom Ford Outfits HTTPURL""",3,1,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1542941464895885312,2022-07-01,18:41:26,"""Dua Lipa in Loewe, Des Phemmes, Mowalola, and Balenciaga Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1542932312677048320,2022-07-01,18:05:04,"""Latto in Palm Angels and Alexander McQueen Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1542927980833525760,2022-07-01,17:47:51,"""Megan Fox in Andamane Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1542566975813074945,2022-06-30,17:53:21,"""Soulja Boy in Louis Vuitton, Burberry, Amiri, and Lanvin Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1542108252598591489,2022-06-29,11:30:33,"""Dua Lipa in Balenciaga, and Chopova Lowena Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1542105206455934976,2022-06-29,11:18:26,"""Olivia Culpo in Alexis, Balenciaga, and Christian Dior Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1542099257561415681,2022-06-29,10:54:48,"""Swae Lee in Rick Owens, Alchemist, Who Decides War, and Alexander McQueen Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1542089679696273409,2022-06-29,10:16:44,"""Khloé Kardashian in Skims, Good American, and Christian Louboutin Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1542086029200457728,2022-06-29,10:02:14,"""Jacquees in Full Louis Vuitton Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1541901747744038912,2022-06-28,21:49:58,"""Kim Kardashian in Black Balenciaga Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1541898498311864322,2022-06-28,21:37:03,"""Fabolous in Loewe, Just Don, and Jordan  Fragment Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1541431160378638337,2022-06-27,14:40:01,"""Lil Uzi Vert in Saint Laurent, Balenciaga, and Louis Vuitton  Nike Outfits HTTPURL""",1,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1541421427118772226,2022-06-27,14:01:21,"""Ja Morant in Amiri and Dior Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1541420891543846917,2022-06-27,13:59:13,"""Bella Hadid in Roberto Cavalli, Balenciaga, Missoma, Versace, and Loewe Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1538838809453834241,2022-06-20,10:58:57,"""Jack Harlow in Lucid FC and New Balance  Joe Freshgoods Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1538835106303029254,2022-06-20,10:44:14,"""Gucci Mane in Full Bottega Veneta Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1538808107383635969,2022-06-20,08:56:57,"""Fivio Foreign in Bottega Veneta and Nike Outfits HTTPURL""",1,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1537877920689037313,2022-06-17,19:20:43,"""Jaden Smith in MSFTSrep and New Balance  Jaden Smith Outfits HTTPURL""",2,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1537874983505887232,2022-06-17,19:09:03,"""Selena Gomez in Self-Portrait and Jennifer Fisher Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1537873406020001792,2022-06-17,19:02:46,"""Fivio Foreign in Louis Vuitton, Bullion  Comatose Rose, and Nike Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1537867077603713027,2022-06-17,18:37:38,"""Camila Mendes in Full Prada Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1537864339176161283,2022-06-17,18:26:45,"""Lil Baby in Supreme  True Religion and Nike Outfits HTTPURL""",1,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1537513969182818307,2022-06-16,19:14:30,"""Latto in Prada, Telfar, and Marc Jacobs Outfits HTTPURL""",2,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1537511947658092544,2022-06-16,19:06:28,"""Halsey in Roberto Cavalli, James Oro, and Larroude Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1537509179648356353,2022-06-16,18:55:28,"""Pharrell Williams in Balenciaga, CPFM  Pharrell Williams, and Cactus Plant Flea Market Outfits HTTPURL""",1,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1537506896642555904,2022-06-16,18:46:24,"""Kylie Jenner in Mugler and Jenny Bird Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1537504643202285569,2022-06-16,18:37:27,"""Kodak Black in Dior, MSFTSrep, and Nike Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1537498666260480000,2022-06-16,18:13:42,"""Hailey Baldwin in Saint Laurent and Tiffany &amp; Co x Elsa Peretti Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1537495092856074240,2022-06-16,17:59:30,"""Lil Nas X in Balenciaga, Off-White, Valabasas, and Air Jordan Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1537152799934382085,2022-06-15,19:19:21,"""Selena Gomez in Prada, Jennifer Fisher, and By Far Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1537150233477406722,2022-06-15,19:09:09,"""Future in Rhude, Marni, and Lanvin Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1537144149635366916,2022-06-15,18:44:58,"""Hailey Bieber in Ermanno Scervino and By Far x Mimi Cuttrell Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1537141836120211459,2022-06-15,18:35:47,"""Fabolous in Off-White and Nike  Off-White Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1536970436394745856,2022-06-15,07:14:42,"""French Montana in Supreme  Louis Vuitton, Amiri, and Nike Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1536963978169024512,2022-06-15,06:49:02,"""Soulja Boy in Full Louis Vuitton Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1536828034132725761,2022-06-14,21:48:50,"""Lil Durk in Amiri, Dior, Gallery Dept., and Rick Owens Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1536821078743392256,2022-06-14,21:21:12,"""Leslie De Jesus Alejandro: Everything You Should Know About Kevin Alejandros Wife HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1536719999590715395,2022-06-14,14:39:33,"""21 Savage in Louis Vuitton and Nike Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1536715060504055810,2022-06-14,14:19:55,"""Roddy Ricch in Rhude and Nike Air Jordan Outfits HTTPURL""",1,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1536692404270538754,2022-06-14,12:49:54,"""Fat Joe in Louis Vuitton and Nike Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1536579759169097729,2022-06-14,05:22:17,"""2 Chainz in Balenciaga and Air Jordan Outfits HTTPURL""",1,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1536576000292700162,2022-06-14,05:07:21,"""Kylie Jenner in Thierry Mugler, Bianca Saunders, By Far, Jenny Bird, and The Attico Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1536279955306254336,2022-06-13,09:30:58,"""Selena Gomez in Prada, Jenny Bird, and Jimmy Choo Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1536274726762561536,2022-06-13,09:10:12,"""DJ Khaled in Polo Ralph Lauren, Stone Island, and Balenciaga Outfits HTTPURL""",1,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1535956180228505604,2022-06-12,12:04:24,"""Lewis Hamilton in Full Issey Miyake Outfits HTTPURL""",2,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1535950954704654337,2022-06-12,11:43:38,"""NBA YoungBoy in Celine, Amiri, and Balenciaga Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1535947457347129346,2022-06-12,11:29:45,"""Emma Roberts in The Vampires Wife, Dorsey, and Andrea Wazen Outfits HTTPURL""",5,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1535922522608345095,2022-06-12,09:50:40,"""Odell Beckham Jr in Chrome Hearts  Mattyboy, VDS, and Earthling VIP Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1535919428604420096,2022-06-12,09:38:22,"""Selena Gomez in Zara, Jennifer Fisher, and Miu Miu Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1535910814615478273,2022-06-12,09:04:08,"""Chrissy Teigen in Brandon Maxwell Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1535908431860842499,2022-06-12,08:54:40,"""Offset in New Era, Prada, Saint Michael, Kapital, and Prada  Cass Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1535392468564328448,2022-06-10,22:44:25,"""Latto in Versace Bikini Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1535388147047092225,2022-06-10,22:27:15,"""NBA YoungBoy in Loverboy by Charles Jeffrey, Dior, Akings, and Nike Outfits HTTPURL""",1,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1535366257146355713,2022-06-10,21:00:16,"""Jayson Tatum in Louis Vuitton, Nahmias, and Nike Air Jordan Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1535361751616724993,2022-06-10,20:42:21,"""Swae Lee in Supreme  New Era, Louis Vuitton, Vlone, and Alexander McQueen Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1535353405606088704,2022-06-10,20:09:12,"""Jaden Smith in Full MSFTSrep Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1535350050540363776,2022-06-10,19:55:52,"""Katy Perry in Alex Perry and Giuseppe Zanotti Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1535025182829694980,2022-06-09,22:24:57,"""CKay in MCQ, Who Decides War, and Alexander McQueen Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1534889725336625157,2022-06-09,13:26:42,"""Jack Harlow in Alexander McQueen, K.Ngsley, and Versace Outfits HTTPURL""",1,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1534886919439536131,2022-06-09,13:15:33,"""Sofia Richie in Rixo, Bottega Veneta, and Femme Outfits HTTPURL""",1,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1534881473458847744,2022-06-09,12:53:54,"""Lil Baby in Balenciaga and Nike Outfits HTTPURL""",1,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1534762708142280705,2022-06-09,05:01:58,"""Emma Roberts in Valentino Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1534761001060532224,2022-06-09,04:55:11,"""Jack Harlow in Versace and K.Ngsley Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1534757485705416705,2022-06-09,04:41:13,"""Jennifer Maria Duncan Flores: The Untold Truth About Brian Flores Wife HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1534638995681992704,2022-06-08,20:50:23,"""DaBaby in Givenchy, Amiri, Rhude, Nike, and Air Jordan Outfits HTTPURL""",1,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1534634222295687168,2022-06-08,20:31:25,"""Elizabeth Gillies in Fannie Schiavoni and Giuseppe Zanotti Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1534629528353611780,2022-06-08,20:12:46,"""Odell Beckham Jr in Louis Vuitton, Chanel  Pharrell, Earthling VIP, and Nike Outfits HTTPURL""",1,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1534594632037945349,2022-06-08,17:54:06,"""Kylie Jenner in Jean Paul Gaultier, Prada, Ambush, The Great Frog, and Letra Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1534591529532137473,2022-06-08,17:41:46,"""Lil Uzi Vert in Full Balenciaga Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1534586644287864836,2022-06-08,17:22:21,"""Bebe Rexha in Diesel and Christian Dior Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1534284898994905089,2022-06-07,21:23:20,"""Jayson Tatum in IWOYH, HUE, and Nike Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1534281563155836928,2022-06-07,21:10:04,"""Kylie Jenner in Diesel and The Great Frog Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1534277455275491329,2022-06-07,20:53:45,"""Future in full Louis Vuitton Outfits HTTPURL""",1,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1534274474127892481,2022-06-07,20:41:54,"""Kim Kardashian in Pink Balenciaga Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1533602703779237888,2022-06-06,00:12:32,"""Fabolous in Loewe, Hoes Mad LA, and Rick Owens Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1533520737474166788,2022-06-05,18:46:49,"""Jayson Tatum in Dolce &amp; Gabbana and Nike Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1533511433509449728,2022-06-05,18:09:51,"""Kylie Jenner in The Attico Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1533500013325832192,2022-06-05,17:24:28,"""Hailee Steinfeld in Jacquemus and Femme Outfits Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1533497606856491011,2022-06-05,17:14:55,"""Lil Nas X in Nike  Billie Eilish Merch and Purple Brand Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1533491356450099205,2022-06-05,16:50:04,"""Camila Cabello in Frankies Bikinis, Levis, Yuzefi, Versace, Bruna The Label, and M. Gemi Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1533485066180915200,2022-06-05,16:25:05,"""Roddy Ricch in Prada, Avirex, Palm Angels, Can-Am, Polo Ralph Lauren, and Nike Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1533477927198793728,2022-06-05,15:56:43,"""Jordyn Woods in Embi and The Attico Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1533475684680704003,2022-06-05,15:47:48,"""Gucci Mane in Prada, Dior, and Celine Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1533383990043979778,2022-06-05,09:43:26,"""Kylie Jenner in GCDS Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1533379049212497921,2022-06-05,09:23:48,"""Lil Uzi Vert in Balenciaga and Ugg  Chrome Hearts Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1533374616554577920,2022-06-05,09:06:11,"""Vanessa Hudgens in PatBO, Versace x Fendi, Prada, Jacquie Aiche, Cartier, and Louis Vuitton Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1533370223528513536,2022-06-05,08:48:44,"""Fivio Foreign in Louis Vuitton, Amiri, and Nike Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1533285121666711552,2022-06-05,03:10:34,"""Olivia Culpo in Dundas and Yves Saint Laurent Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1533280416496492544,2022-06-05,02:51:52,"""Roddy Ricch in Prada, Palm Angels, and Lanvin Outfits HTTPURL""",1,1,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1533273038590025730,2022-06-05,02:22:33,"""Fabolous in Loewe, PinQ Gorilla, Kith, and Givenchy Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1533269274453852160,2022-06-05,02:07:36,"""Charli DAmelio in SNDYS., Revice, Prada, and Reformation Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1533265234982477824,2022-06-05,01:51:33,"""Fabolous in Lanvin  Gallery Dept., and Gallery Dept. Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1533262437151129601,2022-06-05,01:40:26,"""Vanessa Hudgens in Versace and Ego Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1533260274878369797,2022-06-05,01:31:50,"""Davido in Marni and Rick Owens Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1532390902660050944,2022-06-02,15:57:16,"""Kendall Jenner in Khaite, Gucci, and The Row Outfits HTTPURL""",1,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1532129464590770177,2022-06-01,22:38:24,"""Latto in Dior and Supreme  New York Yankees Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1532125308756828162,2022-06-01,22:21:53,"""Lil Baby in Marni Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1532122177474011138,2022-06-01,22:09:27,"""Lil Nas X in Vintage, Rick Owens, and Balenciaga Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1532118986711785475,2022-06-01,21:56:46,"""Toosii in Lanvin and Air Jordan Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1532114530414645249,2022-06-01,21:39:04,"""DaBaby in Prada, Amiri, and Air Jordan Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1531967022917107713,2022-06-01,11:52:55,"""Rodney Keith Jones: The Untold Truth About Leslie Jones Brother HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1531949814627418113,2022-06-01,10:44:32,"""NLE Choppa in Headgear Classics, Tom Ford, Dabbous, and Louis Vuitton Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1531384911327899652,2022-05-30,21:19:49,"""Lil Uzi Vert in Balenciaga and Balenciaga  Crocs Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1531343124668510209,2022-05-30,18:33:46,"""Lil Baby in Marni, Nike, and Hermes Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1531338962597462019,2022-05-30,18:17:14,"""Camila Cabello in David Koma, Bruna The Label, and Cult Gaia Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1531336179911729154,2022-05-30,18:06:10,"""Travis Scott in Space Village, Yohji Yamamoto  Dainese, Undercover, Rick Owens, and Air Jordan Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1531331961041690625,2022-05-30,17:49:24,"""Jennifer Lopez in Cult Gaia, Nick Fouquet, and DSW x JLO Jennifer Lopez Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1531329441355354112,2022-05-30,17:39:24,"""Latto in Prada Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1531105698075000833,2022-05-30,02:50:19,"""Kanye West in Balenciaga and Levis Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1531042852100259844,2022-05-29,22:40:35,"""Swae Lee in Kozaburo, Skins, and Dior Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1531038656093376512,2022-05-29,22:23:55,"""Camila Cabello in Dion Lee, Yuzefi, ARSN, and Amina Muaddi Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1530842660185030668,2022-05-29,09:25:06,"""Fabolous in Global Currency, Amiri  Playboy, Pleasures  Playboy, and Nike  Ben &amp; Jerrys Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1530837379627499520,2022-05-29,09:04:07,"""Vanessa Hudgens in Giambattista Valli and Cult Gaia Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1530830522657779712,2022-05-29,08:36:52,"""Juicy J in Dior, Palm Angels, and Louis Vuitton Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1530827361595404288,2022-05-29,08:24:19,"""Olivia Culpo in Poster Girl and Rene Caovilla Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1530825777054367745,2022-05-29,08:18:01,"""NLE Choppa in Givenchy, Rhude, Purple Brand, and Nike Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1530711458438336512,2022-05-29,00:43:45,"""Megan Fox in Giuseppe di Morabito, Ralph Masri, and Andrea Wazen Outfits HTTPURL""",1,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1530586356539346945,2022-05-28,16:26:38,"""Bia in Balenciaga, Sinead Gorey, Alexander Wang, and Ancuta Sarca Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1530195109861593090,2022-05-27,14:31:58,"""Olivia Culpo in Mother of All and Gia Borghini Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1530193192280260610,2022-05-27,14:24:21,"""Gucci Mane in We11done, 99%IS, and Prada Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1530188238127767552,2022-05-27,14:04:40,"""Camila Cabello in Khaite, STAND Studio, Christian Dior, Bruna, and Versace Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1530073727836250112,2022-05-27,06:29:38,"""Fabolous in Balenciaga, Gallery Dept., and Nike Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1530069629774733313,2022-05-27,06:13:21,"""Vanessa Hudgens in Cult Gaia, Jacquie Aiche, Cartier, Louis Vuitton, and Adidas Originals Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1530066014871900160,2022-05-27,05:58:59,"""Offset in Balenciaga and Adidas  Balenciaga Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1530062967378780164,2022-05-27,05:46:53,"""Hailey Bieber in Balenciaga, Havre, Yves Saint Laurent, and Prada Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1530060296680792064,2022-05-27,05:36:16,"""Ja Morant in Prada, Amiri, and Dior Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1530057101392740352,2022-05-27,05:23:34,"""Emma Chamberlain in Patou, Windsor Smith, and Calle Del Mar Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1529705154576007168,2022-05-26,06:05:04,"""NLE Choppa in Gallery Dept., Gucci, and Air Jordan Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1529699594304688128,2022-05-26,05:42:58,"""Coi Leray in Balenciaga, Alexander Wang, HTTPURL.Gia, and Adidas Outfits HTTPURL""",1,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1529692986031874050,2022-05-26,05:16:42,"""J Balvin in Balenciaga, Vintage, and Converse  Feng Chen Wang Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1529688871935655937,2022-05-26,05:00:21,"""Khloe Kardashian in Dolce &amp; Gabbana, Hermes, and Tom Ford Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1529545436318531585,2022-05-25,19:30:24,"""Tory Lanez in Rhude and Nike Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1529540537052700672,2022-05-25,19:10:56,"""Lili Reinhart in Montce Janeane and Vince Camuto Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1529535600856031235,2022-05-25,18:51:19,"""Offset in Balenciaga Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1529532476133187592,2022-05-25,18:38:54,"""Selena Gomez in Tna, Louis Vuitton, Givenchy, Jennifer Behr, Emi Jay, and Christian Dior Outfits HTTPURL""",1,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1529133535172476928,2022-05-24,16:13:39,"""Tyga in Prada, 99%IS, Mastermind, and Nike Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1529125537108590598,2022-05-24,15:41:52,"""Lil Baby in Louis Vuitton, Takashi Murakami  Saint Michael, and Louis Vuitton  Nike Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1529118063710326784,2022-05-24,15:12:10,"""Pharrell Williams in Balenciaga and Adidas  Balenciaga Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1528928002054160384,2022-05-24,02:36:56,"""Lil Baby in Givenchy and Balenciaga Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1528923564082089992,2022-05-24,02:19:18,"""Selena Gomez in Alejandra Alonso Rojas, Cartier, and Versace Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1528920929828450305,2022-05-24,02:08:50,"""Soulja Boy in Pleasures, Amiri, Soulja Stars, and Louis Vuitton Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1528917019642449920,2022-05-24,01:53:18,"""Megan Thee Stallion in Balenciaga and FashionNova Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1528438173054996480,2022-05-22,18:10:32,"""Bebe Rexha in Balenciaga Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1528425742203224072,2022-05-22,17:21:08,"""Fivio Foreign in Lanvin  Gallery Dept. and Lanvin Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1528421133686546432,2022-05-22,17:02:49,"""Toosii in Chrome Hearts  Mattyboy, Givenchy x Josh Smith, Gallery Dept., and Nike Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1528070234183282689,2022-05-21,17:48:28,"""Kim Kardashian in Balenciaga Outfits HTTPURL""",1,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1527725865479585793,2022-05-20,19:00:04,"""2 Chainz in Prada, Loewe, and Balenciaga Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1527377062243487744,2022-05-19,19:54:03,"""Lil Tjay in Lanvin  Gallery Dept., and Gallery Dept. Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1527373868134182917,2022-05-19,19:41:22,"""Megan Fox in AREA, Jimmy Choo, and Gianvito Rossi Outfits HTTPURL""",1,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1527367049919356928,2022-05-19,19:14:16,"""Toosii in Prada, Casablanca, Gallery Dept., and Lanvin  Gallery Dept. Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1527363025681821701,2022-05-19,18:58:17,"""Tracey Hinds: The Untold Truth About Macy Grays Ex-Husband HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1527349809601843200,2022-05-19,18:05:46,"""Lil Baby in Heron Preston, Fear of God, and Jordan  Union Los Angeles Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1527347197347450892,2022-05-19,17:55:23,"""Roddy Ricch in Polo Ralph Lauren, Earthling VIP, and Nike Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1527164076589293568,2022-05-19,05:47:43,"""Latto in Alexander Wang and Balenciaga Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1527153001793589248,2022-05-19,05:03:43,"""DaBaby in Burberry Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1527150212732620801,2022-05-19,04:52:38,"""Fabolous in Off-White, Balenciaga, Kapital, Raf Simons, and Nike  CPFM Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1527145554706309120,2022-05-19,04:34:07,"""Miley Cyrus in Alexander McQueen and Tom Ford Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1526861504305315846,2022-05-18,09:45:24,"""Soulja Boy in Cartier, Palm Angels, and Air Jordan Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1526856124833714176,2022-05-18,09:24:02,"""NBA YoungBoy in Amiri  Zig-Zag World, Amiri, and Thom Browne Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1526852139884101632,2022-05-18,09:08:12,"""Kylie Jenner in Bottega Veneta, Alexander Wang, Balenciaga, and Nike  Off-White Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1526432464062889984,2022-05-17,05:20:33,"""Travis Scott in ERL and Givenchy Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1526429202433589250,2022-05-17,05:07:36,"""Kylie Jenner in Dion Lee, Ruby Stella, and Heron Preston Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1526424285392281600,2022-05-17,04:48:03,"""Kendrick Lamar in Enfants Riches Deprimes  Jacques Marie Mage, Zara, Palace, and Converse  Kendrick Lamar Merch Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1526337252414070784,2022-05-16,23:02:13,"""DJ Khaled in Gucci and Nike Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1526335248644157440,2022-05-16,22:54:15,"""Fat Joe in Dior, Celine, and Jordan  OVO Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1526332030178537472,2022-05-16,22:41:28,"""Megan Fox in David Koma, Loree Rodkin, and Andrea Wazen Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1526329716860387329,2022-05-16,22:32:16,"""NLE Choppa in Dreamland and Nike Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1526318525664591874,2022-05-16,21:47:48,"""Fabolous in New Era, Human Made  Victor Victor, and Nike Sacai  Fragment Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1526315565996023809,2022-05-16,21:36:03,"""Addison Rae in Rick Owens Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1525790575483658240,2022-05-15,10:49:55,"""Conor McGregor in Versace and Dolce &amp; Gabbana Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1525786190846099457,2022-05-15,10:32:30,"""Chrissy Teigen in Wolford, Area, Balenciaga, and Saint Laurent Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1525217538514231298,2022-05-13,20:52:53,"""Kirsten Barlow: What You Didnt Know About Joe Landos Wife 2022 HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1525202690736807938,2022-05-13,19:53:53,"""Roddy Ricch in Louis Vuitton, Cout De La Liberte, and Nike Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1525195397911744514,2022-05-13,19:24:54,"""Latto in Gucci, GCDS, Hermes, and The Attico Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1525184625991208966,2022-05-13,18:42:06,"""NLE Choppa in Amiri, Calvin Klein, Purple Brand and Air Jordan Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1524105595598651394,2022-05-10,19:14:25,"""Jack Harlow in Givenchy and New Balance Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1524101572761894916,2022-05-10,18:58:26,"""Cardi B in Balenciaga Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1524099628106489857,2022-05-10,18:50:42,"""Kodak Black in Keiser Clark and Balenciaga Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1523842562523648001,2022-05-10,01:49:13,"""Camila Cabello in Mugler &amp; Jimmy Choo x Mugler Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1523800812534652928,2022-05-09,23:03:19,"""Kylie Jenner in Atlein Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1523798380513746945,2022-05-09,22:53:39,"""Fivio Foreign in Designer Humans, Fendi, Saint Laurent and Nike Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1523772560541995009,2022-05-09,21:11:03,"""Kourtney Kardashian in Atlein Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1523766608950444032,2022-05-09,20:47:24,"""Gucci Mane in Balenciaga and Bottega Veneta Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1523762723368194048,2022-05-09,20:31:58,"""Bebe Rexha in Jean-Paul Gaultier and Femme Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1523756526728626177,2022-05-09,20:07:20,"""Lil Durk in Amiri and Dior Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1523621108649533441,2022-05-09,11:09:14,"""Bebe Rexha in Rick Owens and Femme Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1523455836227444737,2022-05-09,00:12:30,"""Chris Brown in Supreme and Air Jordan Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1523453507939971072,2022-05-09,00:03:15,"""Chrissy Teigen in Rick Owens and Misho Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1523400657230721024,2022-05-08,20:33:14,"""Meek Mill in Midnight Rodeo, Casablanca, Gallery Dept., and Nike Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1523397408171839488,2022-05-08,20:20:20,"""Keke Palmer in Alexander Wang Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1523395048426987520,2022-05-08,20:10:57,"""DJ Khaled in Prada and Air Jordan Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1522447279738785792,2022-05-06,05:24:51,"""Offset in Prada Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1522445148969480193,2022-05-06,05:16:23,"""Tyga in Vivienne Westwood and Cuadra Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1522441513216655364,2022-05-06,05:01:57,"""Samara Zane: The Untold Truth About Lorraine Toussaints Daughter HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1522280409484210177,2022-05-05,18:21:46,"""Dua Lipa in Justine Clenquet, Blumarine and Diesel Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1522276441374744580,2022-05-05,18:06:00,"""Travis Scott in IRAK, Rick Owens and Marni Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1522273858249793537,2022-05-05,17:55:44,"""Justin Bieber in Drew House, Ami Alexandre Mattiussi and Balenciaga Outfits HTTPURL""",1,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1522268303204442114,2022-05-05,17:33:40,"""NBA YoungBoy in Moncler  Fragment, Polo Ralph Lauren, A-Cold-Wall, Patek Philippe and Nike Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1522001083803095041,2022-05-04,23:51:50,"""Hailey Bieber in Yves Saint Laurent and Anita Ko Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1521995004830314496,2022-05-04,23:27:41,"""Pete Davidson in Prada and Vans Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1521835348342542338,2022-05-04,12:53:16,"""Justin Bieber in Drew House and Balenciaga Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1521825484824358914,2022-05-04,12:14:04,"""Lil Baby in Sicko, Rhude and Nike Outfits HTTPURL""",1,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1521813872918896640,2022-05-04,11:27:55,"""Offset in Prada, Balenciaga &amp; Goyard Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1521810592411103236,2022-05-04,11:14:53,"""Shay Mitchell in Milk White, Amina Muaddi, Prada &amp; Femme Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1521219086973296652,2022-05-02,20:04:27,"""Post Malone in Broken Promises and Balenciaga Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1521213688618926080,2022-05-02,19:43:00,"""Charli DAmelio in Georges Hobeika, Nadri &amp; Femme Outfits HTTPURL""",1,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1521209426446848006,2022-05-02,19:26:04,"""Jacquees in Marc Jacobs &amp; Nike Outfits HTTPURL""",0,1,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1521206312339656707,2022-05-02,19:13:42,"""Katy Perry in Marni &amp; We Dream in Colour Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1521204657749737475,2022-05-02,19:07:07,"""Justin Bieber in Bevza, Oakley, Entire Studios, Balenciaga &amp; Moon Boot Outfits HTTPURL""",1,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1521201437346308097,2022-05-02,18:54:19,"""Katy Perry in The Andamane Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1521121843322757121,2022-05-02,13:38:03,"""Drake in Cartier, Off-White &amp; Air Jordan Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1521099160849633280,2022-05-02,12:07:55,"""Kourtney Kardashian in Rick Owens, Paco Rabanne, Patricia von Musulin &amp; Naked Wolfe HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1520713917441396743,2022-05-01,10:37:06,"""Lil Baby in Balenciaga, Celine  Thomas Sauter &amp; Louis Vuitton Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1520525871546785793,2022-04-30,22:09:52,"""Buster Timothy Miller: Everything You Should Know About Jonny Lee Miller HTTPURL""",1,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1520229844612747264,2022-04-30,02:33:34,"""Doja Cat in Stella McCartney, HTTPURL.Gia &amp; Steve Madden Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1520226402422996992,2022-04-30,02:19:53,"""Dixie DAmelio in Jacquemus Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1520225049822863362,2022-04-30,02:14:30,"""Future in Derek Rose, Valentino &amp; Piaget Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1520221436039901191,2022-04-30,02:00:09,"""Normani in Diesel, Balenciaga &amp; Femme Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1520218562408894467,2022-04-30,01:48:44,"""Lil Baby in Who Decides War, Gallery Dept. and Nike Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1519828797654278148,2022-04-28,23:59:57,"""Zendaya in Fear of God, Fendi &amp; Nike x Sacai Outfits HTTPURL""",2,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1519811015558545408,2022-04-28,22:49:17,"""Chrissy Teigen in Stella McCartney &amp; Femme The London Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1519753350576754688,2022-04-28,19:00:09,"""Lil Tjay in Amiri &amp; Dior Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1519750785273413635,2022-04-28,18:49:57,"""Charli DAmelio in Bluemarine, Prada &amp; R13 Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1519602092704509952,2022-04-28,08:59:06,"""Jack Harlow in Prada, Gucci  The North Face, Louis Vuitton &amp; New Balance  Aime Leon Dore Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1519597931464036354,2022-04-28,08:42:34,"""Jackie Steves: The Untold Truth About Rick Steves Daughter HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1519400091827814407,2022-04-27,19:36:25,"""Conor McGregor in Dolce &amp; Gabbana and Givenchy Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1519392463932252162,2022-04-27,19:06:07,"""Fabolous in Vanson Leathers  Fly Geenius, Amiri &amp; Nike  Kith Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1519298453943332870,2022-04-27,12:52:33,"""Khloe Kardashian in Alexandre Vauthier &amp; Christian Louboutin Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1519295559928102913,2022-04-27,12:41:03,"""2 Chainz in Balenciaga Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1519103487140794369,2022-04-26,23:57:49,"""Rihanna in Awake NY, The Attico, Fendi &amp; Amina Muaddi Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1519095919039467521,2022-04-26,23:27:45,"""Gigi Hadid in Dion Lee, Prada, By Far &amp; Jacquie Aiche Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1519042596022235136,2022-04-26,19:55:51,"""Vanessa Hudgens in Area, Revolve, Sienna Alexander, Jacquie Aiche &amp; Windsor Smith Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1519035815577407488,2022-04-26,19:28:55,"""Quavo in Marni, Goyard, Virgil Abloh  Denim Tears &amp; Nike Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1519032943628496903,2022-04-26,19:17:30,"""Katy Perry in St. John &amp; Gianvito Rossi Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1519028158116290562,2022-04-26,18:58:29,"""Camila Cabello in Jacquemus, Wedges And Wide Legs, Peta + Jain, Versace, Nike &amp; Melinda Maria Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1518966095654367232,2022-04-26,14:51:52,"""Toosii in Chrome Hearts, Supreme, Supreme  Nike &amp; Nike Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1518960311289712643,2022-04-26,14:28:53,"""Lil Baby in Dior, Cease+Desist &amp; Nike  CPFM Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1518702653852856326,2022-04-25,21:25:03,"""Wylda Rae Johnson: The Untold Truth About Aaron Taylor-Johnsons Daughter HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1518638070840664064,2022-04-25,17:08:25,"""J Balvin in Rick Owens, Louis Vuitton &amp; Wavy Baby Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1518514657996296192,2022-04-25,08:58:01,"""Rihanna in HTTPURL, Alexander Wang, Saint Laurent, Balenciaga &amp; Alexandre Vauthier Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1518507779039760384,2022-04-25,08:30:41,"""ASAP Rocky in Denim Tears, Harley-Davidson, Levis &amp; Adidas HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1518503127623913472,2022-04-25,08:12:12,"""Nicki Minaj in Mugler, Balenciaga, Louis Vuitton &amp; Alexander McQueen Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1518285917542223872,2022-04-24,17:49:05,"""DaBaby in Prada, Amiri, Gallery Dept., New Era, Louis Vuitton &amp; Air Jordan Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1518281505738575873,2022-04-24,17:31:33,"""Chrissy Teigen in Retrofete &amp; Paris Texas Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1517900892351123457,2022-04-23,16:19:08,"""Zendaya in Fear of God, Bulgari &amp; Christian Louboutin Outfits HTTPURL""",2,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1517799217829498880,2022-04-23,09:35:07,"""Stephen Curry in Spencer Badu and Bottega Veneta Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1517795054433312768,2022-04-23,09:18:34,"""Tyga in Versace, Avirex, Nyrva and Wavy Baby Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1517651961595801600,2022-04-22,23:49:58,"""Justin Bieber in Hanes and Balenciaga Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1517648883257643011,2022-04-22,23:37:44,"""Kodak Black in Prada, Dolce &amp; Gabbana, and Versace Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1517426801781489665,2022-04-22,08:55:16,"""Nicki Minaj in Balenciaga, Fendi and Versace Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1517423741348814850,2022-04-22,08:43:06,"""Future for GQ in Ralph Lauren, Fox Umbrellas, and Giuseppe Zanotti Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1517418693264920576,2022-04-22,08:23:03,"""Future for GQ in Balenciaga and Saint Laurent Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1517414719627284480,2022-04-22,08:07:16,"""Future for GQ in Dior, Ralph Lauren, Stoffa, and Edward Green Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1516913164968992768,2022-04-20,22:54:16,"""Lil Durk in OTF, Gallery Dept., and Nike Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1516536537395068929,2022-04-19,21:57:41,"""Lil Durk in Gallery Dept. and Nike Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1516530633186627589,2022-04-19,21:34:13,"""Meek Mill in Mitchell &amp; Ness, Dior, and Nike Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1516523060018520073,2022-04-19,21:04:07,"""Polo G in Formy Studio and Raf Simons Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1516334204669370369,2022-04-19,08:33:41,"""Camila Mendes in H&amp;M, STAUD, Dady Bones, and Converse Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1516329924646293504,2022-04-19,08:16:40,"""Katianna Stoermer Coleman: What You Didnt Know About Zendayas sister HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1516157095627870218,2022-04-18,20:49:55,"""Quavo in Celine, Marni, Goyard, and Rick Owens Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1516152866221658113,2022-04-18,20:33:06,"""Jack Harlow in Prada, Moncler and New Balance  Aime Leon Dore Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1516149574678638593,2022-04-18,20:20:01,"""Bia in Miaou, Dundas  Revolve and Toral Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1516024870370529286,2022-04-18,12:04:30,"""Jacquees in Palm Angels and Bottega Veneta Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1516005020453552129,2022-04-18,10:45:37,"""Jacquees Celebrates His 28th Birthday in Gucci Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1515978536854638598,2022-04-18,09:00:23,"""Gunna in Dior, Celine, Pablo The Pup, Supreme  Hanes and Gucci Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1515675726716055558,2022-04-17,12:57:07,"""Kim Kardashian in Rick Owens, Coperni Mini and Manolo Blahnik Outfits HTTPURL""",1,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1515673608215015427,2022-04-17,12:48:42,"""Fabolous in Kith  Columbia and Vintage Frames Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1515440368497610763,2022-04-16,21:21:54,"""Fivio Foreign in Balenciaga Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1515436326157496323,2022-04-16,21:05:50,"""Charli DAmelio in Social Tourist and Ugg Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1515432529515401221,2022-04-16,20:50:45,"""Jaden Smith in MSFTSrep and New Balance  Jaden Smith Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1515357573419089922,2022-04-16,15:52:54,"""Kendall Jenner in Rodarte, Bruna, Gucci, and Birkenstock Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1515335217870946306,2022-04-16,14:24:04,"""Chris Brown in Supreme and Kith  Columbia Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1515331893989986308,2022-04-16,14:10:51,"""Kaitlyn Paevey: The Untold Truth About Ryan Paeveys Sister HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1515013741754081281,2022-04-15,17:06:38,"""Fabolous in Kith  Columbia and Crocs  Salehe Bembury Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1515007463283699720,2022-04-15,16:41:41,"""Tory Lanez in Rhude, Nahmias, and Air Jordan Outfits HTTPURL""",1,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1514879035461017602,2022-04-15,08:11:21,"""Elsa Hosk in Aritzia, Manu Atelier, Saint Laurent, and New Balance Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1514757198454444032,2022-04-15,00:07:13,"""Cardi B in Amiri and Christian Louboutin Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1514753741861269519,2022-04-14,23:53:29,"""Soulja Boy in Balmain, Versace, Amiri, Burberry, and Nike Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1514701224339247110,2022-04-14,20:24:48,"""Rick Ross in Market, Bape, and Nike Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1514696785855496192,2022-04-14,20:07:10,"""Fat Joe in Louis Vuitton, Bottega Veneta, and Nike Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1514352238113738755,2022-04-13,21:18:03,"""Azja Pryor: What You Didnt Know About Chris Tuckers Ex-wife 2022 HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1514190819057717248,2022-04-13,10:36:38,"""Addison Rae in Aya Muse Outfits HTTPURL""",1,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1514000596268994568,2022-04-12,22:00:45,"""Fabolous wears Balenciaga, Yeezy x GAP, Chrome Hearts x Matty Boy, and Nike Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1513997666119782404,2022-04-12,21:49:06,"""Katy Perry in David Koma and Arielle Baron Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1513984093201092614,2022-04-12,20:55:10,"""Tory Lanez in Rhude, Prada, Amiri, and Rick Owens Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1513887659063758853,2022-04-12,14:31:59,"""Kim Kardashian in Balenciaga Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1513884728084119565,2022-04-12,14:20:20,"""Tyga in 99%IS, Only NY, and Marine Serre Outfits HTTPURL""",1,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1513877871210766344,2022-04-12,13:53:05,"""21 Savage in Louis Vuitton &amp; Prada Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1512031282301222914,2022-04-07,11:35:24,"""Drew Ann Reid: The Untold Truth About Andy Reids Da HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1511961564244492291,2022-04-07,06:58:22,"""Cornell Haynes III: The Untold Truth About Nellys Son 2022 HTTPURL""",1,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1510662131607298054,2022-04-03,16:54:53,"""Kodak Black in Palm Angels, Amiri, and Nike  Undefeated Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1510648591202795521,2022-04-03,16:01:05,"""Lil Uzi Vert in Rick Owens, Vivienne Westwood, Dickies, and Vans Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1510533417984692224,2022-04-03,08:23:25,"""Maya Fahey: Everything You Should Know About Victoria Rowells Daughter 2022 HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1510457409159852036,2022-04-03,03:21:23,"""Kylie Jenner in Rick Owens, Harlot Hands, Justine Clenquet, and Isabel Marant Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1509089281394057221,2022-03-30,08:44:56,"""Mae Akins Roth: The Untold Truth About Laurie Metcalfs Daughter 2022 HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1508996624546152450,2022-03-30,02:36:45,"""Justin Bieber in New Era, Yeezy  Balenciaga  GAP, and Peter Do Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1508910366411169797,2022-03-29,20:54:00,"""Rick Ross in Dior and Nike Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1508906435538739202,2022-03-29,20:38:23,"""Jacquees in Cartier, Gucci, and Nike Outfits HTTPURL""",1,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1508831997061439491,2022-03-29,15:42:35,"""Lil Tjay in Dior and Amiri Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1508691530361577472,2022-03-29,06:24:25,"""Saint JHN in Bottega Veneta, NBA  chicago, and Louis Vuitton Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1508564956849004555,2022-03-28,22:01:28,"""Floyd Mayweather in Kappa and Nike Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1508561792775163907,2022-03-28,21:48:53,"""Kodak Black in Palm Angels, Amiri, and Timberland Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1508554685736755204,2022-03-28,21:20:39,"""Lil Uzi Vert in Rick Owens HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1508551408748015617,2022-03-28,21:07:38,"""Olivia Rodrigo in Fanci Club, Wolford, and GCDS Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1508547802896478214,2022-03-28,20:53:18,"""Jacquees in Gucci and Palm Angels Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1508184962549391372,2022-03-27,20:51:30,"""2 Chainz in Chrome Hearts, Balenciaga, Cease+Desist, and Amiri Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1508013014519193607,2022-03-27,09:28:14,"""Jaden Smith in MSFTSrep and New Balance  Jaden Smith Sneakers HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1508000263944216580,2022-03-27,08:37:34,"""Kodak Black wears Gucci  The North Face and Gucci Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1507834005055426562,2022-03-26,21:36:55,"""Fabolous in Gallery Dept. and Lanvin Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1507810302200627211,2022-03-26,20:02:44,"""Lil Durk in Amiri and Nike Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1507807302786723843,2022-03-26,19:50:49,"""Selena Gomez in UGG Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1507788230552440839,2022-03-26,18:35:02,"""J Balvin in Louis Vuitton and Nike Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1507783999300669446,2022-03-26,18:18:13,"""Halsey in Stuart Weitzman and Andres Sarda Outfits HTTPURL""",1,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1507777483940184068,2022-03-26,17:52:19,"""Quavo in The North Face, Louis Vuitton, and Goyard Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1507366165588365314,2022-03-25,14:37:54,"""Billie Paulette Montgomery: The Untold Truth About Joe Perrys Wife 2022 HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1507115260217597960,2022-03-24,22:00:53,"""Tory Lanez wears Rhude and New Era Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1507104985649238017,2022-03-24,21:20:03,"""Charli DAmelio wears Ownley, Prada, and Public Desire Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1507100559718891521,2022-03-24,21:02:28,"""Cardi B in Bottega Veneta, Jacquemus, and Balenciaga Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1500259306201047049,2022-03-05,23:57:46,"""Cashmere Newton Saint: Everything You Should Know About Cam Newtons Son HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1496204314443931648,2022-02-22,19:24:41,"""Jesse Malkin: The Untold Truth About Michelle Malkins Husband HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1489364548012363776,2022-02-03,22:25:53,"""Raoul Ayrton Meyer Jr: The Complete Biography of Brigitte Nielsens Son HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1487919243911827456,2022-01-30,22:42:46,"""Elizabeth Gillies in Dion Lee &amp; Dolce &amp; Gabbana Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1487915578769633284,2022-01-30,22:28:12,"""Addison Rae in Danielle Guizio, Giuseppe Zanotti &amp; Wildflower Outfits HTTPURL""",1,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1487859611914981386,2022-01-30,18:45:49,"""Kendall Jenner in Alo Yoga Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1487855168418988037,2022-01-30,18:28:09,"""Lil Tjay in Amiri, Jordan &amp; Supreme Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1487850798516211718,2022-01-30,18:10:47,"""Burna Boy Wears Balenciaga HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1487794927996227584,2022-01-30,14:28:47,"""Anastasia Karanikolaou in PrettyLittleThing Outfit HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1487787224234143745,2022-01-30,13:58:10,"""Kodak Black in Head-To-Toe Dior Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1487784070629179397,2022-01-30,13:45:38,"""DaBaby Wears Alexander McQueen, Amiri, Louis Vuitton &amp; Blackstrap Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1487306993073274880,2022-01-29,06:09:54,"""Rihanna wears Raf Simons &amp; Balenciaga Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1487304503523254273,2022-01-29,06:00:01,"""Megan Fox in Dion Lee &amp; Amina Muaddi Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1487301974416633861,2022-01-29,05:49:58,"""Lil Durk in The North Face x Gucci, Amiri &amp; Prada Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1487178661463789568,2022-01-28,21:39:57,"""Eric Jacob Knight: The Untold Truth About Jordan Knights Son HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1487140477069582338,2022-01-28,19:08:14,"""Demi Lovato in Ottolinger Outfit HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1487136675641937928,2022-01-28,18:53:07,"""DJ Khaled Wears Prada &amp; Jordan  OVO Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1487134231918788624,2022-01-28,18:43:25,"""Kylie Jenner Wears Poster Girl, Uncommon Matters &amp; Flor De Maria Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1486922755295662085,2022-01-28,04:43:05,"""Fivio Foreign in Celine &amp; Nike Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1486919365719171077,2022-01-28,04:29:37,"""Lady Gaga in Alex Perry, 64Facets &amp; Grace Lee Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1486692437326274566,2022-01-27,13:27:53,"""Hailey Bieber in Are You Am I Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1486689732159586311,2022-01-27,13:17:08,"""Gucci Mane in Prada &amp; Cartier Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1486683539118637064,2022-01-27,12:52:31,"""Charli DAmelio Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1486683192396501003,2022-01-27,12:51:08,"""Charli DAmelio in Autumn Adeigbo Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1486680879091138560,2022-01-27,12:41:57,"""Soulja Boy in BILLIONAIRE BOYS CLUB, AMIRI &amp; JORDAN OUTFITS HTTPURL""",1,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1486418462943629315,2022-01-26,19:19:12,"""Kim Kardashian in Skims &amp; Balenciaga Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1486415973234135041,2022-01-26,19:09:18,"""Zendaya in a Nicholas Top HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1486409120433459203,2022-01-26,18:42:05,"""Fabolous in John Elliott, Gallery Dept., and Nike Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1486061462695165955,2022-01-25,19:40:37,"""DaBaby In Celine, Dolce &amp; Gabbana &amp; Nike Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1486056915759210500,2022-01-25,19:22:32,"""Hilary Duff Wears Alessandra Rich &amp; Steve Madden Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1486053157419499528,2022-01-25,19:07:36,"""Selena Gomez in UGG Outfit HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1486050772357988362,2022-01-25,18:58:08,"""Kourtney Kardashian Wears Skims &amp; Naked Wolfe HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1486046634307952644,2022-01-25,18:41:41,"""Christos Dorje Walker: Complete Facts About Golshifteh Farahanis Ex-Husband HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1485970326664138755,2022-01-25,13:38:28,"""Gunna Wears Cease+Desist, Dior, Purple Brand, and Bottega Veneta Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1485933229546868736,2022-01-25,11:11:03,"""Jaden Smith in Louis Vuitton, New Balance &amp; MSFTSrep Outfits HTTPURL""",1,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1485728095302733830,2022-01-24,21:35:56,"""Hailey Bieber Features Jacquemus, Balenciaga &amp; Tropic of C Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1485724531604008969,2022-01-24,21:21:46,"""Tyga in Full Louis Vuitton Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1485720426282106880,2022-01-24,21:05:27,"""Kanye West in Balenciaga, Levis, Illesteva, and Red Wing HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1485685228576428043,2022-01-24,18:45:35,"""Quavo in Gallery Dept., Nike, and Migos x Gallery Dept. Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1485678697650827270,2022-01-24,18:19:38,"""Swae Lee Wears Celine, SAINT LAURENT, and Dior Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1485670761926959104,2022-01-24,17:48:06,"""Fabolous Wears Gallery Dept., Nike &amp; Ugly Intl Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1485642726599278596,2022-01-24,15:56:42,"""A$AP Rocky in Vetements X Canada Goose, FOREST MOSS, VETEMENTS $ BOTTEGA VENETA Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1485638440402173955,2022-01-24,15:39:40,"""Gunna in Palm Angels, Louis Vuitton, Purple Brand &amp; Bottega Veneta Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1485566455752052739,2022-01-24,10:53:38,"""Sabrina Carpenter in Missoni, Jennifer Fisher, and Giuseppe Zanotti Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1485562447226363905,2022-01-24,10:37:42,"""Lil Durk in Amiri &amp; Calvin Klein Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1485558523178229764,2022-01-24,10:22:06,"""Selena Gomez in Sunday Best Sweater HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1485556470498402305,2022-01-24,10:13:57,"""Offset Wears Greedy Unit, Marni, Bottega Veneta, and Nike  Off-White Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1485551037826146307,2022-01-24,09:52:22,"""Megan Thee Stallion in Infinity Swimm, Planet.i &amp; Ego Kimmi Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1485547528217051141,2022-01-24,09:38:25,"""Gunna in Louis Vuitton, Rick Owens, and Purple Brand Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1484830470173036550,2022-01-22,10:09:05,"""Kodak Black Wears BALENCIAGA &amp; Louis Vuitton Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1484827446860034051,2022-01-22,09:57:04,"""Toosii in Gallery Dept., Purple Brand, &amp; Gucci Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1484672626169716744,2022-01-21,23:41:52,"""A$AP Rocky in DRIES VAN NOTEN, Raf Simons, &amp; Prada  Adidas Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1484461311488663553,2022-01-21,09:42:11,"""Lil Tjay Wears Dior, Amiri, Goyard, &amp; Louis Vuitton Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1484284710570364930,2022-01-20,22:00:26,"""Amarah Dean: The Untold Truth About Whoopi Goldbergs Granddaughter HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1484107734257573889,2022-01-20,10:17:11,"""Camila Mendes Wears Ulla Johnson, Jennifer Fisher, and Jimmy Choo Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1484101955597348870,2022-01-20,09:54:14,"""Shai in Balenciaga &amp; Nike Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1484094124210937856,2022-01-20,09:23:07,"""DaBaby wears Prada and The North Face Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1484091335401476099,2022-01-20,09:12:02,"""Kodak Black Full Dior Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1483918234650914819,2022-01-19,21:44:11,"""Gucci Mane In Full Dior Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1483910816869007364,2022-01-19,21:14:43,"""Polo G In Amiri &amp; Prada Outfits For His 23rd Birthday HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1483787690520678400,2022-01-19,13:05:27,"""Kylie Jenner wears Atu Body Couture HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1483494713357393921,2022-01-18,17:41:16,"""DaBaby in Prada and Dickies Outfits for Sneaky Link Anthem Music Video HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1483471402393088004,2022-01-18,16:08:38,"""Chris Brown wears Undercover x Evangelion, Air Jordan and Nike Outfits for his Iffy Music Video HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1483374401768804356,2022-01-18,09:43:11,"""Lisa Marie Tasker: Everything You Should Know About Eric Lloyds wife HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1483167022334763011,2022-01-17,19:59:08,"""Kodak Black in Head-to-Toe Fendi Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1483128260598849537,2022-01-17,17:25:07,"""Wiz Khalifa in Celine and RICK OWENS DRKSHDW Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1483122761392345091,2022-01-17,17:03:16,"""Kourtney Kardashian in Mame Kurogouchi and Giaborghini Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1483118323361628162,2022-01-17,16:45:37,"""Kendall Jenner in The Line, Bec &amp; Bridge, Fidan, Salvatore Ferragamo, and Christian Dior Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1483023174237368321,2022-01-17,10:27:32,"""Kodak Black in Keiser Clark and Balenciaga Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1482900042105204737,2022-01-17,02:18:15,"""Jacquees in Cartier, GALLERY DEPT., and Nike Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1482826822534545411,2022-01-16,21:27:18,"""Soulja Boy in Billionaire Boys Club, Amiri, and OFF-WHITE Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1482821029638639628,2022-01-16,21:04:17,"""Jacquees in Head to Toe Gucci Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1482813152421154819,2022-01-16,20:32:59,"""Bobby Shmurda in Dior and Nike Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1482808460395880458,2022-01-16,20:14:20,"""Lil Durk in Amiri and Nike Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1482766682867257345,2022-01-16,17:28:20,"""Jaden Smith in MSFTSrep and Golf le Fleur Outfits HTTPURL""",1,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1482759463601946630,2022-01-16,16:59:39,"""Offset in Maison Margiela &amp; Prada Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1482639231247962112,2022-01-16,09:01:53,"""Drake Court-side wearing Bottega Veneta and Louis Vuitton Outfits HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1482469922206797829,2022-01-15,21:49:07,"""Ellen Marie Allen: The Untold Facts About Rance Allens Wife HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1480664284912783361,2022-01-10,22:14:09,"""Jordan Ashley Aikman: The Untold Truth About Troy Aikmans Daughter HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1480244174045724673,2022-01-09,18:24:47,"""Lawrence Faulborn: The Untold Truth About Kelli Giddishs Husband HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1478744875159932932,2022-01-05,15:07:06,"""Perla Limón Elenes: What You Didnt Know About El Fantasmas Wife HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1477968273845231624,2022-01-03,11:41:10,"""Heather Lynn Hodgins Kidd: The Untold Truth About Bernie Taupins Wife HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1476006904300285958,2021-12-29,01:47:23,"""Dylan Starr Williams: The Untold Truth About Serena Williams Half-Brother HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1475212087991447561,2021-12-26,21:09:04,"""Jasper Breckenridge Johnson: The Untold Truth About Don Johnsons Son HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1472858844590182404,2021-12-20,09:18:07,"""Serene Justice Reed: The Untold Truth of Victoria Justices Mother HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1472309180497383427,2021-12-18,20:53:57,"""Michael Jordan Hatch: What You Didnt Know About Boosie Badazzs Son HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1470688018298200065,2021-12-14,09:32:02,"""Finnigan Holden McCormack: The Untold Truth About Eric McCormacks Son HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1470166207995203584,2021-12-12,22:58:33,"""Ted Leeb: The Untold Truth About Kaitlyn Leebs Spouse HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1469363491643531278,2021-12-10,17:48:50,"""Bryan Spies: The Untold Truth of Abigail Hawks Husband HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1468704291468754946,2021-12-08,22:09:24,"""Kristina Luckey: The Unknown Fact About Billy Ray Cyruss Ex-Girlfriend HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1466183132433063939,2021-12-01,23:11:13,"""Paul Cerrito: The Untold Truth of Yasmine Bleeths Husband HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1464490814839541761,2021-11-27,07:06:33,"""Bree Dunham: The Untold Truth of Jeff Dunhams Daughter HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1464117023613595661,2021-11-26,06:21:15,"""Leigh Anne Csuhany: The Untold Truth Of Kelsey Grammers Ex-Wife HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1463967776821989376,2021-11-25,20:28:11,"""Jeremy Yaffe: What You Didnt Know About Alan Arkins Ex-Wife HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1463644757444349953,2021-11-24,23:04:38,"""Mars Merkaba Thedford: The Untold Truth of Erykah Badu &amp; Jay Electronicas Daughter HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1461750477192937477,2021-11-19,17:37:26,"""Bridget Showalter Pudi: What You Didnt Know About Danny Pudis Wife HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1459846300225216515,2021-11-14,11:30:55,"""Karen Riotoc Moscow: The Untold Truth About David Moscows Wife HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1459271130636820481,2021-11-12,21:25:24,"""Kid Cudi wears Erl Wedding Dress to CFDA Fashion Awards HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1458791959972167682,2021-11-11,13:41:20,"""Albert Brown IV: Complete Facts and Bio of Al B. Sures Son HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1457646967002107904,2021-11-08,09:51:33,"""Rosemary Elikolani: The Untold Truth About Nicole Scherzingers Mother HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1457081667743621120,2021-11-06,20:25:15,"""Trini Mitchum: What You Didnt Know About Robert Mitchums Daughter HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1454152280119390208,2021-10-29,18:24:55,"""Finley Faith Sehorn: The Untold Truth About Angie Harmons Daughter HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1449347136722714628,2021-10-16,12:10:59,"""Nicola Elizabeth Frost: The Untold Truth About Tom Hollands Mother HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1448168845231984640,2021-10-13,06:08:53,"""Sulayman Chappelle: The Untold Truth About Dave Chappelles Son HTTPURL""",1,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1446479259049017345,2021-10-08,14:15:04,"""Veronica Rubio: Complete Facts About Carlos Ponces Ex-Wife HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1445162440572932107,2021-10-04,23:02:30,"""Gina Sasso: Everything You Should Know About Thomas Mikal Fords Ex-Wife HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1440413413922926599,2021-09-21,20:31:34,"""Heather Helm: The Untold Truth About Matthew Lillards Wife HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1426416496725708804,2021-08-14,05:32:49,"""@USER The horrors 😔""",1,0,Twitter for Android,129347867,14609,12376,28,52705
+CONTROL,1417598104191201281,2021-07-20,21:31:40,"""Jason Schanne: The Untold Truth About Bruno Toniolis Partner HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1412517555353358338,2021-07-06,21:03:23,"""Butterfly Rose Oldham: Meet Kimberly Elises Daughter HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1409853665150705668,2021-06-29,12:38:02,"""Lindsay Jordan Doty: The Untold Truth About Philip DeFrancos Wife HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1405259272678625281,2021-06-16,20:21:33,"""@USER Following""",0,0,Twitter for Android,129347867,14609,12376,28,52705
+CONTROL,1403841377679650816,2021-06-12,22:27:21,"""Mahiely Woodbine: Everything You Should Know About Bokeem Woodbines Wife HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1401433824752451586,2021-06-06,07:00:35,"""Aviss Bell: Everything You Should Know About Coby Bells Wife HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1398354848316198912,2021-05-28,19:05:50,"""Canyon Grey Felton: The Untold Truth About Jeremihs Son HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1396668401838346240,2021-05-24,03:24:30,"""Lucas Claude Sykes: Meet The Son of Wanda Sykes HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1395073821938311168,2021-05-19,17:48:13,"""Marcus Glenn Richardson: The Untold Truth About Abby Phillips Husband HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1394595162886709249,2021-05-18,10:06:11,"""Gayle Godfrey: Everything You Should Know About Billy Blanks Ex-Wife HTTPURL""",1,1,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1392552297109106696,2021-05-12,18:48:34,"""Hailey Bieber in Versace Couture HTTPURL""",3,1,Twitter for Android,129347867,14609,12376,28,52705
+CONTROL,1391497600793288708,2021-05-09,20:57:35,"""Rhonda Rookmaaker: The Untold Truth About Jimmy Johnsons Wife HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1389880583468290051,2021-05-05,09:52:08,"""Ann Archambault: What You Didnt Know About Joe Bucks Ex-wife HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1387071489434963972,2021-04-27,15:49:48,"""Alyssa Jane Ashton: The Untold Truth About Leslie Carters Daughter HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1386833124982763520,2021-04-27,00:02:37,"""Kylie in Mugler 🖤 HTTPURL""",1,0,Twitter for Android,129347867,14609,12376,28,52705
+CONTROL,1385983737842733058,2021-04-24,15:47:28,"""Eric Jude Crewe: The Untold Truth About Ricky Nelsons Son HTTPURL""",1,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1384118309772169218,2021-04-19,12:14:55,"""Layla Lacosta Laseter: Meet Tanya Tuckers Daughter HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705
+CONTROL,1382647330235502598,2021-04-15,10:49:46,"""Ryan Nikolaos Sampras: The Untold Truth About Pete Sampras Second Son HTTPURL""",0,0,WordPress.com,129347867,14609,12376,28,52705

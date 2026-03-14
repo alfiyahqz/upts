@@ -1,0 +1,139 @@
+class,tweet_id,day,time,tweet,tweet_favorite_count,tweet_retweet_count,tweet_source,user_id,user_followers_count,user_friends_count,user_listed_count,user_statuses_count
+CONTROL,1533525026183561217,2022-06-05,19:03:52,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1422245117604282370,2021-08-02,17:17:14,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1365015365147889669,2021-02-25,19:06:38,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1363927953030189058,2021-02-22,19:05:39,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1349868890633994240,2021-01-14,23:59:57,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1348778327990038535,2021-01-11,23:46:27,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1322606637526515714,2020-10-31,18:29:29,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1270109507935522816,2020-06-08,21:44:38,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1262509803273887744,2020-05-18,22:26:08,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1254935647342809088,2020-04-28,00:49:08,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1253632345309155329,2020-04-24,10:30:17,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1250209153185984512,2020-04-14,23:47:44,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1247707974208028674,2020-04-08,02:08:57,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1240833431795372034,2020-03-20,02:51:58,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1239641449882439680,2020-03-16,19:55:27,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1230946847474274306,2020-02-21,20:06:12,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1229849338387537929,2020-02-18,19:25:06,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1227683263826653184,2020-02-12,19:57:54,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1204944440273571845,2019-12-12,02:01:56,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1201588933668290563,2019-12-02,19:48:20,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1174391729761464320,2019-09-18,18:36:22,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1170088857582391299,2019-09-06,21:38:17,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1163508895295389696,2019-08-19,17:51:52,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1162464988520488960,2019-08-16,20:43:45,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1161369733540847617,2019-08-13,20:11:36,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1160281696325066753,2019-08-10,20:08:08,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1159213248039854080,2019-08-07,21:22:30,"""one person followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1149617647736147969,2019-07-12,09:53:00,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1148140640376709121,2019-07-08,08:03:54,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1139452800046391297,2019-06-14,08:41:32,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1135075448831000576,2019-06-02,06:47:30,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1133626794731540480,2019-05-29,06:51:04,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1129298619666878465,2019-05-17,08:12:26,"""one person followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1126671516941332491,2019-05-10,02:13:16,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1125573418420723712,2019-05-07,01:29:49,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1122760667394650112,2019-04-29,07:12:57,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1121598832989622273,2019-04-26,02:16:14,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1120500728550887424,2019-04-23,01:32:46,"""2 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1118282861281513474,2019-04-16,22:39:45,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1117744245668868096,2019-04-15,10:59:29,"""@USER @USER @USER @USER @USER changlix!!! HTTPURL""",0,0,Twitter for Android,994167962289356805,35,201,0,525
+CONTROL,1117742159841509376,2019-04-15,10:51:12,"""@USER Stray Kids lightstick pleaseeeeee :(((""",0,0,Twitter for Android,994167962289356805,35,201,0,525
+CONTROL,1117204695502790656,2019-04-13,23:15:30,"""one person followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1115478689184010240,2019-04-09,04:56:58,"""#STRAYKIDS_ASC Skz in Asc is what i'm waiting for. I love kings who make beautiful mess. HTTPURL""",0,0,Twitter for Android,994167962289356805,35,201,0,525
+CONTROL,1115476119761838080,2019-04-09,04:46:46,"""@USER @USER Hi @USER ! Welcome back to ASC! Happy Birthday Woojinnnn! Hope you enjoyed your day. Congratulations also to your first win! You guys deserve it. We're waiting skz to come to the Philippines! I love youuuuu💓""",0,0,Twitter for Android,994167962289356805,35,201,0,525
+CONTROL,1113084445312004096,2019-04-02,14:23:06,"""army stays aAaAaaa HTTPURL""",0,0,Twitter for Android,994167962289356805,35,201,0,525
+CONTROL,1110917183255642113,2019-03-27,14:51:10,"""Connect your idol champ to korea and vote for skz! We're currently on the 2nd spot with 25.73% and NU'EST leading with 28.01%. Let's help K-Stays""",0,0,Twitter for Android,994167962289356805,35,201,0,525
+CONTROL,1110766415772938240,2019-03-27,04:52:05,"""ya'll are making me cry with our song for skz. calm my heart aaaaa #SongForStrayKids HTTPURL""",1,0,Twitter for Android,994167962289356805,35,201,0,525
+CONTROL,1109853406510735360,2019-03-24,16:24:06,"""i realized how many times i refreshed my notif just to see skz replying to my twt aAaaAa ok im always ready not to get noticed but lets talk abt that later #StrayKidsComeback #MIROH #CLÉ1_MIROH #StrayKids1stAnniversary HTTPURL""",0,0,Twitter for Android,994167962289356805,35,201,0,525
+CONTROL,1109851541228285952,2019-03-24,16:16:42,"""@USER @USER Swerte aAaAaaa""",1,0,Twitter for Android,994167962289356805,35,201,0,525
+CONTROL,1109849006652297216,2019-03-24,16:06:37,"""oh my... HTTPURL""",0,0,Twitter for Android,994167962289356805,35,201,0,525
+CONTROL,1109848162410225666,2019-03-24,16:03:16,"""tHiS... HTTPURL""",0,0,Twitter for Android,994167962289356805,35,201,0,525
+CONTROL,1109847962299985920,2019-03-24,16:02:28,"""Ok dude i said im ready not to get noticed but im actually not adbxjsnjsna HTTPURL""",0,0,Twitter for Android,994167962289356805,35,201,0,525
+CONTROL,1109846756592779264,2019-03-24,15:57:41,"""Kings came back already! Ansjsnjs #MIROH #CLÉ1_MIROH #StrayKidsComeback #StrayKids1stAnniversary HTTPURL""",0,0,Twitter for Android,994167962289356805,35,201,0,525
+CONTROL,1109843257687605248,2019-03-24,15:43:47,"""Did you see Miroh MV? Did you see them sing and dance? Mate, they are what we call kings!  #MIROH #StrayKidsComeback #StrayKids1stAnniversary""",0,0,Twitter for Android,994167962289356805,35,201,0,525
+CONTROL,1109842851653836801,2019-03-24,15:42:10,"""@USER MIROH MV IS SO LITTTTT! LET'S CONTINUE STREAMINGG! HAPPY 1ST ANNIVERSARYYYY""",0,0,Twitter for Android,994167962289356805,35,201,0,525
+CONTROL,1109652597068070913,2019-03-24,03:06:10,"""@USER How do you feel today? Are you guys doing good? #StrayKidsComeback""",0,0,Twitter Web App,994167962289356805,35,201,0,525
+CONTROL,1109652483322728448,2019-03-24,03:05:43,"""@USER Hyunjin, your pronounciation of english words is amazing! Who helps you with saying them?  #StrayKidsComeback""",0,0,Twitter Web App,994167962289356805,35,201,0,525
+CONTROL,1109652087388934145,2019-03-24,03:04:08,"""@USER Woojin, do you think you would like how the chicken is cooked here in the Philippines? i love youuu  #StrayKidsComeback""",0,0,Twitter Web App,994167962289356805,35,201,0,525
+CONTROL,1109651578753941504,2019-03-24,03:02:07,"""@USER Seungmin, what's your favorite english song?  #StrayKidsComeback""",0,0,Twitter Web App,994167962289356805,35,201,0,525
+CONTROL,1109651414702149633,2019-03-24,03:01:28,"""@USER  What's your favorite song of Twice?  #StrayKidsComeback""",0,0,Twitter Web App,994167962289356805,35,201,0,525
+CONTROL,1109651122472407040,2019-03-24,03:00:18,"""@USER Felix, what's your favorite place in Australia?  #StrayKidsComeback""",0,0,Twitter Web App,994167962289356805,35,201,0,525
+CONTROL,1109650839872770048,2019-03-24,02:59:11,"""@USER Jeongin, your smile cures the world. It's been a long time since you put your braces off. How does it feel? Love youuu #StrayKidsComeback""",0,0,Twitter Web App,994167962289356805,35,201,0,525
+CONTROL,1109640217856757768,2019-03-24,02:16:58,"""@USER Say something in filipino :))  #StrayKidsComeback""",0,0,Twitter Web App,994167962289356805,35,201,0,525
+CONTROL,1109639945117798400,2019-03-24,02:15:53,"""@USER Seungmin, your voice is very clear! What do you do to keep it?  #StrayKidsComeback""",0,0,Twitter Web App,994167962289356805,35,201,0,525
+CONTROL,1109639346171179008,2019-03-24,02:13:30,"""@USER Jisung, can you give us a message using malaysian langguage?  #StrayKidsComeback""",0,0,Twitter Web App,994167962289356805,35,201,0,525
+CONTROL,1109637159915384833,2019-03-24,02:04:49,"""@USER   PH-Stays love you guys a lot and you're going to have a concert here soon! What do you expect? I love you all :)) han ily hehe #StrayKidsComeback""",0,0,Twitter Web App,994167962289356805,35,201,0,525
+CONTROL,1109632990663995394,2019-03-24,01:48:15,"""@USER hERE COMES THE KINGS!!""",0,0,Twitter Web App,994167962289356805,35,201,0,525
+CONTROL,1109570470691528704,2019-03-23,21:39:49,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1109418822828584960,2019-03-23,11:37:14,"""Ready to get ignored bzhsbsjdbsb HTTPURL""",0,0,Twitter for Android,994167962289356805,35,201,0,525
+CONTROL,1108488819047890944,2019-03-20,22:01:43,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1103063201548328961,2019-03-05,22:42:15,"""2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1100886970144837637,2019-02-27,22:34:41,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1095452053218955265,2019-02-12,22:38:16,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1084578077533978629,2019-01-13,22:28:58,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1082398414468497410,2019-01-07,22:07:46,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1080212546567749633,2019-01-01,21:21:55,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1079118859137925120,2018-12-29,20:55:59,"""one person followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1078019754034642944,2018-12-26,20:08:32,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1076942944798756864,2018-12-23,20:49:41,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1075856995784253448,2018-12-20,20:54:30,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1072610061166526465,2018-12-11,21:52:21,"""one person followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1071530105128845314,2018-12-08,22:20:59,"""2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1070471389113696257,2018-12-06,00:14:02,"""one person followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1069365012303675393,2018-12-02,22:57:41,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1068289811562315776,2018-11-29,23:45:13,"""5 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1067782358613417986,2018-11-28,14:08:47,"""Blackpink's concert tickets are so expensive. Madaming students na blinks and also the issue abt Jennie. With 8 songs and a few covers? Not worth it.""",1,0,Twitter for Android,994167962289356805,35,201,0,525
+CONTROL,1066122975202762753,2018-11-24,00:14:59,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1064929815273324544,2018-11-20,17:13:48,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1057537081847808000,2018-10-31,07:37:43,"""2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1056088278393339904,2018-10-27,07:40:41,"""5 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1054631096187523072,2018-10-23,07:10:22,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1053267105607548928,2018-10-19,12:50:21,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1053217966647500800,2018-10-19,09:35:05,"""pre aq 2""",0,0,Twitter Web App,994167962289356805,35,201,0,525
+CONTROL,1050438066375184386,2018-10-11,17:28:45,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1049061514844487681,2018-10-07,22:18:50,"""one person followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1047428441807708160,2018-10-03,10:09:35,"""one person followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1041631130787737600,2018-09-17,10:13:08,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1040189793613893633,2018-09-13,10:45:47,"""one person followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1037301682957373440,2018-09-05,11:29:28,"""3 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1035856869099806722,2018-09-01,11:48:17,"""2 people followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1034389070036783109,2018-08-28,10:35:46,"""6 people followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1033698231178260480,2018-08-26,12:50:38,"""London💜 HTTPURL""",0,0,Twitter for Android,994167962289356805,35,201,0,525
+CONTROL,1032998032638279680,2018-08-24,14:28:17,"""You don't understand.""",0,0,Twitter for Android,994167962289356805,35,201,0,525
+CONTROL,1032955304852578305,2018-08-24,11:38:30,"""3 people followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1032287866276077574,2018-08-22,15:26:20,"""@USER @USER finallyyYYYyyyyY""",0,0,Twitter for Android,994167962289356805,35,201,0,525
+CONTROL,1032278563142086656,2018-08-22,14:49:22,"""i dont wanna feel alone anymore. HTTPURL""",0,0,Twitter for Android,994167962289356805,35,201,0,525
+CONTROL,1032277519389474816,2018-08-22,14:45:14,"""Being proud of what you have is ok. But using it for show offs is not ok.🙂""",0,0,Twitter for Android,994167962289356805,35,201,0,525
+CONTROL,1031522705605054464,2018-08-20,12:45:52,"""3 people followed me and 3 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1030812798966685696,2018-08-18,13:44:57,"""@USER no bisHhhhH""",0,0,Twitter for Android,994167962289356805,35,201,0,525
+CONTROL,1030441168608186370,2018-08-17,13:08:13,"""im saved HTTPURL""",0,0,Twitter for Android,994167962289356805,35,201,0,525
+CONTROL,1030434933666283520,2018-08-17,12:43:27,"""@USER love ya tooooooo HTTPURL""",0,0,Twitter for Android,994167962289356805,35,201,0,525
+CONTROL,1029688400385921024,2018-08-15,11:16:59,"""2 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1028249721712898050,2018-08-11,12:00:12,"""3 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1020987735853666304,2018-07-22,11:03:39,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1019542644186329090,2018-07-18,11:21:23,"""2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1015091338637991936,2018-07-06,04:33:29,"""4 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,994167962289356805,35,201,0,525
+CONTROL,1014816666968981505,2018-07-05,10:22:02,"""""Your problem is not a problem. The problem is how you problem the problem.""   got it?""",0,0,Twitter for Android,994167962289356805,35,201,0,525
+CONTROL,1014815438268583936,2018-07-05,10:17:09,"""Love you so bad #FIFAFakeLove @USER HTTPURL""",1,0,Twitter for Android,994167962289356805,35,201,0,525
+CONTROL,1010914569466724353,2018-06-24,15:56:29,"""So cuteeee💘 HTTPURL""",0,0,Twitter for Android,994167962289356805,35,201,0,525
+CONTROL,1010864158902906880,2018-06-24,12:36:11,"""It felt so real but I woke up.""",0,0,Twitter for Android,994167962289356805,35,201,0,525
+CONTROL,1010857417477779458,2018-06-24,12:09:23,"""You will make your own future.""",0,0,Twitter for Android,994167962289356805,35,201,0,525
+CONTROL,1010849156645072898,2018-06-24,11:36:34,"""@USER @USER @USER The truth untold #BTSARMY #TeenChoice #ChoiceFandom  @USER  @USER""",0,1,Twitter for Android,994167962289356805,35,201,0,525
+CONTROL,1010845336875642881,2018-06-24,11:21:23,"""Forever Young💘""",0,0,Twitter for Android,994167962289356805,35,201,0,525
+CONTROL,1004988484413603840,2018-06-08,07:28:21,"""Love the weather""",0,0,Twitter for Android,994167962289356805,35,201,0,525
+CONTROL,1004988003716984832,2018-06-08,07:26:26,"""@USER taught me to show what I really am and not to act some more or less and someone else to be admired by other people. 'Cause this time,I got the best of me. #BestOfBTS HTTPURL""",0,0,Twitter for Android,994167962289356805,35,201,0,525
+CONTROL,1004986390432452608,2018-06-08,07:20:01,"""exactly. #BestOfBTS HTTPURL""",0,0,Twitter for Android,994167962289356805,35,201,0,525
+CONTROL,1003966025522544640,2018-06-05,11:45:27,"""June 13..where classes in our school will start :&lt; #CryingPartyIntlArmys HTTPURL""",0,0,Twitter for Android,994167962289356805,35,201,0,525
+CONTROL,1003964713271681024,2018-06-05,11:40:15,"""leJINdary🦄 Worldwide handsome tho🌸  #KingSeokjin #2018BTSFESTA HTTPURL""",0,0,Twitter for Android,994167962289356805,35,201,0,525
+CONTROL,1003963406641053697,2018-06-05,11:35:03,"""Please. HTTPURL""",0,0,Twitter for Android,994167962289356805,35,201,0,525
+CONTROL,1003963348570918913,2018-06-05,11:34:49,"""When anger suddenly turns into tears...""",0,0,Twitter for Android,994167962289356805,35,201,0,525
+CONTROL,1003634120533073920,2018-06-04,13:46:35,"""Always remember that you are loved and blessed.🌸""",0,0,Twitter for Android,994167962289356805,35,201,0,525
+CONTROL,1002228313857781760,2018-05-31,16:40:25,"""S(he) is aware. S(he) just doesn't care.""",1,0,Twitter for Android,994167962289356805,35,201,0,525
+CONTROL,1002227670665474049,2018-05-31,16:37:51,"""3 layers of eyebags jusq""",0,0,Twitter for Android,994167962289356805,35,201,0,525
+CONTROL,1002209462587768832,2018-05-31,15:25:30,"""The long wait is overrrrrr! HTTPURL""",0,0,Twitter for Android,994167962289356805,35,201,0,525
+CONTROL,1002183497790844928,2018-05-31,13:42:20,"""Congratsssss! Let's get this on 6th win,aye? lol #FakeLove5thWin HTTPURL""",0,0,Twitter for Android,994167962289356805,35,201,0,525
+CONTROL,1001712365153472512,2018-05-30,06:30:13,"""'Cause if you tried and didn't ran away from it,you're never a loser.""",0,0,Twitter for Android,994167962289356805,35,201,0,525
+CONTROL,1001115539706597376,2018-05-28,14:58:39,"""London to Paris✨💘  airplane pt.2 aaAaAh.""",0,0,Twitter for Android,994167962289356805,35,201,0,525
+CONTROL,999190669473148928,2018-05-23,07:29:54,"""People change when they get hurt.  yiz naman may pa ganern""",0,0,Twitter for Android,994167962289356805,35,201,0,525

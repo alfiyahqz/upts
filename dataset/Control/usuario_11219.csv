@@ -1,0 +1,176 @@
+class,tweet_id,day,time,tweet,tweet_favorite_count,tweet_retweet_count,tweet_source,user_id,user_followers_count,user_friends_count,user_listed_count,user_statuses_count
+CONTROL,1546792522348904448,2022-07-12,09:44:10,"""2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1328848962955194368,406,1191,9,24474
+CONTROL,1543267139779452928,2022-07-02,16:15:33,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1328848962955194368,406,1191,9,24474
+CONTROL,1541374080531812354,2022-06-27,10:53:12,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1328848962955194368,406,1191,9,24474
+CONTROL,1539768414956314624,2022-06-23,00:32:52,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1328848962955194368,406,1191,9,24474
+CONTROL,1538091464126877697,2022-06-18,09:29:16,"""2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1328848962955194368,406,1191,9,24474
+CONTROL,1533990945129123847,2022-06-07,01:55:16,"""2 people followed me and 3 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1328848962955194368,406,1191,9,24474
+CONTROL,1532909295997751298,2022-06-04,02:17:10,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,1328848962955194368,406,1191,9,24474
+CONTROL,1530105558384185345,2022-05-27,08:36:07,"""2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1328848962955194368,406,1191,9,24474
+CONTROL,1528695604154667008,2022-05-23,11:13:28,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,1328848962955194368,406,1191,9,24474
+CONTROL,1527235760579133441,2022-05-19,10:32:34,"""one person followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1328848962955194368,406,1191,9,24474
+CONTROL,1524393703753846784,2022-05-11,14:19:15,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1328848962955194368,406,1191,9,24474
+CONTROL,1521459013761830914,2022-05-03,11:57:50,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1328848962955194368,406,1191,9,24474
+CONTROL,1520008140028317697,2022-04-29,11:52:35,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1328848962955194368,406,1191,9,24474
+CONTROL,1518554174283300865,2022-04-25,11:35:03,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,1328848962955194368,406,1191,9,24474
+CONTROL,1511968592807530496,2022-04-07,07:26:18,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1328848962955194368,406,1191,9,24474
+CONTROL,1507626086254923776,2022-03-26,07:50:43,"""one person followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1328848962955194368,406,1191,9,24474
+CONTROL,1506433764318187523,2022-03-23,00:52:52,"""2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1328848962955194368,406,1191,9,24474
+CONTROL,1504007984153829377,2022-03-16,08:13:41,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1328848962955194368,406,1191,9,24474
+CONTROL,1502653291557179393,2022-03-12,14:30:37,"""2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1328848962955194368,406,1191,9,24474
+CONTROL,1499696227449032706,2022-03-04,10:40:18,"""one person followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1328848962955194368,406,1191,9,24474
+CONTROL,1498217612567887874,2022-02-28,08:44:49,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,1328848962955194368,406,1191,9,24474
+CONTROL,1496799002171514881,2022-02-24,10:47:45,"""one person followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1328848962955194368,406,1191,9,24474
+CONTROL,1495371908325462017,2022-02-20,12:17:00,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1328848962955194368,406,1191,9,24474
+CONTROL,1493907472490188801,2022-02-16,11:17:51,"""2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1328848962955194368,406,1191,9,24474
+CONTROL,1492459167935877123,2022-02-12,11:22:48,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,1328848962955194368,406,1191,9,24474
+CONTROL,1488082987564470273,2022-01-31,09:33:26,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,1328848962955194368,406,1191,9,24474
+CONTROL,1486655590365638659,2022-01-27,11:01:28,"""2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1328848962955194368,406,1191,9,24474
+CONTROL,1483770126033989634,2022-01-19,11:55:39,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,1328848962955194368,406,1191,9,24474
+CONTROL,1482354863312973824,2022-01-15,14:11:54,"""one person followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1328848962955194368,406,1191,9,24474
+CONTROL,1479419791605743618,2022-01-07,11:48:59,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1328848962955194368,406,1191,9,24474
+CONTROL,1477931538662760454,2022-01-03,09:15:12,"""one person followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1328848962955194368,406,1191,9,24474
+CONTROL,1475310755897565186,2021-12-27,03:41:08,"""one person followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1328848962955194368,406,1191,9,24474
+CONTROL,1466723260654145538,2021-12-03,10:57:30,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1328848962955194368,406,1191,9,24474
+CONTROL,1465269859013566466,2021-11-29,10:42:12,"""2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1328848962955194368,406,1191,9,24474
+CONTROL,1463844078584578050,2021-11-25,12:16:39,"""one person followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1328848962955194368,406,1191,9,24474
+CONTROL,1462428525210841100,2021-11-21,14:31:45,"""one person followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1328848962955194368,406,1191,9,24474
+CONTROL,1461038494869069828,2021-11-17,18:28:16,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1328848962955194368,406,1191,9,24474
+CONTROL,1459643365423820814,2021-11-13,22:04:31,"""one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1328848962955194368,406,1191,9,24474
+CONTROL,1458558843886215172,2021-11-10,22:15:01,"""Should i turn this into an art only acc""",1,1,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1458558674469892112,2021-11-10,22:14:21,"""I FORGOT THE FUCKING POLL HTTPURL""",3,0,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1458558585840054288,2021-11-10,22:14:00,"""CHAT should i turn this acc into an art only acc and use @USER as a personal only""",3,0,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1456625669325135877,2021-11-05,14:13:17,"""one person followed me // automatically checked by HTTPURL""",1,0,fllwrs,1328848962955194368,406,1191,9,24474
+CONTROL,1455150088154755082,2021-11-01,12:29:51,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,1328848962955194368,406,1191,9,24474
+CONTROL,1452199544595357696,2021-10-24,09:05:26,"""3 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1328848962955194368,406,1191,9,24474
+CONTROL,1451646264869892100,2021-10-22,20:26:54,"""POKES MICROPHONE follow me @USER bc i know most of yall arent""",3,0,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1450720956373155840,2021-10-20,07:10:03,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,1328848962955194368,406,1191,9,24474
+CONTROL,1449208727228325888,2021-10-16,03:01:00,"""one person followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1328848962955194368,406,1191,9,24474
+CONTROL,1446240632259874821,2021-10-07,22:26:51,"""2 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1328848962955194368,406,1191,9,24474
+CONTROL,1444629167660847105,2021-10-03,11:43:28,"""2 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1328848962955194368,406,1191,9,24474
+CONTROL,1443369035572391937,2021-09-30,00:16:09,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,1328848962955194368,406,1191,9,24474
+CONTROL,1441775025347080192,2021-09-25,14:42:07,"""2 people followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1328848962955194368,406,1191,9,24474
+CONTROL,1439959028021538817,2021-09-20,14:26:00,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,1328848962955194368,406,1191,9,24474
+CONTROL,1438532648876584962,2021-09-16,15:58:04,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,1328848962955194368,406,1191,9,24474
+CONTROL,1437785156073492500,2021-09-14,14:27:48,"""VOTE FUCKING ENTP HTTPURL""",1,0,Twitter for iPhone,1328848962955194368,406,1191,9,24474
+CONTROL,1437025431207677952,2021-09-12,12:08:56,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,1328848962955194368,406,1191,9,24474
+CONTROL,1435592379478781954,2021-09-08,13:14:29,"""3 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1328848962955194368,406,1191,9,24474
+CONTROL,1434174067301568514,2021-09-04,15:18:37,"""one person followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1328848962955194368,406,1191,9,24474
+CONTROL,1432721139919380481,2021-08-31,15:05:13,"""2 people followed me // automatically checked by HTTPURL""",0,0,fllwrs,1328848962955194368,406,1191,9,24474
+CONTROL,1431384022328954881,2021-08-27,22:31:59,"""one person followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1328848962955194368,406,1191,9,24474
+CONTROL,1431038943080890368,2021-08-26,23:40:46,"""anyways again follow my priv while ur here @USER im active there""",7,0,Twitter for iPhone,1328848962955194368,406,1191,9,24474
+CONTROL,1431029486724730885,2021-08-26,23:03:11,"""@USER hourlydrinks are you SEEING this shit!!!!!! /lh /👨‍️‍💋‍👨💕""",1,0,Twitter for iPhone,1328848962955194368,406,1191,9,24474
+CONTROL,1431028108346396677,2021-08-26,22:57:42,"""yes i am 3w2 (crawls back into my hole)""",4,0,Twitter for iPhone,1328848962955194368,406,1191,9,24474
+CONTROL,1431028015006457858,2021-08-26,22:57:20,"""Hey anon what does this mean HTTPURL""",10,0,Twitter for iPhone,1328848962955194368,406,1191,9,24474
+CONTROL,1429943797673254917,2021-08-23,23:09:03,"""one person followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1328848962955194368,406,1191,9,24474
+CONTROL,1428461128967987200,2021-08-19,20:57:27,"""one person followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1328848962955194368,406,1191,9,24474
+CONTROL,1427011071718612992,2021-08-15,20:55:26,"""2 people followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1328848962955194368,406,1191,9,24474
+CONTROL,1426308956432080898,2021-08-13,22:25:29,"""im rising from the grave just to show my disappointment HTTPURL""",16,1,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1425563275048128515,2021-08-11,21:02:25,"""2 people followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1328848962955194368,406,1191,9,24474
+CONTROL,1424143734640365579,2021-08-07,23:01:40,"""one person followed me // automatically checked by HTTPURL""",0,0,fllwrs,1328848962955194368,406,1191,9,24474
+CONTROL,1421248491037265924,2021-07-30,23:17:00,"""one person followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1328848962955194368,406,1191,9,24474
+CONTROL,1419770288510750720,2021-07-26,21:23:09,"""one person followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1328848962955194368,406,1191,9,24474
+CONTROL,1418355264219230209,2021-07-22,23:40:21,"""one person followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1328848962955194368,406,1191,9,24474
+CONTROL,1416861836645998600,2021-07-18,20:46:00,"""one person unfollowed me // automatically checked by HTTPURL""",1,0,fllwrs,1328848962955194368,406,1191,9,24474
+CONTROL,1415218284371324929,2021-07-14,07:55:07,"""2 people followed me // automatically checked by HTTPURL""",1,0,fllwrs,1328848962955194368,406,1191,9,24474
+CONTROL,1414326059013713927,2021-07-11,20:49:44,"""still on discord sawyer#7204 HTTPURL""",2,0,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1414323214491295748,2021-07-11,20:38:25,"""parents restricting my internet access im gonna be ia for a bit stay frosty""",13,0,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1414264541660295172,2021-07-11,16:45:17,"""im done lying to myself. Gender HTTPURL""",6,0,Twitter for iPhone,1328848962955194368,406,1191,9,24474
+CONTROL,1414223271399206920,2021-07-11,14:01:17,"""my brother is getting into scp i think. he needs a hobby""",1,0,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1414049657748180995,2021-07-11,02:31:24,"""4 people followed me and one person unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1328848962955194368,406,1191,9,24474
+CONTROL,1413949033308110856,2021-07-10,19:51:34,"""@USER i dont even go here and. yeah""",2,0,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1413940212577800194,2021-07-10,19:16:31,"""@USER im squinting so hard trying to see what point theyre making but its Not There goodbye""",3,0,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1413931989762285570,2021-07-10,18:43:50,"""@USER @USER so sorry for your loss get well soon :pray:""",0,0,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1413898127829086218,2021-07-10,16:29:17,"""@USER @USER HEWWO????????""",0,0,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1413830187796606979,2021-07-10,11:59:19,"""@USER ""the LGBTQ+ people"" is taking me OUTTT it sounds like the same tone as ""the toxic sludge"" i dont know why""",4,0,Twitter for iPhone,1328848962955194368,406,1191,9,24474
+CONTROL,1413828395448905734,2021-07-10,11:52:11,"""everyone look at my priv layout rn HTTPURL""",6,0,Twitter for iPhone,1328848962955194368,406,1191,9,24474
+CONTROL,1413662324154683399,2021-07-10,00:52:17,"""@USER does she want to kiss""",1,0,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1413651431794618370,2021-07-10,00:09:00,"""hey guys HTTPURL""",3,0,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1413649091586842624,2021-07-09,23:59:42,"""@USER hpld this thread as i wa;lk awawyyy""",1,0,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1413648805245952001,2021-07-09,23:58:34,"""@USER I FORGOT THIS SONG EXISTED""",1,0,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1413610944668835841,2021-07-09,21:28:07,"""@USER gotta regain composure""",1,0,Twitter for iPhone,1328848962955194368,406,1191,9,24474
+CONTROL,1413609801708359681,2021-07-09,21:23:34,"""shoutout to people losing their shit in my tumblr tags gotta be one of my favorite emotional crutches HTTPURL""",6,1,Twitter for iPhone,1328848962955194368,406,1191,9,24474
+CONTROL,1413598568104046596,2021-07-09,20:38:56,"""@USER my beloveds HTTPURL""",1,0,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1413590166384558083,2021-07-09,20:05:33,"""half lidded eyes and poofy hair.. acne a lot of the time too HTTPURL""",4,0,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1413564709572386818,2021-07-09,18:24:24,"""@USER started going to hot topic as a child because they thought it was cool, decided it wasnt cool for a bit but still went ""ironically"", has given up on irony since yet still shops there""",1,0,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1413564339529846787,2021-07-09,18:22:55,"""i dont trust bitches who show the timelapse for their art and there is just. no sketch layer. like they just start drawing the lines from scratch. no way ur lying""",5,0,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1413562263554994176,2021-07-09,18:14:41,"""@USER bestie i didnt wanna be the one to tell you this /j""",1,0,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1413560081283784706,2021-07-09,18:06:00,"""number of ajj liked songs is a mental illness scale from 1 to 10 HTTPURL""",3,0,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1413554713031847938,2021-07-09,17:44:40,"""for @USER (forgot to post this) HTTPURL""",15,3,Twitter for iPhone,1328848962955194368,406,1191,9,24474
+CONTROL,1413536041475223556,2021-07-09,16:30:29,"""he/they prns btw :]""",2,0,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1413533991525814273,2021-07-09,16:22:20,"""shoutout to this motherfucker!!! #blaseball HTTPURL""",92,43,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1413477448361168896,2021-07-09,12:37:39,"""@USER can i interest you in jacoby podcast HTTPURL""",2,0,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1413292840260620289,2021-07-09,00:24:05,"""@USER 21 views""",0,0,Twitter for iPhone,1328848962955194368,406,1191,9,24474
+CONTROL,1413292800163127296,2021-07-09,00:23:55,"""fit kinda fire /j HTTPURL HTTPURL""",2,0,Twitter for iPhone,1328848962955194368,406,1191,9,24474
+CONTROL,1413279384212066304,2021-07-08,23:30:37,"""stream the livs simp cam HTTPURL""",6,1,Twitter for iPhone,1328848962955194368,406,1191,9,24474
+CONTROL,1413273578267676679,2021-07-08,23:07:33,"""lrts go follow toasts NOWW""",0,0,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1413142197801607176,2021-07-08,14:25:29,"""fanfic quotes in da lyric bot HTTPURL""",0,0,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1413139637585866762,2021-07-08,14:15:19,"""@USER :broken_heart:""",1,0,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1413139405208907785,2021-07-08,14:14:23,"""@USER oomf pretty as he'll !!!""",1,0,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1413139082079703048,2021-07-08,14:13:06,"""@USER I JUST RQED UR PRIV TODAY DID U PRIV QRT ME BEFORE #@USER$%^&amp;*.... /lh""",1,0,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1413137585229107203,2021-07-08,14:07:09,"""lrt physical needs""",0,0,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1413112893122531329,2021-07-08,12:29:02,"""if i was locked in a room with mike townsend for two and a half hours he would come out a neopronouns user""",12,2,Twitter for iPhone,1328848962955194368,406,1191,9,24474
+CONTROL,1413111646088798208,2021-07-08,12:24:05,"""@USER i hate people i just cant be assed""",1,0,Twitter for iPhone,1328848962955194368,406,1191,9,24474
+CONTROL,1413107023579947008,2021-07-08,12:05:43,"""the source for this one is  . so embarrassing HTTPURL""",1,0,Twitter for iPhone,1328848962955194368,406,1191,9,24474
+CONTROL,1413106907586387968,2021-07-08,12:05:15,"""love my quote bot HTTPURL""",1,0,Twitter for iPhone,1328848962955194368,406,1191,9,24474
+CONTROL,1413106752590131202,2021-07-08,12:04:38,"""@USER this aint too bad HTTPURL""",1,0,Twitter for iPhone,1328848962955194368,406,1191,9,24474
+CONTROL,1412937922769215496,2021-07-08,00:53:46,"""5 people followed me and 2 people unfollowed me // automatically checked by HTTPURL""",0,0,fllwrs,1328848962955194368,406,1191,9,24474
+CONTROL,1412922387943804932,2021-07-07,23:52:02,"""@USER true! i just want to deck the both of them and send them to couples therapy. please""",1,0,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1412922140366708737,2021-07-07,23:51:03,"""@USER engine's nonbinary but if he was a man. well""",1,0,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1412922009978290180,2021-07-07,23:50:32,"""@USER ive sent this exact post to livs with the caption ""u @USER val"" before""",1,0,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1412921662958358530,2021-07-07,23:49:09,"""@USER . val hitherto""",1,0,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1412907890055258116,2021-07-07,22:54:26,"""@USER he looks like a fag""",0,0,Twitter for iPhone,1328848962955194368,406,1191,9,24474
+CONTROL,1412907747276955649,2021-07-07,22:53:52,"""Penguin town is such a funny show. These birds are divorced now""",3,0,Twitter for iPhone,1328848962955194368,406,1191,9,24474
+CONTROL,1412899979224616962,2021-07-07,22:23:00,"""give figure  @USER give figure  @USER kinassign me  @USER kin assign me  @USER  give me a plushie  @USER""",0,0,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1412895755786915841,2021-07-07,22:06:13,"""@USER food house's self-titled album""",1,0,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1412893307001262085,2021-07-07,21:56:29,"""@USER this feels like innuendo i want it so bad""",1,0,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1412890843715969031,2021-07-07,21:46:42,"""Fuck you. cringe culture is DEAD HTTPURL""",3,0,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1412886654818398214,2021-07-07,21:30:03,"""this is how i smile Who smiles like this. What am i a fanfiction character. irl m!entp HTTPURL""",4,0,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1412884315155881987,2021-07-07,21:20:45,"""lrts are from the blaseball wiki and fanfiction my quote bot is so""",2,0,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1412881378744614913,2021-07-07,21:09:05,"""@USER Please guys""",0,0,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1412881356808462338,2021-07-07,21:09:00,"""@USER Guys no""",1,0,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1412881271991279620,2021-07-07,21:08:39,"""@USER NOF UCKING WAGY""",1,0,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1412880881556017166,2021-07-07,21:07:06,"""w welcome one and Thought i wasnt swag you got me all wrong you dont have to worry bout the trolls because my squad gonna protect you i know dont worry bout him he cant get to you he spent the entire last year simping for a dorian electra follow /lyr""",0,0,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1412879481753198595,2021-07-07,21:01:33,"""@USER im right""",1,0,Twitter for iPhone,1328848962955194368,406,1191,9,24474
+CONTROL,1412878988704468994,2021-07-07,20:59:35,"""@USER @USER @USER true!!!""",1,0,Twitter for iPhone,1328848962955194368,406,1191,9,24474
+CONTROL,1412878924921593856,2021-07-07,20:59:20,"""marcus let me be server owner marcusss its my server marcus! HTTPURL""",2,0,Twitter for iPhone,1328848962955194368,406,1191,9,24474
+CONTROL,1412878594834055179,2021-07-07,20:58:01,"""@USER @USER 7 and 1 in tritype gang, how does it feel to be hot""",1,0,Twitter for iPhone,1328848962955194368,406,1191,9,24474
+CONTROL,1412877432160391175,2021-07-07,20:53:24,"""@USER a friend once said ""thats SUCH a you type"" after hearing this and upon being asked how they know replied ""wanting affection for a sense of self worth + jokes to cope"" so take that as you will""",1,0,Twitter for iPhone,1328848962955194368,406,1191,9,24474
+CONTROL,1412861891660111872,2021-07-07,19:51:39,"""you can tell what a fandom is like by searching a mlm ship and going to google images""",4,0,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1412855812595372036,2021-07-07,19:27:29,"""@USER flesh""",1,0,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1412854866553286660,2021-07-07,19:23:44,"""@USER is there an option for i dont have money but 100% go get that bag""",0,0,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1412849309477916674,2021-07-07,19:01:39,"""the stand mother mother is such a   song""",2,0,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1412791039165882375,2021-07-07,15:10:06,"""updated my lyric bot n turned it into a general quotes bot go check it out @USER""",1,0,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1412777651169812488,2021-07-07,14:16:54,"""FOUND IT HTTPURL""",2,0,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1412768764433731584,2021-07-07,13:41:36,"""i cant find this one fic that i read while logged out and its driving me insane""",3,0,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1412743082773254145,2021-07-07,11:59:33,"""@USER exactly. you get it""",2,0,Twitter for iPhone,1328848962955194368,406,1191,9,24474
+CONTROL,1412558303343923204,2021-07-06,23:45:18,"""@USER LOOK. LOOK""",0,0,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1412558133155831821,2021-07-06,23:44:37,"""homestuck    i fell down a rabbit hole and im not saying i have gender envy for dave strider in pesterquest but im not NOT saying that""",7,0,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1412536058282131460,2021-07-06,22:16:54,"""..this isnt my priv""",2,0,Twitter for iPhone,1328848962955194368,406,1191,9,24474
+CONTROL,1412535991236235268,2021-07-06,22:16:38,"""YOU MAKE ME FEEL SPECIAL LIKE A POPSTAR LIKE A REBEL THATS WHY EVERY TIME YOU LEAVE I REALLY WANT YOU TO COME BACK CAUSE I KNOW WELL FIND LOVE RIGHT WHERE WE ARE I SWEAR ON EVERY SINGLE LITTLE STAR ILL WORK THROUGH ALL MY THINGS AND COME SO FAR OH BABY WELL FIND LOVE RIGHT WH HTTPURL""",2,0,Twitter for iPhone,1328848962955194368,406,1191,9,24474
+CONTROL,1412500992961175560,2021-07-06,19:57:34,"""my tiktok app is being weird wtf 😭 it reset my following, followers, all my videos n likes?? n it wont let me log out""",2,0,Twitter for iPhone,1328848962955194368,406,1191,9,24474
+CONTROL,1412451801555668995,2021-07-06,16:42:06,"""maybe i shouldnt have a rp account HTTPURL""",7,0,Twitter for iPhone,1328848962955194368,406,1191,9,24474
+CONTROL,1412440294608474113,2021-07-06,15:56:22,"""i thought crop was gone i hate you HTTPURL""",3,0,Twitter for iPhone,1328848962955194368,406,1191,9,24474
+CONTROL,1412439805795962880,2021-07-06,15:54:26,"""everyone shut up and look at this character design i did the other day. My wife HTTPURL""",9,0,Twitter for iPhone,1328848962955194368,406,1191,9,24474
+CONTROL,1412427267221999626,2021-07-06,15:04:36,"""can we make this a banger i think it's funny""",9,0,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1412426275361378310,2021-07-06,15:00:40,"""@USER i can be madonna i can be your marilyn m""",1,0,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1412425299778846727,2021-07-06,14:56:47,"""gary i lvoe my friedns""",3,0,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1412423893856534531,2021-07-06,14:51:12,"""@USER that sucks i'm so sorry :( have a bnuy HTTPURL""",1,0,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1412417040690860039,2021-07-06,14:23:58,"""(hyping myself up to go outside) i am a complex and flawed character i am a byronic hero i am romanticizable i am a tumblr sexyman i am the fuckboy emoji personified i will have twitter threads psychoanalyzing me""",145,64,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1412414842774896644,2021-07-06,14:15:14,"""@USER goob morn""",0,0,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1412414235745849344,2021-07-06,14:12:49,"""half of me is like NOOO i cant have too many neos thats cringe :[ and the other half is like hee hoo funny words""",3,0,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1412411892568629257,2021-07-06,14:03:31,"""@USER FUCKFUCK DONT DEEZ NUTS ME""",1,0,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1412411822565728266,2021-07-06,14:03:14,"""@USER these??""",1,0,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1412411750994124800,2021-07-06,14:02:57,"""@USER :handshake:..... i have seen SO MUCH MORE SHIT because of those tweets than i would have otherwise""",1,0,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1412410581815070723,2021-07-06,13:58:18,"""ok yeah tag as sawyer don't look please please :pray: HTTPURL""",1,0,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1412409549546475520,2021-07-06,13:54:12,"""i can live with this HTTPURL""",1,0,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1412408739634819081,2021-07-06,13:50:59,"""i would rather run the risk of accidentally clicking the link in the wild bc im not in the habit of clicking links but when i KNOW something is really bad i AM going to look it up and the only thing saving me rn is i cant remember the link for the one i was just warned about HTTPURL""",0,0,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1412408315863240712,2021-07-06,13:49:18,"""ohhhhhhhhhhhhmy god i am. so close to asking people to tag those tweets that are like ""don't click this link it's gore/nsfw/etc"" because i literally cant control myself and i WILL look it up out of curiosity /srs""",1,0,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1412405207108050944,2021-07-06,13:36:57,"""@USER WHATS UR USERNAME""",1,0,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1412389661901836293,2021-07-06,12:35:10,"""#FixTheAlgorithm i draw. give me clout HTTPURL""",20,9,Twitter for iPhone,1328848962955194368,406,1191,9,24474
+CONTROL,1412186363517145090,2021-07-05,23:07:20,"""@USER should i""",0,0,Twitter for iPhone,1328848962955194368,406,1191,9,24474
+CONTROL,1412186292247580675,2021-07-05,23:07:03,"""@USER I DIDNT I JUST FOLLOW IKEMEN FIGURES!???""",0,0,Twitter for iPhone,1328848962955194368,406,1191,9,24474
+CONTROL,1412162409716985858,2021-07-05,21:32:09,"""@USER Thank you""",1,0,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1412159322113597440,2021-07-05,21:19:53,"""i dont know who the fuck this bitch is but i am going to kiss him HTTPURL""",9,0,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1412150125456150528,2021-07-05,20:43:21,"""cruel summer by only fire is like the most unintentionally funny song ever""",1,0,Twitter Web App,1328848962955194368,406,1191,9,24474
+CONTROL,1412149547921518596,2021-07-05,20:41:03,"""im gonna listen to songs to wear pants to now fuck yall""",1,0,Twitter Web App,1328848962955194368,406,1191,9,24474
