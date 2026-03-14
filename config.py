@@ -18,7 +18,7 @@ CLASS_MAPPING = {
     'Anxiety': 1,
     'Bipolar': 2,
     'Depression': 3,
-    'Pstd': 4,
+    'Ptsd': 4,
     'Asd': 5,
     'Ocd': 6,
     'Eating': 7,
