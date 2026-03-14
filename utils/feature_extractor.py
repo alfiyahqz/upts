@@ -19,6 +19,13 @@ class TemporalFeatureExtractor:
         print(f"🤖 Loading embedding model: {model_name}")
         self.encoder = SentenceTransformer(model_name)
         self.feature_dim = FEATURE_DIM
+
+    @staticmethod
+    def _timedelta_to_hours(td) -> float:
+        """Safely convert timedelta (numpy or Python) to hours."""
+        if isinstance(td, np.timedelta64):
+            return float(td / np.timedelta64(1, 's')) / 3600
+        return td.total_seconds() / 3600
         
     def extract_post_features(self, posts_df):
         """
@@ -37,19 +44,25 @@ class TemporalFeatureExtractor:
         texts = posts_df['text'].tolist()
         text_embeddings = self.encoder.encode(texts, show_progress_bar=False)
         
+        # Use pandas Series for safe timedelta arithmetic
+        timestamps = pd.to_datetime(posts_df['timestamp'])
+        
         # Get max time gap for normalization
-        timestamps = posts_df['timestamp'].values
         time_diffs = []
         for i in range(1, len(timestamps)):
-            diff = (timestamps[i] - timestamps[i-1]).total_seconds() / 3600  # hours
+            diff = self._timedelta_to_hours(timestamps.iloc[i] - timestamps.iloc[i-1])
             time_diffs.append(diff)
         
         max_time_gap = max(time_diffs) if time_diffs else 1.0
+
+        # Reset index to ensure iloc alignment with text_embeddings
+        posts_df = posts_df.reset_index(drop=True)
+        timestamps = timestamps.reset_index(drop=True)
         
         # Extract features for each post
-        for idx, row in posts_df.iterrows():
+        for idx in range(len(posts_df)):
             text_embedding = text_embeddings[idx]  # Shape: (768,)
-            current_time = row['timestamp']
+            current_time = timestamps.iloc[idx]
             
             # === Temporal Features ===
             
@@ -57,7 +70,7 @@ class TemporalFeatureExtractor:
             if previous_time is None:
                 time_gap = 0.0
             else:
-                gap_hours = (current_time - previous_time).total_seconds() / 3600
+                gap_hours = self._timedelta_to_hours(current_time - previous_time)
                 time_gap = min(gap_hours / max_time_gap, 1.0) if max_time_gap > 0 else 0.0
             
             # 2. Hour of day (normalized to [0, 1])
@@ -133,6 +146,7 @@ class TemporalFeatureExtractor:
             'n_posts': len(posts_df)
         }
 
+
 def clean_tweet_text(text, remove_emojis=False, remove_mentions=True, remove_urls=True):
     """
     Clean tweet text with robust handling of special characters
@@ -166,7 +180,7 @@ def clean_tweet_text(text, remove_emojis=False, remove_mentions=True, remove_url
     # Remove 'RT' at the beginning (retweet marker)
     text = re.sub(r'^RT\s+', '', text, flags=re.IGNORECASE)
     
-    # Remove &amp; and other HTML entities (just in case they weren't decoded)
+    # Remove &amp; and other HTML entities
     text = re.sub(r'&amp;?', '&', text)
     text = re.sub(r'&lt;', '<', text)
     text = re.sub(r'&gt;', '>', text)
@@ -174,18 +188,17 @@ def clean_tweet_text(text, remove_emojis=False, remove_mentions=True, remove_url
     
     # Remove emojis (optional)
     if remove_emojis:
-        # Remove emoji characters
         emoji_pattern = re.compile(
             "["
-            u"\U0001F600-\U0001F64F"  # emoticons
-            u"\U0001F300-\U0001F5FF"  # symbols & pictographs
-            u"\U0001F680-\U0001F6FF"  # transport & map symbols
-            u"\U0001F1E0-\U0001F1FF"  # flags (iOS)
+            u"\U0001F600-\U0001F64F"
+            u"\U0001F300-\U0001F5FF"
+            u"\U0001F680-\U0001F6FF"
+            u"\U0001F1E0-\U0001F1FF"
             u"\U00002702-\U000027B0"
             u"\U000024C2-\U0001F251"
-            u"\U0001F900-\U0001F9FF"  # Supplemental Symbols and Pictographs
-            u"\U0001FA00-\U0001FA6F"  # Chess Symbols
-            u"\U00002600-\U000026FF"  # Miscellaneous Symbols
+            u"\U0001F900-\U0001F9FF"
+            u"\U0001FA00-\U0001FA6F"
+            u"\U00002600-\U000026FF"
             "]+", 
             flags=re.UNICODE
         )
@@ -198,6 +211,7 @@ def clean_tweet_text(text, remove_emojis=False, remove_mentions=True, remove_url
     text = text.strip().strip('"').strip("'").strip()
     
     return text
+
 
 if __name__ == "__main__":
     # Test feature extractor
@@ -219,6 +233,5 @@ if __name__ == "__main__":
         print(f"   Time series shape: {result['time_series'].shape}")
         print(f"   Expected shape: ({MAX_SEQUENCE_LENGTH}, {FEATURE_DIM})")
         
-        # Check first feature vector
         print(f"\n   First feature vector (first 10 values):")
         print(f"   {result['time_series'][0][:10]}")

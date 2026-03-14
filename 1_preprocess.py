@@ -22,7 +22,7 @@ def main():
     users = loader.load_all_users()
     
     # Filter by post count
-    users = loader.filter_by_post_count(users, min_posts=10, max_posts=None)
+    users = loader.filter_by_post_count(users, min_posts=100, max_posts=None)
     
     if len(users) == 0:
         print("❌ No users found! Check your dataset directory.")

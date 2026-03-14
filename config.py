@@ -37,7 +37,7 @@ CLASS_MAPPING = {
 NUM_CLASSES = len(CLASS_MAPPING)
 
 # Time series parameters
-MAX_SEQUENCE_LENGTH = 100  # Maximum number of posts per user
+MAX_SEQUENCE_LENGTH = 1000  # Maximum number of posts per user
 TEXT_EMBEDDING_DIM = 768   # Sentence transformer output dimension
 TEMPORAL_FEATURES_DIM = 3  # time_gap, hour_of_day, day_of_week
 FEATURE_DIM = TEXT_EMBEDDING_DIM + TEMPORAL_FEATURES_DIM  # 771

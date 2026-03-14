@@ -314,7 +314,7 @@ class DataLoader:
         
         return df
     
-    def filter_by_post_count(self, users, min_posts=10, max_posts=None):
+    def filter_by_post_count(self, users, min_posts=100, max_posts=None):
         """
         Filter users by number of posts
         
@@ -551,7 +551,7 @@ if __name__ == "__main__":
     # Test the data loader
     loader = DataLoader()
     users = loader.load_all_users()
-    users = loader.filter_by_post_count(users, min_posts=10)
+    users = loader.filter_by_post_count(users, min_posts=100)
     
     # Show example
     if len(users) > 0:
